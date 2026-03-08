@@ -1,6 +1,6 @@
 {
-    "name": "ph00lt0 - blocklist",
-    "description": "https://github.com/ph00lt0/blocklist",
+    "name": "CaptainCodeAU - blocklist",
+    "description": "https://github.com/CaptainCodeAU/littlesnitch_blocklist",
     "denied-remote-domains": [
         "0.r.msn.com",
         "000dn.com",
@@ -18408,7 +18408,6 @@
         "sentry.hq.citizenlab.co",
         "sentry.internxt.com",
         "sentry.invoicing.co",
-        "sentry.io",
         "sentry.issuu.com",
         "sentry.justwatch.com",
         "sentry.lbry.tech",

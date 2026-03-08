@@ -2,6 +2,7 @@
 set -e
 
 EXCLUSIONS_FILE="my-exclusions.txt"
+INCLUSIONS_FILE="my-inclusions.txt"
 
 # ─────────────────────────────────────────────
 # 1. RESTORE FORK-SPECIFIC FILES
@@ -77,18 +78,39 @@ rm -f README.md.bak
 echo "README URLs fixed."
 
 # ─────────────────────────────────────────────
-# 2. APPLY DOMAIN EXCLUSIONS
+# 3. FIX LITTLE SNITCH METADATA
+# Updates name and description in .lsrules
+# to point to this fork.
+# ─────────────────────────────────────────────
+
+echo "Fixing Little Snitch metadata..."
+
+python3 - << 'PYEOF'
+import json
+
+with open('little-snitch-blocklist.lsrules', 'r') as f:
+    data = json.load(f)
+
+data['name'] = 'CaptainCodeAU - blocklist'
+data['description'] = 'https://github.com/CaptainCodeAU/littlesnitch_blocklist'
+
+with open('little-snitch-blocklist.lsrules', 'w') as f:
+    json.dump(data, f, indent=4)
+
+print("Little Snitch metadata updated.")
+PYEOF
+
+# ─────────────────────────────────────────────
+# 4. APPLY DOMAIN EXCLUSIONS
 # Strips excluded domains from all blocklist
 # files across all supported formats.
 # ─────────────────────────────────────────────
 
 if [ ! -f "$EXCLUSIONS_FILE" ]; then
   echo "No exclusions file found, skipping."
-  exit 0
-fi
+else
 
 while IFS= read -r domain || [ -n "$domain" ]; do
-  # Skip empty lines and comments
   [[ -z "$domain" || "$domain" == \#* ]] && continue
 
   echo "Removing entries matching: $domain"
@@ -112,25 +134,31 @@ while IFS= read -r domain || [ -n "$domain" ]; do
   sed -i.bak "/^0\.0\.0\.0 ${domain}$/d" pihole-blocklist.txt
   sed -i.bak "/^0\.0\.0\.0 ${domain}$/d" hosts-blocklist.txt
 
-  # little-snitch-blocklist.lsrules — "domain",
-  sed -i.bak "/\"${domain}\",/d" little-snitch-blocklist.lsrules
+  # little-snitch-blocklist.lsrules — via Python (JSON-safe)
+  python3 - << PYEOF
+import json
+with open('little-snitch-blocklist.lsrules', 'r') as f:
+    data = json.load(f)
+domain = "${domain}"
+data['denied-remote-domains'] = [d for d in data.get('denied-remote-domains', []) if d != domain]
+with open('little-snitch-blocklist.lsrules', 'w') as f:
+    json.dump(data, f, indent=4)
+PYEOF
 
   # Clean up .bak files
   rm -f blocklist.txt.bak wildcard-blocklist.txt.bak unbound-blocklist.txt.bak \
         rpz-blocklist.txt.bak domains.txt.bak pihole-blocklist.txt.bak \
-        hosts-blocklist.txt.bak little-snitch-blocklist.lsrules.bak
+        hosts-blocklist.txt.bak
 
 done < "$EXCLUSIONS_FILE"
-
 echo "Done. All exclusions applied."
+fi
 
 # ─────────────────────────────────────────────
-# 3. APPLY SURGICAL INCLUSIONS
+# 5. APPLY SURGICAL INCLUSIONS
 # Removes exact bare domain matches only.
 # Never removes wildcards or subdomains.
 # ─────────────────────────────────────────────
-
-INCLUSIONS_FILE="my-inclusions.txt"
 
 if [ ! -f "$INCLUSIONS_FILE" ]; then
   echo "No inclusions file found, skipping."
@@ -138,7 +166,6 @@ if [ ! -f "$INCLUSIONS_FILE" ]; then
 fi
 
 while IFS= read -r domain || [ -n "$domain" ]; do
-  # Skip empty lines and comments
   [[ -z "$domain" || "$domain" == \#* ]] && continue
 
   echo "Unblocking exact domain: $domain"
@@ -153,19 +180,26 @@ while IFS= read -r domain || [ -n "$domain" ]; do
   sed -i.bak "/^0\.0\.0\.0 ${domain}$/d" pihole-blocklist.txt
   sed -i.bak "/^0\.0\.0\.0 ${domain}$/d" hosts-blocklist.txt
 
-  # little-snitch-blocklist.lsrules — exact "domain", only
-  sed -i.bak "/^        \"${domain}\",$/d" little-snitch-blocklist.lsrules
-
   # unbound-blocklist.txt — exact local-zone: "domain." always_null only
   sed -i.bak "/^local-zone: \"${domain}\.\" always_null$/d" unbound-blocklist.txt
 
   # rpz-blocklist.txt — exact domain CNAME . only
   sed -i.bak "/^${domain} CNAME \.$/d" rpz-blocklist.txt
 
+  # little-snitch-blocklist.lsrules — via Python (JSON-safe, exact match only)
+  python3 - << PYEOF
+import json
+with open('little-snitch-blocklist.lsrules', 'r') as f:
+    data = json.load(f)
+domain = "${domain}"
+data['denied-remote-domains'] = [d for d in data.get('denied-remote-domains', []) if d != domain]
+with open('little-snitch-blocklist.lsrules', 'w') as f:
+    json.dump(data, f, indent=4)
+PYEOF
+
   # Clean up .bak files
   rm -f blocklist.txt.bak domains.txt.bak pihole-blocklist.txt.bak \
-        hosts-blocklist.txt.bak little-snitch-blocklist.lsrules.bak \
-        unbound-blocklist.txt.bak rpz-blocklist.txt.bak
+        hosts-blocklist.txt.bak unbound-blocklist.txt.bak rpz-blocklist.txt.bak
 
 done < "$INCLUSIONS_FILE"
 
