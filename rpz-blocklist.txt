@@ -4876,7 +4876,6 @@ bitban.com CNAME .
 bitbrowser.net CNAME .
 bitcoin-powersupply.com CNAME .
 bitcoinbazis.hu CNAME .
-bitdefender.com CNAME .
 bitdreams.com CNAME .
 bitgravity.com CNAME .
 bitlabon.com CNAME .
