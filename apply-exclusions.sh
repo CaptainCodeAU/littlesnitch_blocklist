@@ -124,3 +124,50 @@ done < "$EXCLUSIONS_FILE"
 
 echo "Done. All exclusions applied."
 
+# ─────────────────────────────────────────────
+# 3. APPLY SURGICAL INCLUSIONS
+# Removes exact bare domain matches only.
+# Never removes wildcards or subdomains.
+# ─────────────────────────────────────────────
+
+INCLUSIONS_FILE="my-inclusions.txt"
+
+if [ ! -f "$INCLUSIONS_FILE" ]; then
+  echo "No inclusions file found, skipping."
+  exit 0
+fi
+
+while IFS= read -r domain || [ -n "$domain" ]; do
+  # Skip empty lines and comments
+  [[ -z "$domain" || "$domain" == \#* ]] && continue
+
+  echo "Unblocking exact domain: $domain"
+
+  # blocklist.txt — exact ||domain^ only
+  sed -i.bak "/^||${domain}\^$/d" blocklist.txt
+
+  # domains.txt — exact domain only
+  sed -i.bak "/^${domain}$/d" domains.txt
+
+  # pihole-blocklist.txt and hosts-blocklist.txt — exact 0.0.0.0 domain only
+  sed -i.bak "/^0\.0\.0\.0 ${domain}$/d" pihole-blocklist.txt
+  sed -i.bak "/^0\.0\.0\.0 ${domain}$/d" hosts-blocklist.txt
+
+  # little-snitch-blocklist.lsrules — exact "domain", only
+  sed -i.bak "/^        \"${domain}\",$/d" little-snitch-blocklist.lsrules
+
+  # unbound-blocklist.txt — exact local-zone: "domain." always_null only
+  sed -i.bak "/^local-zone: \"${domain}\.\" always_null$/d" unbound-blocklist.txt
+
+  # rpz-blocklist.txt — exact domain CNAME . only
+  sed -i.bak "/^${domain} CNAME \.$/d" rpz-blocklist.txt
+
+  # Clean up .bak files
+  rm -f blocklist.txt.bak domains.txt.bak pihole-blocklist.txt.bak \
+        hosts-blocklist.txt.bak little-snitch-blocklist.lsrules.bak \
+        unbound-blocklist.txt.bak rpz-blocklist.txt.bak
+
+done < "$INCLUSIONS_FILE"
+
+echo "Done. All inclusions applied."
+
