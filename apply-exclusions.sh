@@ -3,6 +3,59 @@ set -e
 
 EXCLUSIONS_FILE="my-exclusions.txt"
 
+# ─────────────────────────────────────────────
+# 1. RESTORE FORK-SPECIFIC FILES
+# Ensures HTML install files always point to
+# this repo, not the upstream original.
+# ─────────────────────────────────────────────
+
+echo "Restoring fork-specific HTML files..."
+
+cat > install.html << 'EOF'
+<!DOCTYPE html>
+<html class="js" lang="en-US">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ph00lt0 - blocklist installation</title>
+</head>
+<body>
+    <a target="_blank" href="abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainCodeAU%2Flittlesnitch_blocklist%2Fmaster%2Fblocklist.txt&title=ph00lt0%20-%20blocklist" title="ph00lt0 - blocklist">
+        Click here to install the blocklist
+    </a>, else follow manual instructions
+</body>
+</html>
+EOF
+
+cat > little-snitch-install.html << 'EOF'
+<!DOCTYPE html>
+<html class="js" lang="en-US">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ph00lt0 - blocklist installation for Little Snitch</title>
+    <script>
+        window.location.href="x-littlesnitch:subscribe-rules?url=https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/little-snitch-blocklist.lsrules"
+    </script>
+</head>
+<body>
+<a target="_blank" href="x-littlesnitch:subscribe-rules?url=https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/little-snitch-blocklist.lsrules">
+    Click here to install the blocklist
+</a>, else follow manual instructions
+</body>
+</html>
+EOF
+
+echo "HTML files restored."
+
+# ─────────────────────────────────────────────
+# 2. APPLY DOMAIN EXCLUSIONS
+# Strips excluded domains from all blocklist
+# files across all supported formats.
+# ─────────────────────────────────────────────
+
 if [ ! -f "$EXCLUSIONS_FILE" ]; then
   echo "No exclusions file found, skipping."
   exit 0
