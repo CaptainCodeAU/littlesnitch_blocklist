@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/bl
 
 With the app it's possible to subscribe by link:
 
-1. [Click here](abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainCodeAU%2Flittlesnitch_blocklist%2Fmaster%2Fblocklist.txt&title=ph00lt0%20-%20blocklist) to add the list or follow steps below
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/install.html) to add the list or follow steps below
 2. For the best impact enable the `trusted` checkbox
 3. Click `Subscribe`
 
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/bl
 
 ### Little Snitch
 
-1. [Click here](x-littlesnitch:subscribe-rules?url=https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/little-snitch-blocklist.lsrules) to add the list
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/little-snitch-install.html) to add the list
 2. Allow your browser to open the Little Snitch app when asked
 3. Verify that update frequency is set to `daily` and list is `active`
 4. Press `Add`
@@ -148,7 +148,7 @@ crontab -l | { cat; echo "00 11 * * * /media/littlesnitch-blocklist/updater.sh";
 
 ### uBlock Origin
 
-1. [Click here](abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainCodeAU%2Flittlesnitch_blocklist%2Fmaster%2Fblocklist.txt&title=ph00lt0%20-%20blocklist) to add the list
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/install.html) to add the list
 2. Click the `Subscribe` button
 
 If the click and install doesn't work you can also add the list manually:
@@ -243,7 +243,7 @@ http://1-uabaqaaaqaqaa.max.rethinkdns.com/
 
 #### MobileConfig (Apple Devices)
 
-1. Click [here](https://ph00lt0.github.io/blocklist/rethinkdns.mobileconfig) to download
+1. Click [here](https://captaincodeau.github.io/littlesnitch_blocklist/rethinkdns.mobileconfig) to download
 2. Open the Settings/Preferences app.
 3. Tap Profile Downloaded
 4. Tap Install in the upper-right corner, then follow the onscreen instructions.
