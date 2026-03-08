@@ -1,0 +1,45 @@
+name: Sync upstream and apply exclusions
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 6am UTC
+  workflow_dispatch:       # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config merge.ours.driver true
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/ph00lt0/blocklist.git
+
+      - name: Fetch upstream
+        run: git fetch upstream
+
+      - name: Merge upstream into master
+        run: git merge upstream/master --no-edit
+
+      - name: Apply exclusions and restore fork-specific files
+        run: |
+          chmod +x apply-exclusions.sh
+          ./apply-exclusions.sh
+
+      - name: Commit and push if changed
+        run: |
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: sync upstream $(date '+%Y-%m-%d') + apply exclusions"
+          git push origin master
+
