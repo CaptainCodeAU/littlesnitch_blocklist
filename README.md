@@ -4,21 +4,25 @@ This is a lightly customised fork of the excellent [ph00lt0/blocklist](https://g
 
 ### Why this fork exists
 
-The original blocklist is fantastic — thorough, opinionated, and well maintained. This fork exists for one simple reason: to remove a small number of domains that conflict with legitimate software I use (e.g. Bitdefender), while still benefiting from all the hard work that goes into the original list.
+The original blocklist is fantastic — thorough, opinionated, and well maintained. This fork exists to apply a small number of personalised adjustments on top of it:
+
+- **Exclusions** — domains removed entirely (e.g. Bitdefender, which is legitimate security software)
+- **Inclusions** — exact bare domains unblocked while keeping all their subdomains and trackers blocked (e.g. `sentry.io` — the main website is accessible, but all ingest and tracking subdomains remain blocked)
 
 ### How it stays up to date
 
-A GitHub Action runs weekly, pulls in the latest changes from the original repo, and automatically re-applies the custom exclusions. No manual maintenance needed.
+A GitHub Action runs weekly, pulls in the latest changes from the original repo, and automatically re-applies all exclusions and inclusions. No manual maintenance needed.
 
 ### Key files
 
-- `my-exclusions.txt` — the domains removed from this fork
-- `apply-exclusions.sh` — the script that does the removing
+- `my-exclusions.txt` — domains removed entirely from all blocklist files
+- `my-inclusions.txt` — exact bare domains unblocked while subdomains remain blocked
+- `apply-exclusions.sh` — the script that applies both exclusions and inclusions
 - `.github/workflows/sync-upstream.yml` — the automation that keeps everything in sync
 
 ### Want to do the same?
 
-This fork is both a personal setup and a template others are welcome to adopt. If you want your own customised version of the original blocklist, fork this repo, update `my-exclusions.txt` with your own domains, and the automation will handle the rest.
+This fork is both a personal setup and a template others are welcome to adopt. If you want your own customised version of the original blocklist, fork this repo, update `my-exclusions.txt` and/or `my-inclusions.txt` with your own domains, and the automation will handle the rest.
 
 ### Credits & support
 
