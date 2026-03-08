@@ -51,6 +51,32 @@ EOF
 echo "HTML files restored."
 
 # ─────────────────────────────────────────────
+# 2. FIX README URLS
+# Replaces upstream URLs with fork-specific
+# URLs in README.md after every sync.
+# ─────────────────────────────────────────────
+
+echo "Fixing README URLs..."
+
+# Replace raw githubusercontent URLs
+sed -i.bak 's|https://raw.githubusercontent.com/ph00lt0/blocklist/master/|https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/|g' README.md
+
+# Replace GitHub Pages URLs
+sed -i.bak 's|https://ph00lt0.github.io/blocklist/|https://captaincodeau.github.io/littlesnitch_blocklist/|g' README.md
+
+# Replace abp: protocol links
+sed -i.bak 's|abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fph00lt0%2Fblocklist%2Fmaster%2Fblocklist.txt&title=ph00lt0%20-%20blocklist|https://captaincodeau.github.io/littlesnitch_blocklist/install.html|g' README.md
+
+# Replace x-littlesnitch: protocol links
+sed -i.bak 's|x-littlesnitch:subscribe-rules?url=https://raw.githubusercontent.com/ph00lt0/blocklist/master/little-snitch-blocklist.lsrules|https://captaincodeau.github.io/littlesnitch_blocklist/little-snitch-install.html|g' README.md
+
+# Replace GitHub issue links
+sed -i.bak 's|https://github.com/ph00lt0/blocklist/issues|https://github.com/CaptainCodeAU/littlesnitch_blocklist/issues|g' README.md
+
+rm -f README.md.bak
+echo "README URLs fixed."
+
+# ─────────────────────────────────────────────
 # 2. APPLY DOMAIN EXCLUSIONS
 # Strips excluded domains from all blocklist
 # files across all supported formats.
