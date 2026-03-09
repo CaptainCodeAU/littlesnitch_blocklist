@@ -19867,7 +19867,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||sentry.hq.citizenlab.co^
 ||sentry.internxt.com^
 ||sentry.invoicing.co^
-||sentry.io^
 ||sentry.io^$third-party
 ||sentry.issuu.com^
 ||sentry.justwatch.com^

@@ -18410,7 +18410,6 @@ sentry.hetzner.company
 sentry.hq.citizenlab.co
 sentry.internxt.com
 sentry.invoicing.co
-sentry.io
 sentry.issuu.com
 sentry.justwatch.com
 sentry.lbry.tech

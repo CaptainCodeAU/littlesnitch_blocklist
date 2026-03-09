@@ -18410,7 +18410,6 @@ sentry.hetzner.company CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.internxt.com CNAME .
 sentry.invoicing.co CNAME .
-sentry.io CNAME .
 sentry.issuu.com CNAME .
 sentry.justwatch.com CNAME .
 sentry.lbry.tech CNAME .

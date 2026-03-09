@@ -18410,7 +18410,6 @@ local-zone: "sentry.hetzner.company." always_null
 local-zone: "sentry.hq.citizenlab.co." always_null
 local-zone: "sentry.internxt.com." always_null
 local-zone: "sentry.invoicing.co." always_null
-local-zone: "sentry.io." always_null
 local-zone: "sentry.issuu.com." always_null
 local-zone: "sentry.justwatch.com." always_null
 local-zone: "sentry.lbry.tech." always_null

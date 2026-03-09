@@ -18410,7 +18410,6 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
-0.0.0.0 sentry.io
 0.0.0.0 sentry.issuu.com
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.lbry.tech
