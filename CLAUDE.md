@@ -1,0 +1,1 @@
+When running Python directly from the command line (e.g. `python3 -c "..."` or `python3 script.py`), use `uv run python3` instead. This does NOT apply to `python3` invocations inside bash scripts — those work as-is.

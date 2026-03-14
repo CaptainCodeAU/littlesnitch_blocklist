@@ -6,8 +6,9 @@ This is a lightly customised fork of the excellent [ph00lt0/blocklist](https://g
 
 The original blocklist is fantastic — thorough, opinionated, and well maintained. This fork exists to apply a small number of personalised adjustments on top of it:
 
-- **Exclusions** — domains removed entirely (e.g. Bitdefender, which is legitimate security software)
+- **Exclusions** — parent domains removed entirely so specific subdomains can be allowed (e.g. `aliexpress.com` removed so `www.aliexpress.com` works, while tracker subdomains stay blocked)
 - **Inclusions** — exact bare domains unblocked while keeping all their subdomains and trackers blocked (e.g. `sentry.io` — the main website is accessible, but all ingest and tracking subdomains remain blocked)
+- **Additions** — domains force-added to all blocklist formats, ensuring they stay blocked even if upstream removes them (e.g. tracker subdomains re-blocked after a parent exclusion)
 
 ### How it stays up to date
 
@@ -15,9 +16,10 @@ A GitHub Action runs weekly, pulls in the latest changes from the original repo,
 
 ### Key files
 
-- `my-exclusions.txt` — domains removed entirely from all blocklist files
+- `my-exclusions.txt` — parent domains removed entirely from all blocklist files
 - `my-inclusions.txt` — exact bare domains unblocked while subdomains remain blocked
-- `apply-exclusions.sh` — the script that applies both exclusions and inclusions
+- `my-additions.txt` — domains force-added to all blocklist formats
+- `apply-exclusions.sh` — the script that applies exclusions, inclusions, and additions
 - `.github/workflows/sync-upstream.yml` — the automation that keeps everything in sync
 
 ### Want to do the same?
