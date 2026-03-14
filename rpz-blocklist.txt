@@ -21957,7 +21957,6 @@ wootric.com CNAME .
 wootric.com.herokudns.com CNAME .
 wordstream.com CNAME .
 workarea.com CNAME .
-workers.dev CNAME .
 workingatcompanyinfo.nl CNAME .
 worldaccelerator.com CNAME .
 worldchasetag.com CNAME .

@@ -21957,7 +21957,6 @@ local-zone: "wootric.com." always_null
 local-zone: "wootric.com.herokudns.com." always_null
 local-zone: "wordstream.com." always_null
 local-zone: "workarea.com." always_null
-local-zone: "workers.dev." always_null
 local-zone: "workingatcompanyinfo.nl." always_null
 local-zone: "worldaccelerator.com." always_null
 local-zone: "worldchasetag.com." always_null

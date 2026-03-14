@@ -23536,7 +23536,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||workable.com^$third-party
 ||workarea.com^
 ||workdrive.zoho.eu^$badfilter  # Zoho Product
-||workers.dev^
 ||workingatcompanyinfo.nl^
 ||worklife.io^$removeparam=of_m
 ||worldaccelerator.com^
