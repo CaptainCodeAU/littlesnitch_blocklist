@@ -1,36 +1,24 @@
-! Title: ph00lt0 - Blocklist
-! Expires: 1 day
-! Issue tracker: https://github.com/ph00lt0/blocklist
-! Homepage: https://github.com/ph00lt0/blocklist
-! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
-###BorlabsCookieBox
-###CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll
-###CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection
-###__framer-cookie-component-button-accept
-###consent-container
-###cookieConsentModal
-###didomi-host
-###didomi-notice-agree-button
-###moove_gdpr_cookie_info_bar
-###onetrust-accept-btn-handler
-###transcend-consent-manager-tcf-ui
-###wt-cli-accept-all-btn
-##.CybotCookiebotDialogActive
-##.accept-cookies
-##.brlbs-btn-accept-all
-##.c-consent-bar
-##.cookie-notice
-##.cookie-notification
-##.iziModal-overlay
-##.js-cookie-accept-all-button
-##[data-campaign]
-##[data-cookie-consent-accept-all-btn]
-##[data-cookiefirst-action="accept"]
-##[data-cy="accept-cookie"]
-##[data-gtm-action="click_cookiebar_accept"]
-##[value="Accept all cookies"]
-##[value="Accepteer alle cookies"]
+! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+! Expires: 1 day
+! Homepage: https://github.com/ph00lt0/blocklist
+! Issue tracker: https://github.com/ph00lt0/blocklist
+! Title: ph00lt0 - Blocklist
+@@^js.stripe.com/v*/fingerprinted/js/*^ # Required for stripe to load
+@@||1e100.net^ # Google Server Discovery
+@@||awsstatic.com^ # AWS
+@@||biorxiv.org^
+@@||c02.purpledshub.com^$image # allow images on skyatnightmagazine
+@@||cdn.cookielaw.org^$domain=id.trimble.com  # unbreak trimble
+@@||cdn.cookielaw.org^$domain=videoland.com # unbreak videoland
+@@||cdns.eu1.gigya.com^$xhr,domain=videoland.com # unbreak videoland
+@@||fonts.googleapis.com^$domain=google.com
+@@||fonts.gstatic.com^$badfilter  # to many broken websites without icons$font,domain=gmail.com
+@@||fonts.gstatic.com^$badfilter  # to many broken websites without icons$font,domain=google.com
+@@||i.pinimg.com^$domain=pinterest.com
+@@||s.pinimg.com^$domain=pinterest.com
+@@||socialize.eu1.gigya.com^$xhr,domain=videoland.com # unbreak videoland
+@@||streetviewpixels-pa.googleapis.com^$domain=google.com  # Exception for streetview on google.com
 *$permissions=browsing-topics=()
 *$removeparam=aclk
 *$removeparam=adcid
@@ -106,12 +94,10 @@
 *$removeparam=refid
 *$removeparam=sc_cmp
 *$removeparam=subId1
-*$removeparam=subid1
 *$removeparam=tracking_id
 *$removeparam=trk
 *$removeparam=twclkd
 *$removeparam=uclick_id
-*$removeparam=utm-source
 *$removeparam=utm_campaign
 *$removeparam=utm_channel
 *$removeparam=utm_cid
@@ -130,25 +116,36 @@
 *$removeparam=utm_source
 *$removeparam=utm_term
 *$removeparam=utm_v
+*$removeparam=utm-source
 *$removeparam=wtrint
-4als.nl##body:style(overflow: auto!important)
-7sur7.be###pg-accept-btn
-7sur7.be###stack-accept-all
-@@^js.stripe.com/v*/fingerprinted/js/*^ # Required for stripe to load
-@@||1e100.net^ # Google Server Discovery
-@@||awsstatic.com^ # AWS
-@@||biorxiv.org^
-@@||c02.purpledshub.com^$image # allow images on skyatnightmagazine
-@@||cdn.cookielaw.org^$domain=id.trimble.com  # unbreak trimble
-@@||cdn.cookielaw.org^$domain=videoland.com # unbreak videoland
-@@||cdns.eu1.gigya.com^$xhr,domain=videoland.com # unbreak videoland
-@@||fonts.googleapis.com^$domain=google.com
-@@||fonts.gstatic.com^$badfilter  # to many broken websites without icons$font,domain=gmail.com
-@@||fonts.gstatic.com^$badfilter  # to many broken websites without icons$font,domain=google.com
-@@||i.pinimg.com^$domain=pinterest.com
-@@||s.pinimg.com^$domain=pinterest.com
-@@||socialize.eu1.gigya.com^$xhr,domain=videoland.com # unbreak videoland
-@@||streetviewpixels-pa.googleapis.com^$domain=google.com  # Exception for streetview on google.com
+##.accept-cookies
+##.brlbs-btn-accept-all
+##.c-consent-bar
+##.cookie-notice
+##.cookie-notification
+##.CybotCookiebotDialogActive
+##.iziModal-overlay
+##.js-cookie-accept-all-button
+##[data-campaign]
+##[data-cookie-consent-accept-all-btn]
+##[data-cookiefirst-action="accept"]
+##[data-cy="accept-cookie"]
+##[data-gtm-action="click_cookiebar_accept"]
+##[value="Accept all cookies"]
+##[value="Accepteer alle cookies"]
+###__framer-cookie-component-button-accept
+###BorlabsCookieBox
+###consent-container
+###cookieConsentModal
+###CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll
+###CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection
+###didomi-host
+###didomi-notice-agree-button
+###moove_gdpr_cookie_info_bar
+###onetrust-accept-btn-handler
+###transcend-consent-manager-tcf-ui
+###wt-cli-accept-all-btn
+^.ghost/analytics^
 ^*/ads*.js^
 ^*/akam/*^
 ^*/analytics*.js^
@@ -165,12 +162,6 @@
 ^*/web-pixels@*^
 ^*webtrekk_v*.js^
 ^/Xsarus/xsa-dlk/*/js/lib/logger^
-^AppMeasurement.min.js^
-^Master_AOL.js^
-^Xsarus/xsa-dlk/*/Xsarus_Cookie/js/*.js^
-^Xsarus/xsa-dlk/*/js-cookie/cookie-wrapper*js^
-^Xsarus/xsa-dlk/*/js/lib/logger^
-^Xsarus_ClickCollect/*.js^
 ^activitymonitor.js^
 ^adHoc.min.js^
 ^adobe-analytics-loader.js^
@@ -182,6 +173,7 @@
 ^analytics.js^
 ^antifinger.*.js^
 ^api/site/analytics^
+^AppMeasurement.min.js^
 ^autotrack.js^
 ^banner-tagging.min.js^
 ^bazaarVoice.js^
@@ -191,8 +183,8 @@
 ^consent-tracking-api.js^
 ^cookie-message-AllBrands.min.js^
 ^cookieBanner.AOL.js^
-^cookieBar.js^
 ^cookiebanner.js^
+^cookieBar.js^
 ^cookieconsent-onetrust-js.js^
 ^cookieconsent.min.js^
 ^coveo*.js^
@@ -214,10 +206,10 @@
 ^fpdata.js^
 ^gh_show_ads.js^
 ^goals.*.min.js^
+^google_tag.script.js^
 ^google-analytics-universal-cart.min.js^
 ^google-analytics-universal.min.js^
 ^google-tag-manager-cart.min.js^
-^google_tag.script.js^
 ^gtag.js^
 ^gtm.*.js^
 ^gtm.js^
@@ -228,11 +220,12 @@
 ^kakao.min.js^
 ^keepalive.min.js^
 ^loadbee_integration.js^
-^log4javascript.js^
 ^log_activity^
 ^log_event^
+^log4javascript.js^
 ^logger.min.js^
 ^lsget.html^
+^Master_AOL.js^
 ^matomo.js^
 ^megaMenuWidget.js^
 ^metaTag.min.js^
@@ -244,6 +237,7 @@
 ^ostro.js^
 ^ot-optanon.js^
 ^otBannerSdk.js^
+^page_hit^
 ^pageview.js^
 ^piano-*.js^
 ^piwik-*.js^
@@ -287,441 +281,10 @@
 ^web-pixel-shopify-app-pixel@*/sandbox/worker.modern.js^
 ^webBehaviorTracking.min.js^
 ^webtrekk.js^
-about.facebook.com##+js(rc, _31e, div, stay)
-about.facebook.com##+js(rc, hasCookieBanner, body, stay)
-actie.hetvergetenkind.nl##body:style(overflow: auto!important)
-actie.thepollinators.org###kentaa_consent_modal
-actie.thepollinators.org##+js(rc, modal-open, body, stay)
-actie.thepollinators.org##.modal-backdrop
-acties.lymph-co.com###kentaa_consent_modal
-acties.lymph-co.com##+js(rc, modal-open, body, stay)
-acties.lymph-co.com##.modal-backdrop
-actievoorrodekruisijsselland.nl##body:style(overflow: auto!important)
-ad.nl###pg-accept-btn
-ad.nl###stack-accept-all
-ad.nl^$removeparam=referrer
-allegro.pl###opbox-gdpr-consents-modal
-allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m389_6m.mpof_ki
-allegro.pl##[data-role="accept-consent"]
-allegro.pl##[data-role='accept-consent']
-alsacties.be##body:style(overflow: auto!important)
-alssunrisewalk.nl##body:style(overflow: auto!important)
-amsterdamcityswim.nl###kentaa_consent_modal
-amsterdamcityswim.nl##+js(rc, modal-open, body, stay)
-amsterdamcityswim.nl##.modal-backdrop
-annual-report-triodos.com##.cookie-bar
-app.nlziet.nl###onetrust-accept-btn-handler
-appletoolbox.com###ez-cookie-dialog
-appletoolbox.com###ez-cookie-dialog-wrapper
-armemberplugin.com##+js(rc, cp-custom-viewport, html, stay)
-armemberplugin.com##+js(rc, cp-exceed-viewport, html, stay)
-armemberplugin.com##+js(rc, cp-overflow-hidden, html, stay)
-armemberplugin.com##.social-share-icons-list
-armemberplugin.com##body:style(overflow: auto!important)
-asml.com##.cookie-consent-message
-asml.com##.is-open.cookie-consent-message
-autoblog.nl##.ndm-min-big
-autoblog.nl##.ndm-min-normal
-autoweek.nl###pg-accept-btn
-autoweek.nl###stack-accept-all
-autoweek.nl^$removeparam=referrer
-aviasales.ru^$removeparam=marker
-aviasales.ru^$removeparam=source
-azl.eu##.c-consent-bar
-bd.nl###pg-accept-btn
-bd.nl###stack-accept-all
-bd.nl^$removeparam=referrer
-belsimpel.nl##.CookieBannerstyle__StyledCookieBanner-sc-1kw94k2-0
-beterbed.nl##.overlay
-beterbed.nl##.popup
-beterbed.nl##body:style(overflow: auto!important)
-bever.nl##body:style(overflow: auto!important)
-bicycling.nl##.ad
-bing.com##.bnp_btn_accept
-blog.tivo.com##.sg-popup-content
-blog.tivo.com##.sgpb-popup-overlay
-blog.tivo.com##.sidebar
-bluespahaamstede.nl###newsletter
-bluewellness.nl###cookie-consent
-bndestem.nl###pg-accept-btn
-bndestem.nl###stack-accept-all
-bndestem.nl^$removeparam=referrer
-bol.com###js-first-screen-accept-all-button
-bol.com##.smartbanner
-bol.com##wsp-modal-window
-bright.nl##.ad
-bunq.me###cookieConsentAccept
-bunq.me##.fixed
-cardiologiecentra.nl##.cookie-consent-background
-cardiologiecentra.nl##body:style(overflow: auto!important)
-cbsnews.com##.ketch-fixed
-college.vtwonen.nl###pg-accept-btn
-college.vtwonen.nl###stack-accept-all
-college.vtwonen.nl^$removeparam=referrer
-community.cloudflare.com##.interstitial-alert-modal
-community.cloudflare.com##.modal-backdrop
-computable.nl##.ce-banner
-computable.nl##.footNB
-consent.google.*##.saveButtonContainer > form:nth-of-type(2) > .searchButton.button.basebutton
-consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .button.basebutton
-crisp.nl###consent-ok
-crisp.nl###consents-modal
-danskebank.dk##.cookie-consent-banner-modal
-darktrace.com###cookie-notice-ct
-debijenkorf.nl##.toast--show.toast
-desk.zoho.com##.micsTop
-desk.zoho.eu##.micsTop
-desk.zoho.in##.micsTop
-destentor.nl###pg-accept-btn
-destentor.nl###stack-accept-all
-destentor.nl^$removeparam=referrer
-die-raiffeisenbank.de###lightbox--cookie-consent
-die-raiffeisenbank.de##+js(rc, cookie-consent-is-active, body, stay)
-die-raiffeisenbank.de##+js(rc, no-scroll, body, stay)
-die-raiffeisenbank.de##+js(rc, no-scroll, html, stay)
-die-raiffeisenbank.de##.open.darken-layer
-dille-kamille.nl##+js(rc, gtm-impression, a, stay)
-dille-kamille.nl##+js(rc, gtm-impression, button, stay)
-doneren.maggiescenters.nl##body:style(overflow: auto!important)
-dossards-solidaires.org###kookies_bar_0
-dossards-solidaires.org##.modal-backdrop
-dossards-solidaires.org##body:style(overflow: auto!important)
-dpgmedia.be###pg-accept-btn
-dpgmedia.be###stack-accept-all
-dpgmedia.nl###pg-accept-btn
-dpgmedia.nl###stack-accept-all
-dpgmediagroup.com###pg-accept-btn
-dpgmediagroup.com###stack-accept-all
-dpgmediagroup.net###pg-accept-btn
-dpgmediagroup.net###stack-accept-all
-dsw.nl##.chatbot-div
-dsw.nl##.feedback-button
-duckduckgo.com##+js(set-cookie, 1, -1)
-duckduckgo.com##+js(set-cookie, ak, -1)
-duckduckgo.com##+js(set-cookie, ao, -1)
-duckduckgo.com##+js(set-cookie, ap, -1)
-duckduckgo.com##+js(set-cookie, aq, -1)
-duckduckgo.com##+js(set-cookie, au, -1)
-duckduckgo.com##+js(set-cookie, ax, -1)
-duckduckgo.com##+js(set-cookie, n, -1)
-duckduckgo.com##.O9Ipab51rBntYb0pwOQn
-duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
-duckduckgo.com##.feedback-prompt
-duckduckgo.com##.footer
-duckduckgo.com##.homepage-cta-section_scrollCta__HuSCL
-duckduckgo.com##.js-feedback-btn-wrap
-duckduckgo.com##.mobile-homepage_atbBadge__wquuL
-duckduckgo.com##.showcase
-duckduckgo.com##.tagline_tagline__xryVo
-duckduckgo.com##[data-testid="serp-popover-promo"]
-ed.nl###pg-accept-btn
-ed.nl###stack-accept-all
-estunt.nl##+js(aopr, document.title)
-facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
-facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
-fd.nl##.fd-message
-ffm.to##.bg-overlay
-ffm.to##.privacy-notice-gdpr
-flevoziekenhuis.nl##.consent-cookiebar
-fluister.nl###pg-accept-btn
-fluister.nl###stack-accept-all
-framer.com##.framer-c16euh-container
-framer.com##[data-projection-id]
-funda.nl##[role="complementary"]
-geeksforgeeks.org##.textBasedMannualAds
-gelderlander.nl###pg-accept-btn
-gelderlander.nl###stack-accept-all
-gelderlander.nl^$removeparam=referrer
-gelukinbewegingchallenge.nl##body:style(overflow: auto!important)
-glassdoor.*##.hardsellOverlay
-glassdoor.*##body:style(overflow: auto!important)
-google.com###L2AGLb > .sy4vM.QS5gu
-hackernoon.com##.ads
-handleidingstart.nl###adblock-popup-overlay
-handleidingstart.nl##[class^="adblock-active"]
-happysocks.com##+js(rc, disabled, header, stay)
-happysocks.com##+js(rc, lock-scroll, body, stay)
-happysocks.com##.cookies-consent-banner
-hardloop.com##+js(rc, didomi-popup-open, body, stay)
-hardlopen.nl##.tdecc-content
-hln.be###pg-accept-btn
-hln.be###stack-accept-all
-hypotheek.nl###accepteerknop
-hypotheek.nl###cookielaw_idf_overlay
-id.nl##.block.w-full.fixed
-id.nl##body:style(overflow: auto!important)
-ikazia.nl##.cookiemessage
-inactievoorerasmusmc.nl###kentaa_consent_modal
-inactievoorerasmusmc.nl##+js(rc, modal-open, body, stay)
-inactievoorerasmusmc.nl##.modal-backdrop
-inactievoormakeawish.be##body:style(overflow: auto!important)
-inactievooropkikker.nl###kookies_bar_0
-inactievooropkikker.nl##.modal-backdrop
-inactievooropkikker.nl##body:style(overflow: auto!important)
-inet.se##.c1c4t0vi
-ing.nl##.cookie-description
-ing.nl##[name="cookiePreference"][label="Compleet"]
-ing.nl##[name="cookiePreference"][label="Persoonlijk"]
-instagram.com##._56bt._a6gi._56bs._52jh._54k8
-instagram.com##.bIiDR.aOOlW
-instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
-instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
-itscope.com##body:style(overflow: auto!important)
-joe.nl###pg-accept-btn
-joe.nl###stack-accept-all
-joe.nl^$removeparam=referrer
-kadasterdata.nl##body:style(overflow: auto!important)
-kea.dk##+js(cookie-remover, 0d2b9156bb9df317bfd2c64116af6a33)
-kentaa.nl###kentaa_consent_modal
-kentaa.nl##+js(rc, modal-open, body, stay)
-kentaa.nl##.modal-backdrop
-learn.microsoft.com###cookie-consent-holder
-lesensduneviefondationdefrance.org##body:style(overflow: auto!important)
-libelle.nl###pg-accept-btn
-libelle.nl###stack-accept-all
-libelle.nl^$removeparam=referrer
-lidl.nl##.n-navigation__overlay-area
-lifewire.com###onetrust-consent-sdk
-linkedin.com###compactfooter-advertising
-linkedin.com##.base-promo
-linkedin.com##.feed-shared-promo
-linkedin.com##.omnibanner
-linkedin.com##.update-components-survey
-linkedin.com##span:has-text(Promoted):upward(11)
-linkedin.com##span:has-text(Promoted):upward(6)
-login.asr.nl##.asr-cookie-message
-marathon-paris.dossards-solidaires.org###kookies_bar_0
-marathon-paris.dossards-solidaires.org##.modal-backdrop
-marathon-paris.dossards-solidaires.org##body:style(overflow: auto!important)
-margriet.nl###pg-accept-btn
-margriet.nl###stack-accept-all
-margriet.nl^$removeparam=referrer
-markedsforing.dk##.acf-block--a-d-form
-markedsforing.dk##.adform
-mdxsu.com###marketing-partners
-mediamarkt.nl##.disUrd
-mediamarkt.nl##[data-test="mms-search-consent-section"]
-menshealth.nl##.ad
-merkur.dk##body:style(overflow: auto!important)
-mijn.ditzozorg.nl##.mijn-cookie-consent
-mijn.dsw.nl##.mijn-cookie-consent
-mijn.dsw.nl##mijn-feedback
-mijn.intwente.nl##.mijn-cookie-consent
-mijn.intwente.nl##mijn-feedback
-mijn.stadholland.nl##.mijn-cookie-consent
-mijn.stadholland.nl##mijn-feedback
-moneymonk.nl##+js(rc, inset-0, div, stay)
-moneymonk.nl##.-sm:items-end.-sm:justify-start.items-center.justify-center.inset-4.fixed.flex
-moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
-movir.nl##[inert]:remove-attr(inert)
-mrmarvis.com##.z-cookieBanner
-mumc.nl##.region-cookie-bar
-museum.nl##.backdrop
-museum.nl##.cookie-banner
-museum.nl##body:style(overflow: auto!important)
-mvdwfoundation.nl###kentaa_consent_modal
-mvdwfoundation.nl##+js(rc, modal-open, body, stay)
-mvdwfoundation.nl##.modal-backdrop
-mycommunitydefib.co.uk###kentaa_consent_modal
-mycommunitydefib.co.uk##+js(rc, modal-open, body, stay)
-mycommunitydefib.co.uk##.modal-backdrop
-mykeyport.com##.loader
-nachtvandevluchteling.nl###kentaa_consent_modal
-nachtvandevluchteling.nl##+js(rc, modal-open, body, stay)
-nachtvandevluchteling.nl##.modal-backdrop
-nl.schipholtickets.com##.Overlay_overlay__3_p4L
-nos.nl###ccm_notification_wrapper
-nos.nl##+js(cookie-remover, _ain_cid)
-nos.nl##+js(cookie-remover, _ain_uid)
-nos.nl##+js(cookie-remover, atidvisitor)
-nos.nl##+js(cookie-remover, atuserid)
-nos.nl##+js(cookie-remover, kantar_id)
-npo.nl##ccm-notification
-npostart.nl##.click-away
-npostart.nl##.option-one.ticket-banner
-nrc.nl##.emailwall--emailwall.emailwall
-nt2.nl##.newsletter-popup-wrapper
-nu.nl###pg-accept-btn
-nu.nl###stack-accept-all
-nu.nl^$removeparam=referrer
-nuget.org###cookie-banner
-numberpeople.co.uk###lhc_needhelp_widget_v2
-numberpeople.co.uk###lhc_status_widget_v2
-nytimes.com###\3pCheckIframeId
-nytimes.com###complianceOverlay
-nytimes.com###credential_picker_iframe
-nytimes.com###dock-container
-nytimes.com###fides-overlay
-nytimes.com###google-one-tap-container
-nytimes.com###user-modal-drawer
-nytimes.com##.ReactModalPortal
-nytimes.com##.ReactModal__Body--open:remove()
-nytimes.com##.e1xxpj0j1
-nytimes.com##.fides-overlay
-nytimes.com##.fides-overlay-modal-link-shown:remove()
-nytimes.com##.isPersonalizedAddOn
-nytimes.com##.qJTHM:remove()
-nytimes.com##[data-testid="StandardAd"]
-nytimes.com##[name="__tcfapiLocator"]
-nytimes.com##[title="Sign in with Google Dialogue"]
-nytimes.com##body:style(overflow: auto!important)
-oebb.at##.consent-banner
-ohra.nl##+js(rc, no-overflow-y, body, stay)
-ohra.nl##kpcf-cookie-toestemming
-omroepzeeland.nl###consent-plugin
-omroepzeeland.nl##.promobox
-omroepzeeland.nl##.promobox-container
-ondernemersbelang.nl###cookies
-only.com##.overlay-backdrop
-onvz.nl###ost-btn-accept-all-cookies
-onvz.nl##.a-btn--chat
-onvz.nl##.usabilla__overlay
-onvz.nl##html:style(overflow: auto!important)
-oogfonds-walk-en-ride.nl###kookies_bar_0
-oogfonds-walk-en-ride.nl##.modal-backdrop
-oogfonds-walk-en-ride.nl##body:style(overflow: auto!important)
-opencode.de##.CookieBanner_banner__F91Z0
-opener.pl##.cookies
-oudersvannu.nl###pg-accept-btn
-oudersvannu.nl###stack-accept-all
-oudersvannu.nl^$removeparam=referrer
-ovh.com##+js(rc, manager-cookie-policy-banner-backdrop, div, stay)
-ovh.com##+js(rc, modal-backdrop, div, stay)
-paris.montriathlondesroses.fr###kookies_bar_0
-paris.montriathlondesroses.fr##.modal-backdrop
-paris.montriathlondesroses.fr##body:style(overflow: auto!important)
-peerj.com###download-article-modal
-peerj.com##.in.fade.modal-backdrop
-pim.app##+js(rc, cli-barmodal-open, body, stay)
-pim.app##body:style(overflow: auto!important)
-plein.nl##+js(rc, modal-open, body, stay)
-plein.nl##.plein-cookie-modal
-plein.nl##.plein-modal-backdrop
-plein.nl##body:style(overflow: auto!important)
-podimo.com##.cookie
-postnl.nl##.pci-cookie-button-inner .pci-button--primary
-privacyguides.net###announcement-bar-root
-privacyguides.org###announcement-bar-root
-privacyguides.org##[data-md-component="announce"]
-puzzelfit.be###pg-accept-btn
-puzzelfit.be###stack-accept-all
-pzc.nl###pg-accept-btn
-pzc.nl###stack-accept-all
-pzc.nl^$removeparam=referrer
-qmusic.be###pg-accept-btn
-qmusic.be###stack-accept-all
-qmusic.nl###pg-accept-btn
-qmusic.nl###stack-accept-all
-qmusic.nl^$removeparam=referrer
-readingsu.co.uk##.carousel
-reclamefolder.nl###pg-accept-btn
-reclamefolder.nl###stack-accept-all
-reclamefolder.nl^$removeparam=referrer
-remarkable.com##.ark-button--primary-neutral
-revolut.com###DndLiveRegion-0
-rieder-zillertal.at##+js(rc, dp--cookie-consent, body, stay)
-rocyclestudios.com###cookie-consent
-roparun.nl###kentaa_consent_modal
-roparun.nl##+js(rc, modal-open, body, stay)
-roparun.nl##.modal-backdrop
-ru.nl##.agree-button
-ru.nl##.eu-cookie-compliance-banner
-runners.nl##.ad
-saturn.de###mms-consent-portal-container
-sbnl-natuuromdehoek.nl###kentaa_consent_modal
-sbnl-natuuromdehoek.nl##+js(rc, modal-open, body, stay)
-sbnl-natuuromdehoek.nl##.modal-backdrop
-scholieren.com##.XBFUqF
-scholieren.com##.klikurl
-scientias.nl##.ndm-desktop-only
-scientias.nl##.ndm-mobile-only
-security.nl##.banner_leaderboard
-shop.app^$removeparam=locale
-shop.app^$removeparam=tracking_unique
-shop.app^$removeparam=tracking_visit
-shop.app^$removeparam=ur_verify
-siliconcanals.com##.ai-track
-siliconcanals.com##.brave_popup--popup.brave_popup
-spendenaktion.drk.de##body:style(overflow: auto!important)
-stackoverflow.com##.js-consent-banner
-startpage.com###marketing-tag-container
-startpage.com##.layout-web__feedback-button-container--desktop
-sterkensportief.nl###kentaa_consent_modal
-sterkensportief.nl##+js(rc, modal-open, body, stay)
-sterkensportief.nl##.modal-backdrop
-sterktegenms.nl###kentaa_consent_modal
-sterktegenms.nl##+js(rc, modal-open, body, stay)
-sterktegenms.nl##.modal-backdrop
-story.nl###pg-accept-btn
-story.nl###stack-accept-all
-story.nl^$removeparam=referrer
-su.rhul.ac.uk##.advert
-team.blue##+js(rc, html-with-one-modal, html, stay)
-tele2.nl##.show.cookie.fade.modal
-telegraaf.nl##.AdBlockPopUp__wrapper
-thepollinators.org###newsletter-modal
-theverge.com###privacy-consent
-theverge.com##.m-privacy-consent
-tijdschrift.nl###pg-accept-btn
-tijdschrift.nl###stack-accept-all
-tijdschrift.nl^$removeparam=referrer
-transip.eu##+js(rc, consent-popup--no-scroll, body, stay)
-transip.eu##+js(rc, html-with-one-modal, html, stay)
-triodos-im.com##.cookie-bar
-triodos.be##.cookie-bar
-triodos.co.uk##.cookie-bar
-triodos.com##.cookie-bar
-triodos.de##.cookie-bar
-triodos.es##.cookie-bar
-triodos.fr##.cookie-bar
-triodos.nl##.cookie-bar
-triodosfoundation.nl##.cookie-bar
-tubantia.nl###pg-accept-btn
-tubantia.nl###stack-accept-all
-tubantia.nl^$removeparam=referrer
-tweakers.net###pg-accept-btn
-tweakers.net###stack-accept-all
-umcg.nl##.cookie-notice-advanced
-umcutrecht.nl##.cookie-consent-modal__acceptButton
-valk.com###valk-nx-cookie-manager
-valk.com##valk-nx-cookie-manager
-vbo.nl###cookiewall
-vbo.nl##body:style(overflow: auto!important)
-veronicasuperguide.nl###pg-accept-btn
-veronicasuperguide.nl###stack-accept-all
-veronicasuperguide.nl^$removeparam=referrer
-vliegtickets.nl##[class^="CookieBanner"]
-vliegtickets.nl##[class^="Overlay_overlay__"]
-voetbalnieuws.nl##.ad
-voorplan.nl##body:style(overflow: auto!important)
-vtm.be###pg-accept-btn
-vtm.be###stack-accept-all
-vtmgo.be###pg-accept-btn
-vtmgo.be###stack-accept-all
-vtwonen.nl###pg-accept-btn
-vtwonen.nl###stack-accept-all
-vtwonen.nl^$removeparam=referrer
-werkenbijavl.nl##.OrangeCookie
-wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
-wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button
-whatsapp.com##+js(rc, hasCookieBanner, body, stay)
-whatsapp.com##body:style(overflow: auto!important)
-womenshealthmag.nl##.ad
-wordpress.com##.cookie-banner
-wp.pl###AdArea
-wp.pl##.fdy68g6
-wp.pl##.ld04qn9
-yeeuu.com##+js(rc, modal-open, body, stay)
-yeeuu.com##+js(rc, modal-open, html, stay)
-youcanbook.me##[data-testid="cookie-consent"]
-youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog ytd-button-renderer.size-default.style-primary.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
-zekur.nl##.app_cookie
-zekur.nl##.tmcookienotice
-zekur.nl##body:style(overflow: auto!important)
-zendis.de###cc-main
-zgt.nl##.cookie-wrapper
-ziekenhuischeck.nl##.toaster
-ziekenhuischeck.nl##.toaster-overlay
+^Xsarus_ClickCollect/*.js^
+^Xsarus/xsa-dlk/*/js-cookie/cookie-wrapper*js^
+^Xsarus/xsa-dlk/*/js/lib/logger^
+^Xsarus/xsa-dlk/*/Xsarus_Cookie/js/*.js^
 ||*-gdprlock^
 ||*-pa.googleapis.com^$third-party
 ||*.fritz.box^ # block dns leaks caused by AVMs DCHP config
@@ -1192,11 +755,13 @@ ziekenhuischeck.nl##.toaster-overlay
 ||265.com^
 ||268mob.cn^
 ||26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com^
+||26qxvo.tdum.alibaba.com^
 ||26zsd.cn^
 ||270degrees.io^
 ||272xb.com^
 ||27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com^
 ||27qfj.x.incapdns.net^
+||28345.ase.aidcgroup.net^
 ||287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com^
 ||28acglz.com^
 ||29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com^
@@ -2323,7 +1888,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||acwm.biz^
 ||acxiom-online.com^
 ||acxiom.com^
-||ad*.adfarm*.adition.com^
 ||ad-alliance.de^
 ||ad-analytics.xyz^
 ||ad-arrow.com^
@@ -2443,6 +2007,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||ad.yieldlab.net^
 ||ad.yixin.im^
 ||ad.zhangyue.com^
+||ad*.adfarm*.adition.com^
 ||ad1.xiaomi.com^
 ||ad11.adfarm1.adition.com^
 ||ad1x.com^
@@ -2764,8 +2329,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||adobe-dns-3.adobe.com^
 ||adobe-dns.adobe.com^
 ||adobe.com.edgesuite.net^$badfilter  # not a tracker
-||adobe.com^$badfilter  # Not just tracking company
 ||adobe.com^$badfilter  # not a tracker
+||adobe.com^$badfilter  # Not just tracking company
 ||adobe.io^$badfilter  # rdc.adobe.io is used for download of software
 ||adobe.net^
 ||adobe.tt.omtrdc.net^
@@ -3733,11 +3298,10 @@ ziekenhuischeck.nl##.toaster-overlay
 ||algonomy.com^
 ||algorecs.com^
 ||aliabdaal.ck.page^
+||alibaba-inc.com^
 ||alibaba.com^
-||alicdn.com^
 ||alicloudapi.com^
 ||alida.com^
-||aliexpress.com^
 ||aliexpress.ru^
 ||alignmentdisabled.netalignmentdisabled.net^
 ||alikunlun.com^
@@ -3836,7 +3400,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||amazon.*^$removeparam=tag
 ||amazon.co.jp^$badfilter  # not a tracker
 ||amazon.co.uk^$badfilter  # Not a tracker
-||amazon.co.uk^$badfilter  # not a tracker
 ||amazon.com^$badfilter  # not a tracker
 ||amazon.de^$badfilter  # Amazon store
 ||amazonaax.com^
@@ -4411,6 +3974,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||apkdo.com^
 ||apkpure.net^
 ||aplikacii.com^
+||aplus-sdk.alibaba-inc.com^
+||aplus.aliexpress.com^
 ||apm.bigbank.eu^
 ||apm.tnet.nl^
 ||apnarm.net.au^
@@ -4720,6 +4285,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||asd.projectfreetv.so^
 ||asda.com.akadns.net^
 ||asdfghjkl.ovh^
+||ase.aidcgroup.net^
 ||ase.com^
 ||aseads.com^
 ||asfinagv8.azureedge.net^
@@ -4758,6 +4324,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||assets.adobedtm.com^$third-party
 ||assets.adobetm.com^
 ||assets.adsttc.com^
+||assets.alicdn.com^
 ||assets.allegrostatic.com/e09d28a6-external/dd-k89d9f1.js^
 ||assets.allegrostatic.com/e09d28a6-external/dd-k89d9f7.js^
 ||assets.allegrostatic.com/sc-12453/engagement-observer-6dadce93.js^
@@ -5570,6 +5137,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||beta.publishers.adsterra.com^
 ||betaaldienst-aanvraag.nl^
 ||betano.de^
+||betarino.com^
 ||betatraining.eu^
 ||betcity.net^
 ||betcity.nl^
@@ -5907,9 +5475,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||boesche.de^
 ||bohny-automobile.ch^
 ||bohny-automobile.com^
-||bol.com^$removeparam=Referrer
 ||bol.com^$removeparam=bltgh
 ||bol.com^$removeparam=promo
+||bol.com^$removeparam=Referrer
 ||bold360.com^
 ||boldapps.net^
 ||boldchat.com^
@@ -8577,6 +8145,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||cyad123.com^
 ||cybba.solutions^
 ||cyberawareness.top^
+||cyberdude.com^
 ||cyberflow.com^
 ||cybergal.com^
 ||cyberlink.com^
@@ -9318,6 +8887,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||defybrick.com^
 ||degoudsbloem.be^
 ||dehelendereisindepraktijk.nl^
+||dein-juwelier.de^
 ||deinchatbot-speech.azurewebsites.net^
 ||deinneueszuhause.de^
 ||dejing.laobanfa.com^
@@ -9344,6 +8914,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||dell-cidr.akadns.net^
 ||delmovip.com^
 ||delonghigroup.com^$badfilter  # not a tracker
+||delosmail.com^
 ||delottery.com^
 ||deltadna.com^
 ||deltadna.net^
@@ -10336,9 +9907,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||encyclopaediabritann.tt.omtrdc.net^
 ||end.nmo-ep.nl^
 ||endnote.com^
+||endoﬁnternet.net^
 ||endoftheinternet.org^
 ||endorsal.io^
-||endoﬁnternet.net^
 ||endpoint2.collection.sumologic.com^
 ||enepal.net^
 ||energetischhuis.nl^
@@ -11235,6 +10806,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||from-ct.com^
 ||from-dc.com^
 ||from-de.com^
+||from-ﬂ.com^
 ||from-ga.com^
 ||from-hi.com^
 ||from-ia.net^
@@ -11274,7 +10846,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||from-wi.com^
 ||from-wv.com^
 ||from-wy.com^
-||from-ﬂ.com^
 ||fromfactory.club^
 ||fromsmash.com^$removeparam=medium
 ||fromsmash.com^$removeparam=source
@@ -11362,6 +10933,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||g.163.com^
 ||g.3gl.net^
 ||g.adspeed.net^
+||g.alicdn.com^
 ||g.baidu.com^
 ||g.brothersoft.com^
 ||g.chuiyao.com^
@@ -11883,6 +11455,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||go.techtarget.com^
 ||go.tokenex.com^
 ||go.turning.com^
+||go1001000.com^
 ||go2app.org^
 ||go2cloud.org^
 ||go2jump.org^
@@ -13299,6 +12872,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||infor.com^
 ||informa.com^
 ||informamarkets.com^
+||informatel.cloud^
 ||informatie-over-energietarieven.nl^
 ||informer.yandex.ru^
 ||informizely.com^
@@ -13630,6 +13204,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||is-a-democrat.com^
 ||is-a-designer.com^
 ||is-a-doctor.com^
+||is-a-ﬁnancialadvisor.com^
 ||is-a-geek.com^
 ||is-a-geek.net^
 ||is-a-geek.org^
@@ -13658,7 +13233,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||is-a-teacher.com^
 ||is-a-techie.com^
 ||is-a-therapist.com^
-||is-a-ﬁnancialadvisor.com^
 ||is-an-accountant.com^
 ||is-an-actor.com^
 ||is-an-actress.com^
@@ -13895,8 +13469,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||jobsfe.funshion.com^
 ||jochtom.nl^
 ||johnlewis.com/browser-performance/jl-init-metrics.*.js^
-||johnlewis.com^$removeparam=Ptype
 ||johnlewis.com^$removeparam=irclickid
+||johnlewis.com^$removeparam=Ptype
 ||johnlewis.com^$removeparam=s_afcid
 ||johnlewis.com^$removeparam=tmcampid
 ||johnston.grapeshot.co.uk^
@@ -13925,6 +13499,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||jouwhorizon.be^
 ||jouwstartonline.nl^
 ||jouwvindplaats.nl^
+||jov.io^
 ||jovanca.nl^
 ||joyfuldoors.com^
 ||joygameplace.com^
@@ -15290,6 +14865,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||mail-ads.google.com^
 ||mail-api.proton.me.fritz.box^
 ||mail-boutique2.fr^
+||mail-buzzee.fr^
 ||mail-contact-unsub.eu^
 ||mail.clickup.com^
 ||mail.cos.com^
@@ -15375,6 +14951,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||mapromessechic.fr^
 ||maquipan.cl^
 ||marathonbet.dk^
+||marblerenew.com^
 ||marfeel.com^
 ||marfeelcache.com^
 ||marfeelrev.com^
@@ -16369,6 +15946,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||narendramodiapp.com^
 ||narrativ.com^
 ||nasamlinkes.nl^
+||nasentc.com^
 ||nasma.be^
 ||national-lottery.co.uk^
 ||nationale-loterij.be^
@@ -18183,8 +17761,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||proctorio.zendesk.com^
 ||proctortrack.com^
 ||proctoru.com^
-||prod*.ally.ac/api/v*/*/events^
-||prod*.ally.ac/api/v*/processes/*^
 ||prod-celebrusv9.shopdirect.com^
 ||prod-consent-ns-privacy.my.onetrust.com^
 ||prod-event-relay-books-api.v.aaplimg.com^
@@ -18201,6 +17777,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||prod.log.shortbread.analytics.console.aws.a2z.com^
 ||prod.log.shortbread.aws.dev^
 ||prod.tools.shortbread.analytics.console.aws.a2z.com^
+||prod*.ally.ac/api/v*/*/events^
+||prod*.ally.ac/api/v*/processes/*^
 ||prodigitalagency-inc.com^
 ||prodmp.ru^
 ||prodo-api.ariva-services.de^
@@ -18959,6 +18537,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||res-1.cdn.office.net^$badfilter  # required for outlook
 ||res-2.cdn.office.net^$badfilter  # required for outlook
 ||res-geo.cdn.office.net^
+||res-odx.op-mobile.opera.com^
 ||res-x.com^
 ||res.adcome.cn^
 ||res.aduu.cn^
@@ -19119,6 +18698,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||rocketit.com^
 ||rocketresponder.com^
 ||rod25.dk^
+||rød25.dk^
 ||rodneyjoffe.com^
 ||roed25.dk^
 ||roeye.com^
@@ -19291,7 +18871,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||rxweb-prd.com^
 ||ryokomart.click^
 ||ryzmedia.com^
-||rød25.dk^
 ||s-eu-1.pushpushgo.com^
 ||s-img.adskeeper.co.uk^
 ||s-img.mgid.com^
@@ -19335,6 +18914,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||s.ntv.io^
 ||s.on-device.com^
 ||s.p.youku.com^
+||s.pinimg.com^
 ||s.pinimg.com^$badfilter  # Pinterest
 ||s.pinimg.com^$third-party
 ||s.pubmine.com^
@@ -19788,6 +19368,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||securityiq.infosecinstitute.com^
 ||securitysoftwarezone.com^
 ||securitytrfx.com^
+||sedioliniauto.com^
 ||seebug.org^
 ||seeding-alliance.de^
 ||seedtag.com^
@@ -19816,15 +19397,15 @@ ziekenhuischeck.nl##.toaster-overlay
 ||selezioneunica.it^
 ||self.events.data.microsoft.com^
 ||selfishsnake.com^
-||sell1.etlong.com^
-||sellerlabs.com^
-||sellpoint.com^
-||sells-for-iess.com^
 ||selﬂp.biz^
 ||selﬂp.com^
 ||selﬂp.info^
 ||selﬂp.net^
 ||selﬂp.org^
+||sell1.etlong.com^
+||sellerlabs.com^
+||sellpoint.com^
+||sells-for-iess.com^
 ||semanticlocation-pa.googleapis.com^
 ||semasio.com^
 ||sematext.com^
@@ -21453,6 +21034,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tags.bluekai.com^
 ||tags.catapultx.com^
 ||tags.chip.de^
+||tags.creativecdn.com^
 ||tags.crwdcntrl.net^
 ||tags.experian.co.uk^
 ||tags.expo9.exponential.com^
@@ -21841,6 +21423,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tianyanzs.com^
 ||tiara.daum.net^
 ||ticcdn.com^
+||tickster.com^
 ||tics.techdirt.com^
 ||tidio.co^
 ||tifbs.net^
@@ -22169,6 +21752,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||training.marketing.linkedin.com^
 ||training.sales.linkedin.com^
 ||training.talent.linkedin.com^
+||trainingcreatively.com^
 ||tralog.ganji.com^
 ||transact.lastpass.com^
 ||transcend.io^
@@ -22201,6 +21785,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||treasuredata.com^
 ||treatment.grammarly.com^
 ||tredir.go.com^
+||treflio.com^
 ||tremorhub.com^
 ||tremorvideo.com^
 ||trendalytics.co^
@@ -22272,6 +21857,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||truste.com^
 ||trustedform.com^
 ||trustedshops.com^
+||trustedshops.de^
 ||trustedsource.org^
 ||trustgram.co^
 ||trustguard.com^
@@ -22670,6 +22256,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||us-u.openx.net^
 ||us.bannyat.com^
 ||us.tags.newscgp.com^
+||us.ynuf.aliapp.org^
 ||us01.rayjump.com^
 ||us01campaign.zoom.us^
 ||us3.datadoghq.com^
@@ -23497,6 +23084,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||wiyun.com^
 ||wizaly.com^
 ||wjguc.com^
+||wjqinghe.com^
 ||wjs.wurflcloud.com^
 ||wka8.com^
 ||wkanc.51y5.net^
@@ -23626,6 +23214,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||www-cultofmac-com.ezoic.net^
 ||www-elperiodic-com.translate.goog^
 ||www-googletagmanager.l.google.com^
+||www.googletagmanager.com^
 ||www138.civicscience.com^
 ||wx.xwjqr.com^
 ||wxsnsdy.wxs.qq.com^
@@ -24198,22 +23787,441 @@ ziekenhuischeck.nl##.toaster-overlay
 ||zzsx8.com^
 ||zzy1.quyaoya.com^
 ||zzzjvqzkmqllb.top^
-||jov.io^
-||trustedshops.de^
-||cyberdude.com^
-^.ghost/analytics^
-^page_hit^
-||marblerenew.com^
-||dein-juwelier.de^
-||wjqinghe.com^
-||mail-buzzee.fr^
-||delosmail.com^
-||treflio.com^
-||trainingcreatively.com^
-||nasentc.com^
-||go1001000.com^
-||informatel.cloud^
-||sedioliniauto.com^
-||betarino.com^
-||wjqinghe.com^
-||tickster.com^
+4als.nl##body:style(overflow: auto!important)
+7sur7.be###pg-accept-btn
+7sur7.be###stack-accept-all
+about.facebook.com##+js(rc, _31e, div, stay)
+about.facebook.com##+js(rc, hasCookieBanner, body, stay)
+actie.hetvergetenkind.nl##body:style(overflow: auto!important)
+actie.thepollinators.org##.modal-backdrop
+actie.thepollinators.org###kentaa_consent_modal
+actie.thepollinators.org##+js(rc, modal-open, body, stay)
+acties.lymph-co.com##.modal-backdrop
+acties.lymph-co.com###kentaa_consent_modal
+acties.lymph-co.com##+js(rc, modal-open, body, stay)
+actievoorrodekruisijsselland.nl##body:style(overflow: auto!important)
+ad.nl###pg-accept-btn
+ad.nl###stack-accept-all
+ad.nl^$removeparam=referrer
+allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m389_6m.mpof_ki
+allegro.pl##[data-role='accept-consent']
+allegro.pl##[data-role="accept-consent"]
+allegro.pl###opbox-gdpr-consents-modal
+alsacties.be##body:style(overflow: auto!important)
+alssunrisewalk.nl##body:style(overflow: auto!important)
+amsterdamcityswim.nl##.modal-backdrop
+amsterdamcityswim.nl###kentaa_consent_modal
+amsterdamcityswim.nl##+js(rc, modal-open, body, stay)
+annual-report-triodos.com##.cookie-bar
+app.nlziet.nl###onetrust-accept-btn-handler
+appletoolbox.com###ez-cookie-dialog
+appletoolbox.com###ez-cookie-dialog-wrapper
+armemberplugin.com##.social-share-icons-list
+armemberplugin.com##+js(rc, cp-custom-viewport, html, stay)
+armemberplugin.com##+js(rc, cp-exceed-viewport, html, stay)
+armemberplugin.com##+js(rc, cp-overflow-hidden, html, stay)
+armemberplugin.com##body:style(overflow: auto!important)
+asml.com##.cookie-consent-message
+asml.com##.is-open.cookie-consent-message
+autoblog.nl##.ndm-min-big
+autoblog.nl##.ndm-min-normal
+autoweek.nl###pg-accept-btn
+autoweek.nl###stack-accept-all
+autoweek.nl^$removeparam=referrer
+aviasales.ru^$removeparam=marker
+aviasales.ru^$removeparam=source
+azl.eu##.c-consent-bar
+bd.nl###pg-accept-btn
+bd.nl###stack-accept-all
+bd.nl^$removeparam=referrer
+belsimpel.nl##.CookieBannerstyle__StyledCookieBanner-sc-1kw94k2-0
+beterbed.nl##.overlay
+beterbed.nl##.popup
+beterbed.nl##body:style(overflow: auto!important)
+bever.nl##body:style(overflow: auto!important)
+bicycling.nl##.ad
+bing.com##.bnp_btn_accept
+blog.tivo.com##.sg-popup-content
+blog.tivo.com##.sgpb-popup-overlay
+blog.tivo.com##.sidebar
+bluespahaamstede.nl###newsletter
+bluewellness.nl###cookie-consent
+bndestem.nl###pg-accept-btn
+bndestem.nl###stack-accept-all
+bndestem.nl^$removeparam=referrer
+bol.com##.smartbanner
+bol.com###js-first-screen-accept-all-button
+bol.com##wsp-modal-window
+bright.nl##.ad
+bunq.me##.fixed
+bunq.me###cookieConsentAccept
+cardiologiecentra.nl##.cookie-consent-background
+cardiologiecentra.nl##body:style(overflow: auto!important)
+cbsnews.com##.ketch-fixed
+college.vtwonen.nl###pg-accept-btn
+college.vtwonen.nl###stack-accept-all
+college.vtwonen.nl^$removeparam=referrer
+community.cloudflare.com##.interstitial-alert-modal
+community.cloudflare.com##.modal-backdrop
+computable.nl##.ce-banner
+computable.nl##.footNB
+consent.google.*##.saveButtonContainer > form:nth-of-type(2) > .searchButton.button.basebutton
+consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .button.basebutton
+crisp.nl###consent-ok
+crisp.nl###consents-modal
+danskebank.dk##.cookie-consent-banner-modal
+darktrace.com###cookie-notice-ct
+debijenkorf.nl##.toast--show.toast
+desk.zoho.com##.micsTop
+desk.zoho.eu##.micsTop
+desk.zoho.in##.micsTop
+destentor.nl###pg-accept-btn
+destentor.nl###stack-accept-all
+destentor.nl^$removeparam=referrer
+die-raiffeisenbank.de##.open.darken-layer
+die-raiffeisenbank.de###lightbox--cookie-consent
+die-raiffeisenbank.de##+js(rc, cookie-consent-is-active, body, stay)
+die-raiffeisenbank.de##+js(rc, no-scroll, body, stay)
+die-raiffeisenbank.de##+js(rc, no-scroll, html, stay)
+dille-kamille.nl##+js(rc, gtm-impression, a, stay)
+dille-kamille.nl##+js(rc, gtm-impression, button, stay)
+doneren.maggiescenters.nl##body:style(overflow: auto!important)
+dossards-solidaires.org##.modal-backdrop
+dossards-solidaires.org###kookies_bar_0
+dossards-solidaires.org##body:style(overflow: auto!important)
+dpgmedia.be###pg-accept-btn
+dpgmedia.be###stack-accept-all
+dpgmedia.nl###pg-accept-btn
+dpgmedia.nl###stack-accept-all
+dpgmediagroup.com###pg-accept-btn
+dpgmediagroup.com###stack-accept-all
+dpgmediagroup.net###pg-accept-btn
+dpgmediagroup.net###stack-accept-all
+dsw.nl##.chatbot-div
+dsw.nl##.feedback-button
+duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
+duckduckgo.com##.feedback-prompt
+duckduckgo.com##.footer
+duckduckgo.com##.homepage-cta-section_scrollCta__HuSCL
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.mobile-homepage_atbBadge__wquuL
+duckduckgo.com##.O9Ipab51rBntYb0pwOQn
+duckduckgo.com##.showcase
+duckduckgo.com##.tagline_tagline__xryVo
+duckduckgo.com##[data-testid="serp-popover-promo"]
+duckduckgo.com##+js(set-cookie, 1, -1)
+duckduckgo.com##+js(set-cookie, ak, -1)
+duckduckgo.com##+js(set-cookie, ao, -1)
+duckduckgo.com##+js(set-cookie, ap, -1)
+duckduckgo.com##+js(set-cookie, aq, -1)
+duckduckgo.com##+js(set-cookie, au, -1)
+duckduckgo.com##+js(set-cookie, ax, -1)
+duckduckgo.com##+js(set-cookie, n, -1)
+ed.nl###pg-accept-btn
+ed.nl###stack-accept-all
+estunt.nl##+js(aopr, document.title)
+facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
+facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
+fd.nl##.fd-message
+ffm.to##.bg-overlay
+ffm.to##.privacy-notice-gdpr
+flevoziekenhuis.nl##.consent-cookiebar
+fluister.nl###pg-accept-btn
+fluister.nl###stack-accept-all
+framer.com##.framer-c16euh-container
+framer.com##[data-projection-id]
+funda.nl##[role="complementary"]
+geeksforgeeks.org##.textBasedMannualAds
+gelderlander.nl###pg-accept-btn
+gelderlander.nl###stack-accept-all
+gelderlander.nl^$removeparam=referrer
+gelukinbewegingchallenge.nl##body:style(overflow: auto!important)
+glassdoor.*##.hardsellOverlay
+glassdoor.*##body:style(overflow: auto!important)
+google.com###L2AGLb > .sy4vM.QS5gu
+hackernoon.com##.ads
+handleidingstart.nl##[class^="adblock-active"]
+handleidingstart.nl###adblock-popup-overlay
+happysocks.com##.cookies-consent-banner
+happysocks.com##+js(rc, disabled, header, stay)
+happysocks.com##+js(rc, lock-scroll, body, stay)
+hardloop.com##+js(rc, didomi-popup-open, body, stay)
+hardlopen.nl##.tdecc-content
+hln.be###pg-accept-btn
+hln.be###stack-accept-all
+hypotheek.nl###accepteerknop
+hypotheek.nl###cookielaw_idf_overlay
+id.nl##.block.w-full.fixed
+id.nl##body:style(overflow: auto!important)
+ikazia.nl##.cookiemessage
+inactievoorerasmusmc.nl##.modal-backdrop
+inactievoorerasmusmc.nl###kentaa_consent_modal
+inactievoorerasmusmc.nl##+js(rc, modal-open, body, stay)
+inactievoormakeawish.be##body:style(overflow: auto!important)
+inactievooropkikker.nl##.modal-backdrop
+inactievooropkikker.nl###kookies_bar_0
+inactievooropkikker.nl##body:style(overflow: auto!important)
+inet.se##.c1c4t0vi
+ing.nl##.cookie-description
+ing.nl##[name="cookiePreference"][label="Compleet"]
+ing.nl##[name="cookiePreference"][label="Persoonlijk"]
+instagram.com##._56bt._a6gi._56bs._52jh._54k8
+instagram.com##.bIiDR.aOOlW
+instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
+instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
+itscope.com##body:style(overflow: auto!important)
+joe.nl###pg-accept-btn
+joe.nl###stack-accept-all
+joe.nl^$removeparam=referrer
+kadasterdata.nl##body:style(overflow: auto!important)
+kea.dk##+js(cookie-remover, 0d2b9156bb9df317bfd2c64116af6a33)
+kentaa.nl##.modal-backdrop
+kentaa.nl###kentaa_consent_modal
+kentaa.nl##+js(rc, modal-open, body, stay)
+learn.microsoft.com###cookie-consent-holder
+lesensduneviefondationdefrance.org##body:style(overflow: auto!important)
+libelle.nl###pg-accept-btn
+libelle.nl###stack-accept-all
+libelle.nl^$removeparam=referrer
+lidl.nl##.n-navigation__overlay-area
+lifewire.com###onetrust-consent-sdk
+linkedin.com##.base-promo
+linkedin.com##.feed-shared-promo
+linkedin.com##.omnibanner
+linkedin.com##.update-components-survey
+linkedin.com###compactfooter-advertising
+linkedin.com##span:has-text(Promoted):upward(11)
+linkedin.com##span:has-text(Promoted):upward(6)
+login.asr.nl##.asr-cookie-message
+marathon-paris.dossards-solidaires.org##.modal-backdrop
+marathon-paris.dossards-solidaires.org###kookies_bar_0
+marathon-paris.dossards-solidaires.org##body:style(overflow: auto!important)
+margriet.nl###pg-accept-btn
+margriet.nl###stack-accept-all
+margriet.nl^$removeparam=referrer
+markedsforing.dk##.acf-block--a-d-form
+markedsforing.dk##.adform
+mdxsu.com###marketing-partners
+mediamarkt.nl##.disUrd
+mediamarkt.nl##[data-test="mms-search-consent-section"]
+menshealth.nl##.ad
+merkur.dk##body:style(overflow: auto!important)
+mijn.ditzozorg.nl##.mijn-cookie-consent
+mijn.dsw.nl##.mijn-cookie-consent
+mijn.dsw.nl##mijn-feedback
+mijn.intwente.nl##.mijn-cookie-consent
+mijn.intwente.nl##mijn-feedback
+mijn.stadholland.nl##.mijn-cookie-consent
+mijn.stadholland.nl##mijn-feedback
+moneymonk.nl##.-sm:items-end.-sm:justify-start.items-center.justify-center.inset-4.fixed.flex
+moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
+moneymonk.nl##+js(rc, inset-0, div, stay)
+movir.nl##[inert]:remove-attr(inert)
+mrmarvis.com##.z-cookieBanner
+mumc.nl##.region-cookie-bar
+museum.nl##.backdrop
+museum.nl##.cookie-banner
+museum.nl##body:style(overflow: auto!important)
+mvdwfoundation.nl##.modal-backdrop
+mvdwfoundation.nl###kentaa_consent_modal
+mvdwfoundation.nl##+js(rc, modal-open, body, stay)
+mycommunitydefib.co.uk##.modal-backdrop
+mycommunitydefib.co.uk###kentaa_consent_modal
+mycommunitydefib.co.uk##+js(rc, modal-open, body, stay)
+mykeyport.com##.loader
+nachtvandevluchteling.nl##.modal-backdrop
+nachtvandevluchteling.nl###kentaa_consent_modal
+nachtvandevluchteling.nl##+js(rc, modal-open, body, stay)
+nl.schipholtickets.com##.Overlay_overlay__3_p4L
+nos.nl###ccm_notification_wrapper
+nos.nl##+js(cookie-remover, _ain_cid)
+nos.nl##+js(cookie-remover, _ain_uid)
+nos.nl##+js(cookie-remover, atidvisitor)
+nos.nl##+js(cookie-remover, atuserid)
+nos.nl##+js(cookie-remover, kantar_id)
+npo.nl##ccm-notification
+npostart.nl##.click-away
+npostart.nl##.option-one.ticket-banner
+nrc.nl##.emailwall--emailwall.emailwall
+nt2.nl##.newsletter-popup-wrapper
+nu.nl###pg-accept-btn
+nu.nl###stack-accept-all
+nu.nl^$removeparam=referrer
+nuget.org###cookie-banner
+numberpeople.co.uk###lhc_needhelp_widget_v2
+numberpeople.co.uk###lhc_status_widget_v2
+nytimes.com##.e1xxpj0j1
+nytimes.com##.fides-overlay
+nytimes.com##.fides-overlay-modal-link-shown:remove()
+nytimes.com##.isPersonalizedAddOn
+nytimes.com##.qJTHM:remove()
+nytimes.com##.ReactModal__Body--open:remove()
+nytimes.com##.ReactModalPortal
+nytimes.com##[data-testid="StandardAd"]
+nytimes.com##[name="__tcfapiLocator"]
+nytimes.com##[title="Sign in with Google Dialogue"]
+nytimes.com###\3pCheckIframeId
+nytimes.com###complianceOverlay
+nytimes.com###credential_picker_iframe
+nytimes.com###dock-container
+nytimes.com###fides-overlay
+nytimes.com###google-one-tap-container
+nytimes.com###user-modal-drawer
+nytimes.com##body:style(overflow: auto!important)
+oebb.at##.consent-banner
+ohra.nl##+js(rc, no-overflow-y, body, stay)
+ohra.nl##kpcf-cookie-toestemming
+omroepzeeland.nl##.promobox
+omroepzeeland.nl##.promobox-container
+omroepzeeland.nl###consent-plugin
+ondernemersbelang.nl###cookies
+only.com##.overlay-backdrop
+onvz.nl##.a-btn--chat
+onvz.nl##.usabilla__overlay
+onvz.nl###ost-btn-accept-all-cookies
+onvz.nl##html:style(overflow: auto!important)
+oogfonds-walk-en-ride.nl##.modal-backdrop
+oogfonds-walk-en-ride.nl###kookies_bar_0
+oogfonds-walk-en-ride.nl##body:style(overflow: auto!important)
+opencode.de##.CookieBanner_banner__F91Z0
+opener.pl##.cookies
+oudersvannu.nl###pg-accept-btn
+oudersvannu.nl###stack-accept-all
+oudersvannu.nl^$removeparam=referrer
+ovh.com##+js(rc, manager-cookie-policy-banner-backdrop, div, stay)
+ovh.com##+js(rc, modal-backdrop, div, stay)
+paris.montriathlondesroses.fr##.modal-backdrop
+paris.montriathlondesroses.fr###kookies_bar_0
+paris.montriathlondesroses.fr##body:style(overflow: auto!important)
+peerj.com##.in.fade.modal-backdrop
+peerj.com###download-article-modal
+pim.app##+js(rc, cli-barmodal-open, body, stay)
+pim.app##body:style(overflow: auto!important)
+plein.nl##.plein-cookie-modal
+plein.nl##.plein-modal-backdrop
+plein.nl##+js(rc, modal-open, body, stay)
+plein.nl##body:style(overflow: auto!important)
+podimo.com##.cookie
+postnl.nl##.pci-cookie-button-inner .pci-button--primary
+privacyguides.net###announcement-bar-root
+privacyguides.org##[data-md-component="announce"]
+privacyguides.org###announcement-bar-root
+puzzelfit.be###pg-accept-btn
+puzzelfit.be###stack-accept-all
+pzc.nl###pg-accept-btn
+pzc.nl###stack-accept-all
+pzc.nl^$removeparam=referrer
+qmusic.be###pg-accept-btn
+qmusic.be###stack-accept-all
+qmusic.nl###pg-accept-btn
+qmusic.nl###stack-accept-all
+qmusic.nl^$removeparam=referrer
+readingsu.co.uk##.carousel
+reclamefolder.nl###pg-accept-btn
+reclamefolder.nl###stack-accept-all
+reclamefolder.nl^$removeparam=referrer
+remarkable.com##.ark-button--primary-neutral
+revolut.com###DndLiveRegion-0
+rieder-zillertal.at##+js(rc, dp--cookie-consent, body, stay)
+rocyclestudios.com###cookie-consent
+roparun.nl##.modal-backdrop
+roparun.nl###kentaa_consent_modal
+roparun.nl##+js(rc, modal-open, body, stay)
+ru.nl##.agree-button
+ru.nl##.eu-cookie-compliance-banner
+runners.nl##.ad
+saturn.de###mms-consent-portal-container
+sbnl-natuuromdehoek.nl##.modal-backdrop
+sbnl-natuuromdehoek.nl###kentaa_consent_modal
+sbnl-natuuromdehoek.nl##+js(rc, modal-open, body, stay)
+scholieren.com##.klikurl
+scholieren.com##.XBFUqF
+scientias.nl##.ndm-desktop-only
+scientias.nl##.ndm-mobile-only
+security.nl##.banner_leaderboard
+shop.app^$removeparam=locale
+shop.app^$removeparam=tracking_unique
+shop.app^$removeparam=tracking_visit
+shop.app^$removeparam=ur_verify
+siliconcanals.com##.ai-track
+siliconcanals.com##.brave_popup--popup.brave_popup
+spendenaktion.drk.de##body:style(overflow: auto!important)
+stackoverflow.com##.js-consent-banner
+startpage.com##.layout-web__feedback-button-container--desktop
+startpage.com###marketing-tag-container
+sterkensportief.nl##.modal-backdrop
+sterkensportief.nl###kentaa_consent_modal
+sterkensportief.nl##+js(rc, modal-open, body, stay)
+sterktegenms.nl##.modal-backdrop
+sterktegenms.nl###kentaa_consent_modal
+sterktegenms.nl##+js(rc, modal-open, body, stay)
+story.nl###pg-accept-btn
+story.nl###stack-accept-all
+story.nl^$removeparam=referrer
+su.rhul.ac.uk##.advert
+team.blue##+js(rc, html-with-one-modal, html, stay)
+tele2.nl##.show.cookie.fade.modal
+telegraaf.nl##.AdBlockPopUp__wrapper
+thepollinators.org###newsletter-modal
+theverge.com##.m-privacy-consent
+theverge.com###privacy-consent
+tijdschrift.nl###pg-accept-btn
+tijdschrift.nl###stack-accept-all
+tijdschrift.nl^$removeparam=referrer
+transip.eu##+js(rc, consent-popup--no-scroll, body, stay)
+transip.eu##+js(rc, html-with-one-modal, html, stay)
+triodos-im.com##.cookie-bar
+triodos.be##.cookie-bar
+triodos.co.uk##.cookie-bar
+triodos.com##.cookie-bar
+triodos.de##.cookie-bar
+triodos.es##.cookie-bar
+triodos.fr##.cookie-bar
+triodos.nl##.cookie-bar
+triodosfoundation.nl##.cookie-bar
+tubantia.nl###pg-accept-btn
+tubantia.nl###stack-accept-all
+tubantia.nl^$removeparam=referrer
+tweakers.net###pg-accept-btn
+tweakers.net###stack-accept-all
+umcg.nl##.cookie-notice-advanced
+umcutrecht.nl##.cookie-consent-modal__acceptButton
+valk.com###valk-nx-cookie-manager
+valk.com##valk-nx-cookie-manager
+vbo.nl###cookiewall
+vbo.nl##body:style(overflow: auto!important)
+veronicasuperguide.nl###pg-accept-btn
+veronicasuperguide.nl###stack-accept-all
+veronicasuperguide.nl^$removeparam=referrer
+vliegtickets.nl##[class^="CookieBanner"]
+vliegtickets.nl##[class^="Overlay_overlay__"]
+voetbalnieuws.nl##.ad
+voorplan.nl##body:style(overflow: auto!important)
+vtm.be###pg-accept-btn
+vtm.be###stack-accept-all
+vtmgo.be###pg-accept-btn
+vtmgo.be###stack-accept-all
+vtwonen.nl###pg-accept-btn
+vtwonen.nl###stack-accept-all
+vtwonen.nl^$removeparam=referrer
+werkenbijavl.nl##.OrangeCookie
+wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
+wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button
+whatsapp.com##+js(rc, hasCookieBanner, body, stay)
+whatsapp.com##body:style(overflow: auto!important)
+womenshealthmag.nl##.ad
+wordpress.com##.cookie-banner
+wp.pl##.fdy68g6
+wp.pl##.ld04qn9
+wp.pl###AdArea
+yeeuu.com##+js(rc, modal-open, body, stay)
+yeeuu.com##+js(rc, modal-open, html, stay)
+youcanbook.me##[data-testid="cookie-consent"]
+youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog ytd-button-renderer.size-default.style-primary.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
+zekur.nl##.app_cookie
+zekur.nl##.tmcookienotice
+zekur.nl##body:style(overflow: auto!important)
+zendis.de###cc-main
+zgt.nl##.cookie-wrapper
+ziekenhuischeck.nl##.toaster
+ziekenhuischeck.nl##.toaster-overlay

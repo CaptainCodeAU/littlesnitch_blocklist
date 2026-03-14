@@ -1,9 +1,9 @@
-# Title: ph00lt0 - Blocklist
-# Expires: 1 day
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Homepage: https://github.com/ph00lt0/blocklist
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 local-zone: "0.r.msn.com." always_null
 local-zone: "000dn.com." always_null
 local-zone: "001union.com." always_null
@@ -464,11 +464,13 @@ local-zone: "25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com." always_null
 local-zone: "265.com." always_null
 local-zone: "268mob.cn." always_null
 local-zone: "26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com." always_null
+local-zone: "26qxvo.tdum.alibaba.com." always_null
 local-zone: "26zsd.cn." always_null
 local-zone: "270degrees.io." always_null
 local-zone: "272xb.com." always_null
 local-zone: "27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com." always_null
 local-zone: "27qfj.x.incapdns.net." always_null
+local-zone: "28345.ase.aidcgroup.net." always_null
 local-zone: "287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com." always_null
 local-zone: "28acglz.com." always_null
 local-zone: "29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com." always_null
@@ -2951,11 +2953,10 @@ local-zone: "algbid.app." always_null
 local-zone: "algonomy.com." always_null
 local-zone: "algorecs.com." always_null
 local-zone: "aliabdaal.ck.page." always_null
+local-zone: "alibaba-inc.com." always_null
 local-zone: "alibaba.com." always_null
-local-zone: "alicdn.com." always_null
 local-zone: "alicloudapi.com." always_null
 local-zone: "alida.com." always_null
-local-zone: "aliexpress.com." always_null
 local-zone: "aliexpress.ru." always_null
 local-zone: "alignmentdisabled.netalignmentdisabled.net." always_null
 local-zone: "alikunlun.com." always_null
@@ -3598,6 +3599,8 @@ local-zone: "apkarchive.ru." always_null
 local-zone: "apkdo.com." always_null
 local-zone: "apkpure.net." always_null
 local-zone: "aplikacii.com." always_null
+local-zone: "aplus-sdk.alibaba-inc.com." always_null
+local-zone: "aplus.aliexpress.com." always_null
 local-zone: "apm.bigbank.eu." always_null
 local-zone: "apm.tnet.nl." always_null
 local-zone: "apnarm.net.au." always_null
@@ -3895,6 +3898,7 @@ local-zone: "asciinema.org." always_null
 local-zone: "asd.projectfreetv.so." always_null
 local-zone: "asda.com.akadns.net." always_null
 local-zone: "asdfghjkl.ovh." always_null
+local-zone: "ase.aidcgroup.net." always_null
 local-zone: "ase.com." always_null
 local-zone: "aseads.com." always_null
 local-zone: "asfinagv8.azureedge.net." always_null
@@ -3931,6 +3935,7 @@ local-zone: "assets.a-mo.net." always_null
 local-zone: "assets.adobedtm.com." always_null
 local-zone: "assets.adobetm.com." always_null
 local-zone: "assets.adsttc.com." always_null
+local-zone: "assets.alicdn.com." always_null
 local-zone: "assets.cengage.com." always_null
 local-zone: "assets.contently.com." always_null
 local-zone: "assets.context.ly." always_null
@@ -10209,6 +10214,7 @@ local-zone: "g-fiber.co.id." always_null
 local-zone: "g.163.com." always_null
 local-zone: "g.3gl.net." always_null
 local-zone: "g.adspeed.net." always_null
+local-zone: "g.alicdn.com." always_null
 local-zone: "g.baidu.com." always_null
 local-zone: "g.brothersoft.com." always_null
 local-zone: "g.chuiyao.com." always_null
@@ -17531,6 +17537,7 @@ local-zone: "request.eprotect.vantivcnp.com." always_null
 local-zone: "requestmetrics.com." always_null
 local-zone: "rereddit.com." always_null
 local-zone: "res-geo.cdn.office.net." always_null
+local-zone: "res-odx.op-mobile.opera.com." always_null
 local-zone: "res-x.com." always_null
 local-zone: "res.adcome.cn." always_null
 local-zone: "res.aduu.cn." always_null
@@ -17902,6 +17909,7 @@ local-zone: "s.nitropay.com." always_null
 local-zone: "s.ntv.io." always_null
 local-zone: "s.on-device.com." always_null
 local-zone: "s.p.youku.com." always_null
+local-zone: "s.pinimg.com." always_null
 local-zone: "s.pubmine.com." always_null
 local-zone: "s.qd.qingting.fm." always_null
 local-zone: "s.qd.qingtingfm.com." always_null
@@ -19959,6 +19967,7 @@ local-zone: "tags.aljazeera.com." always_null
 local-zone: "tags.bluekai.com." always_null
 local-zone: "tags.catapultx.com." always_null
 local-zone: "tags.chip.de." always_null
+local-zone: "tags.creativecdn.com." always_null
 local-zone: "tags.crwdcntrl.net." always_null
 local-zone: "tags.experian.co.uk." always_null
 local-zone: "tags.expo9.exponential.com." always_null
@@ -21125,6 +21134,7 @@ local-zone: "us-reviews.com." always_null
 local-zone: "us-u.openx.net." always_null
 local-zone: "us.bannyat.com." always_null
 local-zone: "us.tags.newscgp.com." always_null
+local-zone: "us.ynuf.aliapp.org." always_null
 local-zone: "us01.rayjump.com." always_null
 local-zone: "us01campaign.zoom.us." always_null
 local-zone: "us3.datadoghq.com." always_null
@@ -22044,6 +22054,7 @@ local-zone: "www-analytics.esa.int." always_null
 local-zone: "www-cultofmac-com.ezoic.net." always_null
 local-zone: "www-elperiodic-com.translate.goog." always_null
 local-zone: "www-googletagmanager.l.google.com." always_null
+local-zone: "www.googletagmanager.com." always_null
 local-zone: "www138.civicscience.com." always_null
 local-zone: "wx.xwjqr.com." always_null
 local-zone: "wxsnsdy.wxs.qq.com." always_null
