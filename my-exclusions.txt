@@ -1,3 +1,6 @@
 bitdefender.com
 login.bitdefender.com
 workers.dev
+aliexpress.com
+alicdn.com
+aliexpress-media.com

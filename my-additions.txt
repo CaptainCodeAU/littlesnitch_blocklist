@@ -1,0 +1,40 @@
+# Domains to add to all blocklists (trackers, analytics, ads)
+# These are added after exclusions/inclusions to ensure they stay blocked.
+
+# AliExpress/Alibaba trackers
+26qxvo.tdum.alibaba.com
+28345.ase.aidcgroup.net
+aplus.aliexpress.com
+ase.aidcgroup.net
+assets.alicdn.com
+us.ynuf.aliapp.org
+aplus-sdk.alibaba-inc.com
+alibaba-inc.com
+g.alicdn.com
+
+# Alicdn/AliExpress subdomains re-blocked after parent exclusion
+afp.alicdn.com
+at.alicdn.com
+atanx.alicdn.com
+atanx2.alicdn.com
+gma.alicdn.com
+gtmsdd.alicdn.com
+aliexpress.ru
+
+# Ad networks and trackers
+bat.bing.com
+taboola.com
+cdn.taboola.com
+criteo.com
+dynamic.criteo.com
+static.criteo.net
+googleads.g.doubleclick.net
+stats.g.doubleclick.net
+pagead2.googlesyndication.com
+res-odx.op-mobile.opera.com
+s.pinimg.com
+creativecdn.com
+tags.creativecdn.com
+analytics.google.com
+googletagmanager.com
+www.googletagmanager.com

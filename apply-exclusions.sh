@@ -205,3 +205,64 @@ done < "$INCLUSIONS_FILE"
 
 echo "Done. All inclusions applied."
 
+# ─────────────────────────────────────────────
+# 6. APPLY DOMAIN ADDITIONS
+# Adds domains from my-additions.txt to all
+# blocklist formats (if not already present).
+# ─────────────────────────────────────────────
+
+ADDITIONS_FILE="my-additions.txt"
+
+if [ ! -f "$ADDITIONS_FILE" ]; then
+  echo "No additions file found, skipping."
+else
+
+while IFS= read -r domain || [ -n "$domain" ]; do
+  [[ -z "$domain" || "$domain" == \#* ]] && continue
+
+  echo "Adding domain: $domain"
+
+  # blocklist.txt — ||domain^
+  grep -qxF "||${domain}^" blocklist.txt 2>/dev/null || echo "||${domain}^" >> blocklist.txt
+
+  # domains.txt — plain domain
+  grep -qxF "${domain}" domains.txt 2>/dev/null || echo "${domain}" >> domains.txt
+
+  # wildcard-blocklist.txt — *.domain
+  grep -qxF "*.${domain}" wildcard-blocklist.txt 2>/dev/null || echo "*.${domain}" >> wildcard-blocklist.txt
+
+  # unbound-blocklist.txt — local-zone: "domain." always_null
+  grep -qxF "local-zone: \"${domain}.\" always_null" unbound-blocklist.txt 2>/dev/null || echo "local-zone: \"${domain}.\" always_null" >> unbound-blocklist.txt
+
+  # rpz-blocklist.txt — domain CNAME .
+  grep -qxF "${domain} CNAME ." rpz-blocklist.txt 2>/dev/null || echo "${domain} CNAME ." >> rpz-blocklist.txt
+
+  # pihole-blocklist.txt — 0.0.0.0 domain
+  grep -qxF "0.0.0.0 ${domain}" pihole-blocklist.txt 2>/dev/null || echo "0.0.0.0 ${domain}" >> pihole-blocklist.txt
+
+  # hosts-blocklist.txt — 0.0.0.0 domain
+  grep -qxF "0.0.0.0 ${domain}" hosts-blocklist.txt 2>/dev/null || echo "0.0.0.0 ${domain}" >> hosts-blocklist.txt
+
+  # little-snitch-blocklist.lsrules — add to denied-remote-domains JSON array
+  python3 - << PYEOF
+import json
+with open('little-snitch-blocklist.lsrules', 'r') as f:
+    data = json.load(f)
+domain = "${domain}"
+if domain not in data.get('denied-remote-domains', []):
+    data.setdefault('denied-remote-domains', []).append(domain)
+    with open('little-snitch-blocklist.lsrules', 'w') as f:
+        json.dump(data, f, indent=4)
+PYEOF
+
+done < "$ADDITIONS_FILE"
+
+# Re-sort text-based blocklist files
+for f in blocklist.txt domains.txt wildcard-blocklist.txt unbound-blocklist.txt \
+         rpz-blocklist.txt pihole-blocklist.txt hosts-blocklist.txt; do
+  sort -uf "$f" -o "$f"
+done
+
+echo "Done. All additions applied."
+fi
+
