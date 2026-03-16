@@ -1,4 +1,9 @@
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 *.0.r.msn.com
 *.000dn.com
 *.001union.com
@@ -22604,8 +22609,3 @@
 *.zzsx8.com
 *.zzy1.quyaoya.com
 *.zzzjvqzkmqllb.top
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Title: ph00lt0 - Blocklist
