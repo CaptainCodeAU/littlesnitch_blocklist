@@ -1,2 +1,4 @@
 # Exact bare domain unblocks — subdomains and wildcards remain blocked
 sentry.io
+g.alicdn.com
+at.alicdn.com

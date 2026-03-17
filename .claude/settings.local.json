@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash apply-exclusions.sh)",
+      "Bash(git status:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

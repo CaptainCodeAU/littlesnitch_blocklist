@@ -10,11 +10,9 @@ assets.alicdn.com
 us.ynuf.aliapp.org
 aplus-sdk.alibaba-inc.com
 alibaba-inc.com
-g.alicdn.com
 
 # Alicdn/AliExpress subdomains re-blocked after parent exclusion
 afp.alicdn.com
-at.alicdn.com
 atanx.alicdn.com
 atanx2.alicdn.com
 gma.alicdn.com

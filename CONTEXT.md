@@ -16,7 +16,7 @@ A fork of [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) that adds pe
 |---|---|
 | `apply-exclusions.sh` | Main script — 6 stages, run after every upstream sync |
 | `my-exclusions.txt` | Parent domains to fully unblock (parent + subdomains removed) |
-| `my-inclusions.txt` | Exact bare domains to unblock (subdomains stay blocked) |
+| `my-inclusions.txt` | Exact domains to unblock (any domain, including subdomains — only that exact entry is removed) |
 | `my-additions.txt` | Domains to force-add to all blocklist formats |
 | `little-snitch-blocklist.lsrules` | JSON blocklist for Little Snitch (primary use case) |
 | `blocklist.txt` | AdBlock Plus format (`\|\|domain^`) |
@@ -65,11 +65,16 @@ These two mechanisms look similar but work very differently.
 
 ### Inclusions (Stage 5) — Surgical exact-domain removal
 
-**Purpose:** Unblock a specific domain while keeping all its subdomains blocked.
+**Purpose:** Unblock a specific exact domain — whether it's a parent domain or a subdomain. Only that exact entry is removed; nothing else is touched.
 
-**Mechanism:** All sed patterns are fully anchored (`^...$`). Only the exact bare domain is removed. Subdomains and wildcards are untouched.
+**Mechanism:** All sed patterns are fully anchored (`^...$`). Only the exact domain string is removed. Other entries (parent, sibling subdomains, child subdomains, wildcards) are untouched.
 
-**Example:** `sentry.io` in `my-inclusions.txt` removes `sentry.io` from all lists, but `sub.sentry.io` stays blocked.
+**Use cases:**
+
+- Unblock a parent domain while keeping its subdomains blocked (e.g., `sentry.io` — the main site is accessible, but `sub.sentry.io` stays blocked)
+- Unblock an upstream subdomain that survived a parent exclusion (e.g., `g.alicdn.com` is in upstream as its own entry — excluding the parent `alicdn.com` only removes the parent, not this subdomain entry)
+
+**Common pitfall:** If a subdomain like `g.alicdn.com` exists as its own entry in the upstream blocklist, excluding the parent `alicdn.com` does NOT remove it. The exclusion only removes the exact parent entry. To unblock such a subdomain, you must add it to `my-inclusions.txt`. Simply removing it from `my-additions.txt` is not enough if upstream has its own entry for it.
 
 ### Additions (Stage 6) — Force-add domains
 
@@ -89,6 +94,8 @@ These two mechanisms look similar but work very differently.
 |---|---|---|
 | Need to access `www.example.com` but `example.com` is in upstream blocklist | Exclude `example.com`, then add back tracker subdomains you want blocked | `my-exclusions.txt` + `my-additions.txt` |
 | Need to access `example.com` itself but want `tracker.example.com` blocked | Include `example.com` | `my-inclusions.txt` |
+| Need to unblock a subdomain that exists as its own entry in upstream (e.g., `g.alicdn.com` after parent `alicdn.com` was excluded) | Include the subdomain | `my-inclusions.txt` |
+| Previously added a subdomain to `my-additions.txt` but now need it unblocked | Remove from `my-additions.txt` AND check if upstream has its own entry — if so, also include it | `my-additions.txt` + `my-inclusions.txt` |
 | Want to block a domain not in upstream | Add it | `my-additions.txt` |
 | Want to ensure a domain stays blocked even if upstream drops it | Add it | `my-additions.txt` |
 
@@ -103,10 +110,13 @@ These two mechanisms look similar but work very differently.
    - Subdomain entries in other formats survive because the sed patterns don't catch them
 
 2. **Added** tracker subdomains to `my-additions.txt`:
-   - `aplus.aliexpress.com`, `g.alicdn.com`, `assets.alicdn.com`, etc. — these are trackers under the excluded parents
+   - `aplus.aliexpress.com`, `assets.alicdn.com`, etc. — these are trackers under the excluded parents
    - `afp.alicdn.com`, `at.alicdn.com`, etc. — upstream subdomains that should stay blocked (belt-and-suspenders)
 
-3. **Result:** 6 functional subdomains are allowed (`www.aliexpress.com`, `acs.aliexpress.com`, `ae01.alicdn.com`, `img.alicdn.com`, `assets.aliexpress-media.com`, `ae-pic-a1.aliexpress-media.com`) while all tracker subdomains remain blocked.
+3. **Included** `g.alicdn.com` in `my-inclusions.txt`:
+   - `g.alicdn.com` exists as its own entry in the upstream blocklist. Excluding the parent `alicdn.com` did NOT remove it. It was initially added to `my-additions.txt` as a tracker, but later needed to be unblocked (for qwen.ai). Removing it from `my-additions.txt` alone was insufficient — the upstream entry still blocked it. Adding it to `my-inclusions.txt` surgically removes the upstream entry.
+
+4. **Result:** Functional subdomains are allowed (`www.aliexpress.com`, `acs.aliexpress.com`, `ae01.alicdn.com`, `img.alicdn.com`, `g.alicdn.com`, `assets.aliexpress-media.com`, `ae-pic-a1.aliexpress-media.com`) while all tracker subdomains remain blocked.
 
 **Note:** `aliexpress.ru` is a separate TLD (not a subdomain of `aliexpress.com`), so excluding `aliexpress.com` doesn't affect it. It's in both upstream and `my-additions.txt`.
 
@@ -142,5 +152,16 @@ When a blocked site needs to be accessible:
 3. Add the parent domain(s) to `my-exclusions.txt`
 4. Identify all subdomains of those parents that should remain blocked (trackers, analytics)
 5. Add those subdomains to `my-additions.txt`
-6. Run `apply-exclusions.sh`
-7. Verify: allowed subdomains NOT in any blocklist, tracker subdomains ARE in all blocklists, lsrules JSON is valid
+6. **Check for upstream subdomain entries** that need to be unblocked — excluding a parent does NOT remove subdomain entries that exist independently in the upstream list. Add any such subdomains to `my-inclusions.txt`
+7. Run `apply-exclusions.sh`
+8. **Verify in the lsrules file** (not just in `my-additions.txt`): allowed subdomains must NOT appear in any blocklist, tracker subdomains ARE in all blocklists, lsrules JSON is valid
+
+## Unblocking a Previously Blocked Domain (Checklist)
+
+When a domain needs to be unblocked (e.g., it was in `my-additions.txt` or exists in upstream):
+
+1. Remove it from `my-additions.txt` if present
+2. **Check if the domain exists in the upstream blocklist** — search the lsrules or domains.txt file. If it does, removing from `my-additions.txt` alone is NOT enough
+3. If it exists in upstream, add it to `my-inclusions.txt` to surgically remove the upstream entry
+4. Run `apply-exclusions.sh`
+5. **Verify in the lsrules file** that the domain is actually gone — don't assume removal from `my-additions.txt` is sufficient
