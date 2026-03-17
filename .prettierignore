@@ -1,0 +1,10 @@
+blocklist.txt
+domains.txt
+wildcard-blocklist.txt
+unbound-blocklist.txt
+rpz-blocklist.txt
+pihole-blocklist.txt
+hosts-blocklist.txt
+little-snitch-blocklist.lsrules
+install.html
+little-snitch-install.html

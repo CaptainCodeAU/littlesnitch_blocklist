@@ -95,7 +95,7 @@ NextDNS has been requested a lot. I opened a [PR](https://github.com/nextdns/blo
 https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 ```
 
-5. Press `Save`
+1. Press `Save`
 
 ### AdGuard
 
@@ -119,7 +119,7 @@ For extension/add-on or when the link does not work, follow manual steps:
 https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 ```
 
-8. For the best impact enable the `trusted` checkbox
+1. For the best impact enable the `trusted` checkbox
 2. Click `Subscribe`
 
 ### Little Snitch
@@ -141,7 +141,7 @@ crontab -l | { cat; echo "00 11 * * * /media/littlesnitch-blocklist/updater.sh";
 ./updater.sh
 ```
 
-2. Create a new rule with **000-block-domains** as name
+1. Create a new rule with **000-block-domains** as name
 2. Check the boxes `Enable`, `Priority`
 3. Set the **Duration** to always
 4. Check `To this list of domains` and select the blocklist downloaded to your machine at:
@@ -150,7 +150,7 @@ crontab -l | { cat; echo "00 11 * * * /media/littlesnitch-blocklist/updater.sh";
 /media/littlesnitch-blocklist/blocklist.txt
 ```
 
-6. Press `Apply`
+1. Press `Apply`
 
 ### uBlock Origin
 
@@ -169,7 +169,7 @@ If the click and install doesn't work you can also add the list manually:
 https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 ```
 
-6. Click the `Apply changes` button on top of the page.
+1. Click the `Apply changes` button on top of the page.
 
 ### Brave
 
@@ -179,13 +179,13 @@ https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/bl
 brave://adblock
 ```
 
-5. Under **Add custom filter lists** paste the URL from below
+1. Under **Add custom filter lists** paste the URL from below
 
 ```
 https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 ```
 
-6. Click `Add`
+1. Click `Add`
 
 ### pfBlockerNG
 
@@ -209,7 +209,7 @@ https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/bl
 https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/unbound-blocklist.txt
 ```
 
-4. Click safe.
+1. Click safe.
 2. Make sure auto updates are on, and you may force update to apply the list immediately.
 
 ### PiHole
@@ -224,11 +224,11 @@ For PiHole there is a different blocklist, containing the same domains prefixed 
 https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/hosts-blocklist.txt
 ```
 
-4. Press `Add`
+1. Press `Add`
 
 #### To update your filters
 
-5. Go to `Tools`/`Update Gravity`
+1. Go to `Tools`/`Update Gravity`
 2. Click `Update`
 
 ### RethinkDNS

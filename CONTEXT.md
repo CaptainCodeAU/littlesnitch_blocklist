@@ -12,20 +12,20 @@ A fork of [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) that adds pe
 
 ## Repository Layout
 
-| File | Purpose |
-|---|---|
-| `apply-exclusions.sh` | Main script — 7 stages, run after every upstream sync |
-| `my-exclusions.txt` | Parent domains to fully unblock (parent + subdomains removed) |
-| `my-inclusions.txt` | Exact domains to unblock (any domain, including subdomains — only that exact entry is removed) |
-| `my-additions.txt` | Domains to force-add to all blocklist formats |
-| `little-snitch-blocklist.lsrules` | JSON blocklist for Little Snitch (primary use case) |
-| `blocklist.txt` | AdBlock Plus format (`\|\|domain^`) |
-| `domains.txt` | Plain domain list |
-| `wildcard-blocklist.txt` | Wildcard format (`*.domain`) |
-| `unbound-blocklist.txt` | Unbound DNS format |
-| `rpz-blocklist.txt` | RPZ format (`domain CNAME .`) |
-| `pihole-blocklist.txt` | Pi-hole format (`0.0.0.0 domain`) |
-| `hosts-blocklist.txt` | Hosts file format (`0.0.0.0 domain`) |
+| File                              | Purpose                                                                                        |
+| --------------------------------- | ---------------------------------------------------------------------------------------------- |
+| `apply-exclusions.sh`             | Main script — 7 stages, run after every upstream sync                                          |
+| `my-exclusions.txt`               | Parent domains to fully unblock (parent + subdomains removed)                                  |
+| `my-inclusions.txt`               | Exact domains to unblock (any domain, including subdomains — only that exact entry is removed) |
+| `my-additions.txt`                | Domains to force-add to all blocklist formats                                                  |
+| `little-snitch-blocklist.lsrules` | JSON blocklist for Little Snitch (primary use case)                                            |
+| `blocklist.txt`                   | AdBlock Plus format (`\|\|domain^`)                                                            |
+| `domains.txt`                     | Plain domain list                                                                              |
+| `wildcard-blocklist.txt`          | Wildcard format (`*.domain`)                                                                   |
+| `unbound-blocklist.txt`           | Unbound DNS format                                                                             |
+| `rpz-blocklist.txt`               | RPZ format (`domain CNAME .`)                                                                  |
+| `pihole-blocklist.txt`            | Pi-hole format (`0.0.0.0 domain`)                                                              |
+| `hosts-blocklist.txt`             | Hosts file format (`0.0.0.0 domain`)                                                           |
 
 ## The 7 Stages of `apply-exclusions.sh`
 
@@ -49,16 +49,16 @@ These two mechanisms look similar but work very differently.
 
 **Mechanism per format:**
 
-| Format | sed pattern | Catches subdomains? |
-|---|---|---|
-| `blocklist.txt` | `/\|\|DOMAIN^/d` (unanchored) | NO — `\|\|sub.DOMAIN^` does not contain `\|\|DOMAIN^` |
-| `wildcard-blocklist.txt` | `/\*\.DOMAIN/d` (unanchored) | NO — `*.sub.DOMAIN` does not contain `*.DOMAIN` |
-| `domains.txt` | `/^DOMAIN$/d` (anchored) | NO |
-| `pihole-blocklist.txt` | `/^0\.0\.0\.0 DOMAIN$/d` (anchored) | NO |
-| `hosts-blocklist.txt` | `/^0\.0\.0\.0 DOMAIN$/d` (anchored) | NO |
-| `unbound-blocklist.txt` | `/local-zone: "DOMAIN\." always_null/d` (unanchored) | NO |
-| `rpz-blocklist.txt` | `/^DOMAIN CNAME \./d` (anchored) | NO |
-| `lsrules` | Python `d != domain` exact match | NO |
+| Format                   | sed pattern                                          | Catches subdomains?                                   |
+| ------------------------ | ---------------------------------------------------- | ----------------------------------------------------- |
+| `blocklist.txt`          | `/\|\|DOMAIN^/d` (unanchored)                        | NO — `\|\|sub.DOMAIN^` does not contain `\|\|DOMAIN^` |
+| `wildcard-blocklist.txt` | `/\*\.DOMAIN/d` (unanchored)                         | NO — `*.sub.DOMAIN` does not contain `*.DOMAIN`       |
+| `domains.txt`            | `/^DOMAIN$/d` (anchored)                             | NO                                                    |
+| `pihole-blocklist.txt`   | `/^0\.0\.0\.0 DOMAIN$/d` (anchored)                  | NO                                                    |
+| `hosts-blocklist.txt`    | `/^0\.0\.0\.0 DOMAIN$/d` (anchored)                  | NO                                                    |
+| `unbound-blocklist.txt`  | `/local-zone: "DOMAIN\." always_null/d` (unanchored) | NO                                                    |
+| `rpz-blocklist.txt`      | `/^DOMAIN CNAME \./d` (anchored)                     | NO                                                    |
+| `lsrules`                | Python `d != domain` exact match                     | NO                                                    |
 
 **Key insight:** Despite being called "exclusions," the sed patterns actually only remove exact parent entries, NOT subdomain entries. Subdomains from upstream survive exclusion. This is fine for our purpose — we only need the parent domain gone.
 
@@ -91,14 +91,14 @@ These two mechanisms look similar but work very differently.
 
 ## When to Use Which Mechanism
 
-| Scenario | Mechanism | File |
-|---|---|---|
-| Need to access `www.example.com` but `example.com` is in upstream blocklist | Exclude `example.com`, then add back tracker subdomains you want blocked | `my-exclusions.txt` + `my-additions.txt` |
-| Need to access `example.com` itself but want `tracker.example.com` blocked | Include `example.com` | `my-inclusions.txt` |
-| Need to unblock a subdomain that exists as its own entry in upstream (e.g., `g.alicdn.com` after parent `alicdn.com` was excluded) | Include the subdomain | `my-inclusions.txt` |
-| Previously added a subdomain to `my-additions.txt` but now need it unblocked | Remove from `my-additions.txt` AND check if upstream has its own entry — if so, also include it | `my-additions.txt` + `my-inclusions.txt` |
-| Want to block a domain not in upstream | Add it | `my-additions.txt` |
-| Want to ensure a domain stays blocked even if upstream drops it | Add it | `my-additions.txt` |
+| Scenario                                                                                                                           | Mechanism                                                                                       | File                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Need to access `www.example.com` but `example.com` is in upstream blocklist                                                        | Exclude `example.com`, then add back tracker subdomains you want blocked                        | `my-exclusions.txt` + `my-additions.txt` |
+| Need to access `example.com` itself but want `tracker.example.com` blocked                                                         | Include `example.com`                                                                           | `my-inclusions.txt`                      |
+| Need to unblock a subdomain that exists as its own entry in upstream (e.g., `g.alicdn.com` after parent `alicdn.com` was excluded) | Include the subdomain                                                                           | `my-inclusions.txt`                      |
+| Previously added a subdomain to `my-additions.txt` but now need it unblocked                                                       | Remove from `my-additions.txt` AND check if upstream has its own entry — if so, also include it | `my-additions.txt` + `my-inclusions.txt` |
+| Want to block a domain not in upstream                                                                                             | Add it                                                                                          | `my-additions.txt`                       |
+| Want to ensure a domain stays blocked even if upstream drops it                                                                    | Add it                                                                                          | `my-additions.txt`                       |
 
 ## The AliExpress Case Study
 
@@ -107,15 +107,15 @@ These two mechanisms look similar but work very differently.
 **Solution:**
 
 1. **Excluded** parent domains: `aliexpress.com`, `alicdn.com`, `aliexpress-media.com`
-   - This removes the parent entries from lsrules (stopping LS suffix matching) and from `wildcard-blocklist.txt` (removing `*.alicdn.com` etc.)
-   - Subdomain entries in other formats survive because the sed patterns don't catch them
+    - This removes the parent entries from lsrules (stopping LS suffix matching) and from `wildcard-blocklist.txt` (removing `*.alicdn.com` etc.)
+    - Subdomain entries in other formats survive because the sed patterns don't catch them
 
 2. **Added** tracker subdomains to `my-additions.txt`:
-   - `aplus.aliexpress.com`, `assets.alicdn.com`, etc. — these are trackers under the excluded parents
-   - `afp.alicdn.com`, `at.alicdn.com`, etc. — upstream subdomains that should stay blocked (belt-and-suspenders)
+    - `aplus.aliexpress.com`, `assets.alicdn.com`, etc. — these are trackers under the excluded parents
+    - `afp.alicdn.com`, `at.alicdn.com`, etc. — upstream subdomains that should stay blocked (belt-and-suspenders)
 
 3. **Included** `g.alicdn.com` and `at.alicdn.com` in `my-inclusions.txt`:
-   - Both exist as their own entries in the upstream blocklist. Excluding the parent `alicdn.com` did NOT remove them. They were initially in `my-additions.txt` as trackers, but later needed to be unblocked (for qwen.ai). Removing them from `my-additions.txt` alone was insufficient — the upstream entries still blocked them. Adding them to `my-inclusions.txt` surgically removes the upstream entries.
+    - Both exist as their own entries in the upstream blocklist. Excluding the parent `alicdn.com` did NOT remove them. They were initially in `my-additions.txt` as trackers, but later needed to be unblocked (for qwen.ai). Removing them from `my-additions.txt` alone was insufficient — the upstream entries still blocked them. Adding them to `my-inclusions.txt` surgically removes the upstream entries.
 
 4. **Result:** Functional subdomains are allowed (`www.aliexpress.com`, `acs.aliexpress.com`, `ae01.alicdn.com`, `img.alicdn.com`, `g.alicdn.com`, `at.alicdn.com`, `assets.aliexpress-media.com`, `ae-pic-a1.aliexpress-media.com`) while all tracker subdomains remain blocked.
 
