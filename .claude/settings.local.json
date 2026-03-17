@@ -3,7 +3,8 @@
     "allow": [
       "Bash(bash apply-exclusions.sh)",
       "Bash(git status:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "mcp__plugin_github_github__get_file_contents"
     ]
   }
 }

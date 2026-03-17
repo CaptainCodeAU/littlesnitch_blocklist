@@ -266,3 +266,80 @@ done
 echo "Done. All additions applied."
 fi
 
+# ─────────────────────────────────────────────
+# 7. LOCAL RUN CLEANUP
+# When running locally (not in GitHub Actions),
+# restore all generated blocklist files to their
+# git-committed state. This prevents accidentally
+# committing blocklist changes that should only
+# be committed by the GitHub Actions workflow.
+# ─────────────────────────────────────────────
+
+if [ "$GITHUB_ACTIONS" != "true" ]; then
+  echo ""
+  echo "═══════════════════════════════════════════"
+  echo "  LOCAL RUN DETECTED"
+  echo "═══════════════════════════════════════════"
+  echo ""
+  echo "Verifying inclusions were removed from lsrules..."
+
+  INCLUSION_ERRORS=0
+  if [ -f "$INCLUSIONS_FILE" ]; then
+    while IFS= read -r domain || [ -n "$domain" ]; do
+      [[ -z "$domain" || "$domain" == \#* ]] && continue
+      if grep -q "\"${domain}\"" little-snitch-blocklist.lsrules 2>/dev/null; then
+        echo "  ✗ STILL PRESENT: $domain"
+        INCLUSION_ERRORS=1
+      else
+        echo "  ✓ Removed: $domain"
+      fi
+    done < "$INCLUSIONS_FILE"
+  fi
+
+  echo ""
+  echo "Verifying additions are present in lsrules..."
+
+  ADDITION_ERRORS=0
+  if [ -f "$ADDITIONS_FILE" ]; then
+    while IFS= read -r domain || [ -n "$domain" ]; do
+      [[ -z "$domain" || "$domain" == \#* ]] && continue
+      if grep -q "\"${domain}\"" little-snitch-blocklist.lsrules 2>/dev/null; then
+        echo "  ✓ Present: $domain"
+      else
+        echo "  ✗ MISSING: $domain"
+        ADDITION_ERRORS=1
+      fi
+    done < "$ADDITIONS_FILE"
+  fi
+
+  echo ""
+  if [ "$INCLUSION_ERRORS" -eq 1 ] || [ "$ADDITION_ERRORS" -eq 1 ]; then
+    echo "⚠ Verification found issues — review above."
+  else
+    echo "All verifications passed."
+  fi
+
+  echo ""
+  echo "Restoring blocklist files to git state..."
+
+  GENERATED_FILES=(
+    blocklist.txt
+    domains.txt
+    wildcard-blocklist.txt
+    unbound-blocklist.txt
+    rpz-blocklist.txt
+    pihole-blocklist.txt
+    hosts-blocklist.txt
+    little-snitch-blocklist.lsrules
+    install.html
+    little-snitch-install.html
+    README.md
+  )
+
+  git checkout -- "${GENERATED_FILES[@]}"
+  echo "Done. Blocklist files restored — only my-*.txt changes remain."
+  echo ""
+  echo "DO NOT commit blocklist files manually."
+  echo "The GitHub Actions workflow handles that on sync."
+fi
+
