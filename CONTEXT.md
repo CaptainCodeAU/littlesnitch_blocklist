@@ -1,6 +1,6 @@
 # Blocklist Fork — Project Context & Reference
 
-This file captures the logic, nuances, and decisions for this fork of `ph00lt0/blocklist`. Attach it to new conversations so they start with full understanding.
+This file captures the logic, nuances, and decisions for this fork of `ph00lt0/blocklist`.
 
 ## What This Project Is
 

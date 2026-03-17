@@ -1,3 +1,5 @@
+**Before making any changes to this project, read `CONTEXT.md` in full.** It contains critical details about how exclusions, inclusions, and additions work, including common pitfalls that will cause mistakes if missed.
+
 When running Python directly from the command line (e.g. `python3 -c "..."` or `python3 script.py`), use `uv run python3` instead. This does NOT apply to `python3` invocations inside bash scripts — those work as-is.
 
 ## Workflow — making changes locally
