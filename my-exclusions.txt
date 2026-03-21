@@ -4,3 +4,4 @@ workers.dev
 aliexpress.com
 alicdn.com
 aliexpress-media.com
+alibaba.com
