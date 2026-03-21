@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 000dn.com
 0.0.0.0 001union.com
@@ -464,13 +464,11 @@
 0.0.0.0 265.com
 0.0.0.0 268mob.cn
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-0.0.0.0 26qxvo.tdum.alibaba.com
 0.0.0.0 26zsd.cn
 0.0.0.0 270degrees.io
 0.0.0.0 272xb.com
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
-0.0.0.0 28345.ase.aidcgroup.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 0.0.0.0 28acglz.com
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2953,10 +2951,11 @@
 0.0.0.0 algonomy.com
 0.0.0.0 algorecs.com
 0.0.0.0 aliabdaal.ck.page
-0.0.0.0 alibaba-inc.com
 0.0.0.0 alibaba.com
+0.0.0.0 alicdn.com
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.com
 0.0.0.0 aliexpress.ru
 0.0.0.0 alignmentdisabled.netalignmentdisabled.net
 0.0.0.0 alikunlun.com
@@ -3599,8 +3598,6 @@
 0.0.0.0 apkdo.com
 0.0.0.0 apkpure.net
 0.0.0.0 aplikacii.com
-0.0.0.0 aplus-sdk.alibaba-inc.com
-0.0.0.0 aplus.aliexpress.com
 0.0.0.0 apm.bigbank.eu
 0.0.0.0 apm.tnet.nl
 0.0.0.0 apnarm.net.au
@@ -3898,7 +3895,6 @@
 0.0.0.0 asd.projectfreetv.so
 0.0.0.0 asda.com.akadns.net
 0.0.0.0 asdfghjkl.ovh
-0.0.0.0 ase.aidcgroup.net
 0.0.0.0 ase.com
 0.0.0.0 aseads.com
 0.0.0.0 asfinagv8.azureedge.net
@@ -3935,7 +3931,6 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adobetm.com
 0.0.0.0 assets.adsttc.com
-0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.cengage.com
 0.0.0.0 assets.contently.com
 0.0.0.0 assets.context.ly
@@ -4706,6 +4701,7 @@
 0.0.0.0 beta.publishers.adsterra.com
 0.0.0.0 betaaldienst-aanvraag.nl
 0.0.0.0 betano.de
+0.0.0.0 betarino.com
 0.0.0.0 betatraining.eu
 0.0.0.0 betcity.net
 0.0.0.0 betcity.nl
@@ -4881,6 +4877,7 @@
 0.0.0.0 bitbrowser.net
 0.0.0.0 bitcoin-powersupply.com
 0.0.0.0 bitcoinbazis.hu
+0.0.0.0 bitdefender.com
 0.0.0.0 bitdreams.com
 0.0.0.0 bitgravity.com
 0.0.0.0 bitlabon.com
@@ -7561,6 +7558,7 @@
 0.0.0.0 cyad123.com
 0.0.0.0 cybba.solutions
 0.0.0.0 cyberawareness.top
+0.0.0.0 cyberdude.com
 0.0.0.0 cyberflow.com
 0.0.0.0 cybergal.com
 0.0.0.0 cyberlink.com
@@ -8270,6 +8268,7 @@
 0.0.0.0 defybrick.com
 0.0.0.0 degoudsbloem.be
 0.0.0.0 dehelendereisindepraktijk.nl
+0.0.0.0 dein-juwelier.de
 0.0.0.0 deinchatbot-speech.azurewebsites.net
 0.0.0.0 deinneueszuhause.de
 0.0.0.0 dejing.laobanfa.com
@@ -8294,6 +8293,7 @@
 0.0.0.0 delkenboot.nl
 0.0.0.0 dell-cidr.akadns.net
 0.0.0.0 delmovip.com
+0.0.0.0 delosmail.com
 0.0.0.0 delottery.com
 0.0.0.0 deltadna.com
 0.0.0.0 deltadna.net
@@ -10214,7 +10214,6 @@
 0.0.0.0 g.163.com
 0.0.0.0 g.3gl.net
 0.0.0.0 g.adspeed.net
-0.0.0.0 g.alicdn.com
 0.0.0.0 g.baidu.com
 0.0.0.0 g.brothersoft.com
 0.0.0.0 g.chuiyao.com
@@ -10718,6 +10717,7 @@
 0.0.0.0 go.techtarget.com
 0.0.0.0 go.tokenex.com
 0.0.0.0 go.turning.com
+0.0.0.0 go1001000.com
 0.0.0.0 go2app.org
 0.0.0.0 go2cloud.org
 0.0.0.0 go2jump.org
@@ -12097,6 +12097,7 @@
 0.0.0.0 infor.com
 0.0.0.0 informa.com
 0.0.0.0 informamarkets.com
+0.0.0.0 informatel.cloud
 0.0.0.0 informatie-over-energietarieven.nl
 0.0.0.0 informer.yandex.ru
 0.0.0.0 informizely.com
@@ -12692,6 +12693,7 @@
 0.0.0.0 jouwhorizon.be
 0.0.0.0 jouwstartonline.nl
 0.0.0.0 jouwvindplaats.nl
+0.0.0.0 jov.io
 0.0.0.0 jovanca.nl
 0.0.0.0 joyfuldoors.com
 0.0.0.0 joygameplace.com
@@ -14001,6 +14003,7 @@
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-api.proton.me.fritz.box
 0.0.0.0 mail-boutique2.fr
+0.0.0.0 mail-buzzee.fr
 0.0.0.0 mail-contact-unsub.eu
 0.0.0.0 mail.clickup.com
 0.0.0.0 mail.cos.com
@@ -14079,6 +14082,7 @@
 0.0.0.0 mapromessechic.fr
 0.0.0.0 maquipan.cl
 0.0.0.0 marathonbet.dk
+0.0.0.0 marblerenew.com
 0.0.0.0 marfeel.com
 0.0.0.0 marfeelcache.com
 0.0.0.0 marfeelrev.com
@@ -15047,6 +15051,7 @@
 0.0.0.0 narendramodiapp.com
 0.0.0.0 narrativ.com
 0.0.0.0 nasamlinkes.nl
+0.0.0.0 nasentc.com
 0.0.0.0 nasma.be
 0.0.0.0 national-lottery.co.uk
 0.0.0.0 nationale-loterij.be
@@ -17537,7 +17542,6 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 rereddit.com
 0.0.0.0 res-geo.cdn.office.net
-0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 res-x.com
 0.0.0.0 res.adcome.cn
 0.0.0.0 res.aduu.cn
@@ -17909,7 +17913,6 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 s.on-device.com
 0.0.0.0 s.p.youku.com
-0.0.0.0 s.pinimg.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.qd.qingting.fm
 0.0.0.0 s.qd.qingtingfm.com
@@ -18344,6 +18347,7 @@
 0.0.0.0 securityiq.infosecinstitute.com
 0.0.0.0 securitysoftwarezone.com
 0.0.0.0 securitytrfx.com
+0.0.0.0 sedioliniauto.com
 0.0.0.0 seebug.org
 0.0.0.0 seeding-alliance.de
 0.0.0.0 seedtag.com
@@ -18418,6 +18422,7 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
+0.0.0.0 sentry.io
 0.0.0.0 sentry.issuu.com
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.lbry.tech
@@ -19967,7 +19972,6 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.chip.de
-0.0.0.0 tags.creativecdn.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.experian.co.uk
 0.0.0.0 tags.expo9.exponential.com
@@ -20343,6 +20347,7 @@
 0.0.0.0 tianyanzs.com
 0.0.0.0 tiara.daum.net
 0.0.0.0 ticcdn.com
+0.0.0.0 tickster.com
 0.0.0.0 tics.techdirt.com
 0.0.0.0 tidio.co
 0.0.0.0 tifbs.net
@@ -20664,6 +20669,7 @@
 0.0.0.0 training.marketing.linkedin.com
 0.0.0.0 training.sales.linkedin.com
 0.0.0.0 training.talent.linkedin.com
+0.0.0.0 trainingcreatively.com
 0.0.0.0 tralog.ganji.com
 0.0.0.0 transact.lastpass.com
 0.0.0.0 transcend.io
@@ -20693,6 +20699,7 @@
 0.0.0.0 treasuredata.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
+0.0.0.0 treflio.com
 0.0.0.0 tremorhub.com
 0.0.0.0 tremorvideo.com
 0.0.0.0 trendalytics.co
@@ -20761,6 +20768,7 @@
 0.0.0.0 truste.com
 0.0.0.0 trustedform.com
 0.0.0.0 trustedshops.com
+0.0.0.0 trustedshops.de
 0.0.0.0 trustedsource.org
 0.0.0.0 trustgram.co
 0.0.0.0 trustguard.com
@@ -21134,7 +21142,6 @@
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.bannyat.com
 0.0.0.0 us.tags.newscgp.com
-0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us01campaign.zoom.us
 0.0.0.0 us3.datadoghq.com
@@ -21931,6 +21938,7 @@
 0.0.0.0 wiyun.com
 0.0.0.0 wizaly.com
 0.0.0.0 wjguc.com
+0.0.0.0 wjqinghe.com
 0.0.0.0 wjs.wurflcloud.com
 0.0.0.0 wka8.com
 0.0.0.0 wkanc.51y5.net
@@ -21967,6 +21975,7 @@
 0.0.0.0 wootric.com.herokudns.com
 0.0.0.0 wordstream.com
 0.0.0.0 workarea.com
+0.0.0.0 workers.dev
 0.0.0.0 workingatcompanyinfo.nl
 0.0.0.0 worldaccelerator.com
 0.0.0.0 worldchasetag.com
@@ -22054,7 +22063,6 @@
 0.0.0.0 www-cultofmac-com.ezoic.net
 0.0.0.0 www-elperiodic-com.translate.goog
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 wxsnsdy.wxs.qq.com

@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.r.msn.com CNAME .
 000dn.com CNAME .
 001union.com CNAME .
@@ -464,13 +464,11 @@
 265.com CNAME .
 268mob.cn CNAME .
 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com CNAME .
-26qxvo.tdum.alibaba.com CNAME .
 26zsd.cn CNAME .
 270degrees.io CNAME .
 272xb.com CNAME .
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com CNAME .
 27qfj.x.incapdns.net CNAME .
-28345.ase.aidcgroup.net CNAME .
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com CNAME .
 28acglz.com CNAME .
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com CNAME .
@@ -2953,10 +2951,11 @@ algbid.app CNAME .
 algonomy.com CNAME .
 algorecs.com CNAME .
 aliabdaal.ck.page CNAME .
-alibaba-inc.com CNAME .
 alibaba.com CNAME .
+alicdn.com CNAME .
 alicloudapi.com CNAME .
 alida.com CNAME .
+aliexpress.com CNAME .
 aliexpress.ru CNAME .
 alignmentdisabled.netalignmentdisabled.net CNAME .
 alikunlun.com CNAME .
@@ -3599,8 +3598,6 @@ apkarchive.ru CNAME .
 apkdo.com CNAME .
 apkpure.net CNAME .
 aplikacii.com CNAME .
-aplus-sdk.alibaba-inc.com CNAME .
-aplus.aliexpress.com CNAME .
 apm.bigbank.eu CNAME .
 apm.tnet.nl CNAME .
 apnarm.net.au CNAME .
@@ -3898,7 +3895,6 @@ asciinema.org CNAME .
 asd.projectfreetv.so CNAME .
 asda.com.akadns.net CNAME .
 asdfghjkl.ovh CNAME .
-ase.aidcgroup.net CNAME .
 ase.com CNAME .
 aseads.com CNAME .
 asfinagv8.azureedge.net CNAME .
@@ -3935,7 +3931,6 @@ assets.a-mo.net CNAME .
 assets.adobedtm.com CNAME .
 assets.adobetm.com CNAME .
 assets.adsttc.com CNAME .
-assets.alicdn.com CNAME .
 assets.cengage.com CNAME .
 assets.contently.com CNAME .
 assets.context.ly CNAME .
@@ -4706,6 +4701,7 @@ beta.partners.adsterra.com CNAME .
 beta.publishers.adsterra.com CNAME .
 betaaldienst-aanvraag.nl CNAME .
 betano.de CNAME .
+betarino.com CNAME .
 betatraining.eu CNAME .
 betcity.net CNAME .
 betcity.nl CNAME .
@@ -4881,6 +4877,7 @@ bitban.com CNAME .
 bitbrowser.net CNAME .
 bitcoin-powersupply.com CNAME .
 bitcoinbazis.hu CNAME .
+bitdefender.com CNAME .
 bitdreams.com CNAME .
 bitgravity.com CNAME .
 bitlabon.com CNAME .
@@ -7561,6 +7558,7 @@ cyad1.nate.com CNAME .
 cyad123.com CNAME .
 cybba.solutions CNAME .
 cyberawareness.top CNAME .
+cyberdude.com CNAME .
 cyberflow.com CNAME .
 cybergal.com CNAME .
 cyberlink.com CNAME .
@@ -8270,6 +8268,7 @@ definitivehc.com CNAME .
 defybrick.com CNAME .
 degoudsbloem.be CNAME .
 dehelendereisindepraktijk.nl CNAME .
+dein-juwelier.de CNAME .
 deinchatbot-speech.azurewebsites.net CNAME .
 deinneueszuhause.de CNAME .
 dejing.laobanfa.com CNAME .
@@ -8294,6 +8293,7 @@ delivery.wasu.cn CNAME .
 delkenboot.nl CNAME .
 dell-cidr.akadns.net CNAME .
 delmovip.com CNAME .
+delosmail.com CNAME .
 delottery.com CNAME .
 deltadna.com CNAME .
 deltadna.net CNAME .
@@ -10214,7 +10214,6 @@ g-fiber.co.id CNAME .
 g.163.com CNAME .
 g.3gl.net CNAME .
 g.adspeed.net CNAME .
-g.alicdn.com CNAME .
 g.baidu.com CNAME .
 g.brothersoft.com CNAME .
 g.chuiyao.com CNAME .
@@ -10718,6 +10717,7 @@ go.tapad.com CNAME .
 go.techtarget.com CNAME .
 go.tokenex.com CNAME .
 go.turning.com CNAME .
+go1001000.com CNAME .
 go2app.org CNAME .
 go2cloud.org CNAME .
 go2jump.org CNAME .
@@ -12097,6 +12097,7 @@ infonline.de CNAME .
 infor.com CNAME .
 informa.com CNAME .
 informamarkets.com CNAME .
+informatel.cloud CNAME .
 informatie-over-energietarieven.nl CNAME .
 informer.yandex.ru CNAME .
 informizely.com CNAME .
@@ -12692,6 +12693,7 @@ journeytherapiedebron.nl CNAME .
 jouwhorizon.be CNAME .
 jouwstartonline.nl CNAME .
 jouwvindplaats.nl CNAME .
+jov.io CNAME .
 jovanca.nl CNAME .
 joyfuldoors.com CNAME .
 joygameplace.com CNAME .
@@ -14001,6 +14003,7 @@ maibahe300cc.com CNAME .
 mail-ads.google.com CNAME .
 mail-api.proton.me.fritz.box CNAME .
 mail-boutique2.fr CNAME .
+mail-buzzee.fr CNAME .
 mail-contact-unsub.eu CNAME .
 mail.clickup.com CNAME .
 mail.cos.com CNAME .
@@ -14079,6 +14082,7 @@ mapp.com CNAME .
 mapromessechic.fr CNAME .
 maquipan.cl CNAME .
 marathonbet.dk CNAME .
+marblerenew.com CNAME .
 marfeel.com CNAME .
 marfeelcache.com CNAME .
 marfeelrev.com CNAME .
@@ -15047,6 +15051,7 @@ naqigs.com CNAME .
 narendramodiapp.com CNAME .
 narrativ.com CNAME .
 nasamlinkes.nl CNAME .
+nasentc.com CNAME .
 nasma.be CNAME .
 national-lottery.co.uk CNAME .
 nationale-loterij.be CNAME .
@@ -17537,7 +17542,6 @@ request.eprotect.vantivcnp.com CNAME .
 requestmetrics.com CNAME .
 rereddit.com CNAME .
 res-geo.cdn.office.net CNAME .
-res-odx.op-mobile.opera.com CNAME .
 res-x.com CNAME .
 res.adcome.cn CNAME .
 res.aduu.cn CNAME .
@@ -17909,7 +17913,6 @@ s.nitropay.com CNAME .
 s.ntv.io CNAME .
 s.on-device.com CNAME .
 s.p.youku.com CNAME .
-s.pinimg.com CNAME .
 s.pubmine.com CNAME .
 s.qd.qingting.fm CNAME .
 s.qd.qingtingfm.com CNAME .
@@ -18344,6 +18347,7 @@ security.browser.miui.com CNAME .
 securityiq.infosecinstitute.com CNAME .
 securitysoftwarezone.com CNAME .
 securitytrfx.com CNAME .
+sedioliniauto.com CNAME .
 seebug.org CNAME .
 seeding-alliance.de CNAME .
 seedtag.com CNAME .
@@ -18418,6 +18422,7 @@ sentry.hetzner.company CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.internxt.com CNAME .
 sentry.invoicing.co CNAME .
+sentry.io CNAME .
 sentry.issuu.com CNAME .
 sentry.justwatch.com CNAME .
 sentry.lbry.tech CNAME .
@@ -19967,7 +19972,6 @@ tags.aljazeera.com CNAME .
 tags.bluekai.com CNAME .
 tags.catapultx.com CNAME .
 tags.chip.de CNAME .
-tags.creativecdn.com CNAME .
 tags.crwdcntrl.net CNAME .
 tags.experian.co.uk CNAME .
 tags.expo9.exponential.com CNAME .
@@ -20343,6 +20347,7 @@ tianqi777.com CNAME .
 tianyanzs.com CNAME .
 tiara.daum.net CNAME .
 ticcdn.com CNAME .
+tickster.com CNAME .
 tics.techdirt.com CNAME .
 tidio.co CNAME .
 tifbs.net CNAME .
@@ -20664,6 +20669,7 @@ trafico.prensaiberica.es CNAME .
 training.marketing.linkedin.com CNAME .
 training.sales.linkedin.com CNAME .
 training.talent.linkedin.com CNAME .
+trainingcreatively.com CNAME .
 tralog.ganji.com CNAME .
 transact.lastpass.com CNAME .
 transcend.io CNAME .
@@ -20693,6 +20699,7 @@ trckzone24.com CNAME .
 treasuredata.com CNAME .
 treatment.grammarly.com CNAME .
 tredir.go.com CNAME .
+treflio.com CNAME .
 tremorhub.com CNAME .
 tremorvideo.com CNAME .
 trendalytics.co CNAME .
@@ -20761,6 +20768,7 @@ trustcorsystems.com CNAME .
 truste.com CNAME .
 trustedform.com CNAME .
 trustedshops.com CNAME .
+trustedshops.de CNAME .
 trustedsource.org CNAME .
 trustgram.co CNAME .
 trustguard.com CNAME .
@@ -21134,7 +21142,6 @@ us-reviews.com CNAME .
 us-u.openx.net CNAME .
 us.bannyat.com CNAME .
 us.tags.newscgp.com CNAME .
-us.ynuf.aliapp.org CNAME .
 us01.rayjump.com CNAME .
 us01campaign.zoom.us CNAME .
 us3.datadoghq.com CNAME .
@@ -21931,6 +21938,7 @@ withcabin.com CNAME .
 wiyun.com CNAME .
 wizaly.com CNAME .
 wjguc.com CNAME .
+wjqinghe.com CNAME .
 wjs.wurflcloud.com CNAME .
 wka8.com CNAME .
 wkanc.51y5.net CNAME .
@@ -21967,6 +21975,7 @@ wootric.com CNAME .
 wootric.com.herokudns.com CNAME .
 wordstream.com CNAME .
 workarea.com CNAME .
+workers.dev CNAME .
 workingatcompanyinfo.nl CNAME .
 worldaccelerator.com CNAME .
 worldchasetag.com CNAME .
@@ -22054,7 +22063,6 @@ www-analytics.esa.int CNAME .
 www-cultofmac-com.ezoic.net CNAME .
 www-elperiodic-com.translate.goog CNAME .
 www-googletagmanager.l.google.com CNAME .
-www.googletagmanager.com CNAME .
 www138.civicscience.com CNAME .
 wx.xwjqr.com CNAME .
 wxsnsdy.wxs.qq.com CNAME .

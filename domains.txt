@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.r.msn.com
 000dn.com
 001union.com
@@ -464,13 +464,11 @@
 265.com
 268mob.cn
 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-26qxvo.tdum.alibaba.com
 26zsd.cn
 270degrees.io
 272xb.com
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 27qfj.x.incapdns.net
-28345.ase.aidcgroup.net
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 28acglz.com
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2953,10 +2951,11 @@ algbid.app
 algonomy.com
 algorecs.com
 aliabdaal.ck.page
-alibaba-inc.com
 alibaba.com
+alicdn.com
 alicloudapi.com
 alida.com
+aliexpress.com
 aliexpress.ru
 alignmentdisabled.netalignmentdisabled.net
 alikunlun.com
@@ -3599,8 +3598,6 @@ apkarchive.ru
 apkdo.com
 apkpure.net
 aplikacii.com
-aplus-sdk.alibaba-inc.com
-aplus.aliexpress.com
 apm.bigbank.eu
 apm.tnet.nl
 apnarm.net.au
@@ -3898,7 +3895,6 @@ asciinema.org
 asd.projectfreetv.so
 asda.com.akadns.net
 asdfghjkl.ovh
-ase.aidcgroup.net
 ase.com
 aseads.com
 asfinagv8.azureedge.net
@@ -3935,7 +3931,6 @@ assets.a-mo.net
 assets.adobedtm.com
 assets.adobetm.com
 assets.adsttc.com
-assets.alicdn.com
 assets.cengage.com
 assets.contently.com
 assets.context.ly
@@ -4706,6 +4701,7 @@ beta.partners.adsterra.com
 beta.publishers.adsterra.com
 betaaldienst-aanvraag.nl
 betano.de
+betarino.com
 betatraining.eu
 betcity.net
 betcity.nl
@@ -4881,6 +4877,7 @@ bitban.com
 bitbrowser.net
 bitcoin-powersupply.com
 bitcoinbazis.hu
+bitdefender.com
 bitdreams.com
 bitgravity.com
 bitlabon.com
@@ -7561,6 +7558,7 @@ cyad1.nate.com
 cyad123.com
 cybba.solutions
 cyberawareness.top
+cyberdude.com
 cyberflow.com
 cybergal.com
 cyberlink.com
@@ -8270,6 +8268,7 @@ definitivehc.com
 defybrick.com
 degoudsbloem.be
 dehelendereisindepraktijk.nl
+dein-juwelier.de
 deinchatbot-speech.azurewebsites.net
 deinneueszuhause.de
 dejing.laobanfa.com
@@ -8294,6 +8293,7 @@ delivery.wasu.cn
 delkenboot.nl
 dell-cidr.akadns.net
 delmovip.com
+delosmail.com
 delottery.com
 deltadna.com
 deltadna.net
@@ -10214,7 +10214,6 @@ g-fiber.co.id
 g.163.com
 g.3gl.net
 g.adspeed.net
-g.alicdn.com
 g.baidu.com
 g.brothersoft.com
 g.chuiyao.com
@@ -10718,6 +10717,7 @@ go.tapad.com
 go.techtarget.com
 go.tokenex.com
 go.turning.com
+go1001000.com
 go2app.org
 go2cloud.org
 go2jump.org
@@ -12097,6 +12097,7 @@ infonline.de
 infor.com
 informa.com
 informamarkets.com
+informatel.cloud
 informatie-over-energietarieven.nl
 informer.yandex.ru
 informizely.com
@@ -12692,6 +12693,7 @@ journeytherapiedebron.nl
 jouwhorizon.be
 jouwstartonline.nl
 jouwvindplaats.nl
+jov.io
 jovanca.nl
 joyfuldoors.com
 joygameplace.com
@@ -14001,6 +14003,7 @@ maibahe300cc.com
 mail-ads.google.com
 mail-api.proton.me.fritz.box
 mail-boutique2.fr
+mail-buzzee.fr
 mail-contact-unsub.eu
 mail.clickup.com
 mail.cos.com
@@ -14079,6 +14082,7 @@ mapp.com
 mapromessechic.fr
 maquipan.cl
 marathonbet.dk
+marblerenew.com
 marfeel.com
 marfeelcache.com
 marfeelrev.com
@@ -15047,6 +15051,7 @@ naqigs.com
 narendramodiapp.com
 narrativ.com
 nasamlinkes.nl
+nasentc.com
 nasma.be
 national-lottery.co.uk
 nationale-loterij.be
@@ -17537,7 +17542,6 @@ request.eprotect.vantivcnp.com
 requestmetrics.com
 rereddit.com
 res-geo.cdn.office.net
-res-odx.op-mobile.opera.com
 res-x.com
 res.adcome.cn
 res.aduu.cn
@@ -17909,7 +17913,6 @@ s.nitropay.com
 s.ntv.io
 s.on-device.com
 s.p.youku.com
-s.pinimg.com
 s.pubmine.com
 s.qd.qingting.fm
 s.qd.qingtingfm.com
@@ -18344,6 +18347,7 @@ security.browser.miui.com
 securityiq.infosecinstitute.com
 securitysoftwarezone.com
 securitytrfx.com
+sedioliniauto.com
 seebug.org
 seeding-alliance.de
 seedtag.com
@@ -18418,6 +18422,7 @@ sentry.hetzner.company
 sentry.hq.citizenlab.co
 sentry.internxt.com
 sentry.invoicing.co
+sentry.io
 sentry.issuu.com
 sentry.justwatch.com
 sentry.lbry.tech
@@ -19967,7 +19972,6 @@ tags.aljazeera.com
 tags.bluekai.com
 tags.catapultx.com
 tags.chip.de
-tags.creativecdn.com
 tags.crwdcntrl.net
 tags.experian.co.uk
 tags.expo9.exponential.com
@@ -20343,6 +20347,7 @@ tianqi777.com
 tianyanzs.com
 tiara.daum.net
 ticcdn.com
+tickster.com
 tics.techdirt.com
 tidio.co
 tifbs.net
@@ -20664,6 +20669,7 @@ trafico.prensaiberica.es
 training.marketing.linkedin.com
 training.sales.linkedin.com
 training.talent.linkedin.com
+trainingcreatively.com
 tralog.ganji.com
 transact.lastpass.com
 transcend.io
@@ -20693,6 +20699,7 @@ trckzone24.com
 treasuredata.com
 treatment.grammarly.com
 tredir.go.com
+treflio.com
 tremorhub.com
 tremorvideo.com
 trendalytics.co
@@ -20761,6 +20768,7 @@ trustcorsystems.com
 truste.com
 trustedform.com
 trustedshops.com
+trustedshops.de
 trustedsource.org
 trustgram.co
 trustguard.com
@@ -21134,7 +21142,6 @@ us-reviews.com
 us-u.openx.net
 us.bannyat.com
 us.tags.newscgp.com
-us.ynuf.aliapp.org
 us01.rayjump.com
 us01campaign.zoom.us
 us3.datadoghq.com
@@ -21931,6 +21938,7 @@ withcabin.com
 wiyun.com
 wizaly.com
 wjguc.com
+wjqinghe.com
 wjs.wurflcloud.com
 wka8.com
 wkanc.51y5.net
@@ -21967,6 +21975,7 @@ wootric.com
 wootric.com.herokudns.com
 wordstream.com
 workarea.com
+workers.dev
 workingatcompanyinfo.nl
 worldaccelerator.com
 worldchasetag.com
@@ -22054,7 +22063,6 @@ www-analytics.esa.int
 www-cultofmac-com.ezoic.net
 www-elperiodic-com.translate.goog
 www-googletagmanager.l.google.com
-www.googletagmanager.com
 www138.civicscience.com
 wx.xwjqr.com
 wxsnsdy.wxs.qq.com
