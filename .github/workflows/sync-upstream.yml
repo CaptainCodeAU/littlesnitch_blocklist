@@ -29,7 +29,21 @@ jobs:
         run: git fetch upstream
 
       - name: Merge upstream into master
-        run: git merge upstream/master --no-edit --allow-unrelated-histories
+        run: |
+          git merge upstream/master --no-edit --allow-unrelated-histories || true
+          # Resolve conflicts: accept upstream for blocklist outputs, keep ours for fork files
+          UPSTREAM_FILES="blocklist.txt domains.txt wildcard-blocklist.txt unbound-blocklist.txt rpz-blocklist.txt pihole-blocklist.txt hosts-blocklist.txt little-snitch-blocklist.lsrules install.html little-snitch-install.html"
+          FORK_FILES="apply-exclusions.sh my-exclusions.txt my-inclusions.txt my-additions.txt CLAUDE.md CONTEXT.md"
+          for f in $UPSTREAM_FILES; do
+            [ -f "$f" ] && git checkout --theirs "$f" 2>/dev/null && git add "$f" || true
+          done
+          for f in $FORK_FILES; do
+            [ -f "$f" ] && git checkout --ours "$f" 2>/dev/null && git add "$f" || true
+          done
+          # Accept upstream for README (Stage 2 fixes URLs anyway)
+          git checkout --theirs README.md 2>/dev/null && git add README.md || true
+          # Complete the merge if there were conflicts
+          git diff --cached --quiet || git -c core.editor=true merge --continue || true
 
       - name: Apply exclusions and restore fork-specific files
         run: |
