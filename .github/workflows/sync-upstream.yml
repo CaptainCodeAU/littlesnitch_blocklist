@@ -29,7 +29,7 @@ jobs:
         run: git fetch upstream
 
       - name: Merge upstream into master
-        run: git merge upstream/master --no-edit
+        run: git merge upstream/master --no-edit --allow-unrelated-histories
 
       - name: Apply exclusions and restore fork-specific files
         run: |
