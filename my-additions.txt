@@ -2,8 +2,6 @@
 # These are added after exclusions/inclusions to ensure they stay blocked.
 
 # AliExpress/Alibaba trackers
-abtest.alibaba.com
-hydra.alibaba.com
 26qxvo.tdum.alibaba.com
 28345.ase.aidcgroup.net
 aplus.aliexpress.com
