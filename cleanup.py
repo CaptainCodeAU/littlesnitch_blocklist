@@ -2,7 +2,6 @@ import os
 
 import pyfiglet
 
-from modules.validate import validate_record
 from modules.clean import cleanup_file
 from modules.update import update_blocklists
 

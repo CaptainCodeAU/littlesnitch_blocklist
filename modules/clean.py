@@ -80,23 +80,33 @@ def format_record(record: str):
 
 # This function will cleanup a list of records, removing duplicates, empty records, and invalid records.
 def cleanup_records(records):
-    cleaned_records = []
-    # alphabetically sorted records
-    for record in sorted(records):
-        # remove duplicates
-        if record in cleaned_records:            
-            continue
+    candidates_for_removal = []
 
-        # remove empty records
-        if record == '':
-            continue
-        
-        record = format_record(record)
-        if not validate_record(record):
-            continue
+    with open('candidates_for_removal.txt', 'r') as f:
+        for line in f:
+            line = line.strip()
+            candidates_for_removal.append(line)
 
-        cleaned_records.append(record)
-    return cleaned_records
+        cleaned_records = []
+        # alphabetically sorted records
+        for record in sorted(records):
+            # remove duplicates
+            if record in cleaned_records:            
+                continue
+
+            if record in candidates_for_removal:
+                continue
+
+            # remove empty records
+            if record == '':
+                continue
+            
+            record = format_record(record)
+            if not validate_record(record):
+                continue
+
+            cleaned_records.append(record)
+        return cleaned_records
 
 
 # This function will cleanup a blocklist file, removing duplicates, empty records, and invalid records.
