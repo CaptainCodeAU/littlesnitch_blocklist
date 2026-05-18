@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 *.0.r.msn.com
 *.000dn.com
 *.001union.com
@@ -302,12 +302,10 @@
 *.265.com
 *.268mob.cn
 *.26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-*.26qxvo.tdum.alibaba.com
 *.26zsd.cn
 *.270degrees.io
 *.27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 *.27qfj.x.incapdns.net
-*.28345.ase.aidcgroup.net
 *.287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 *.28acglz.com
 *.29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -1094,6 +1092,7 @@
 *.activities.easyjet.com
 *.activity.windows.com
 *.activityboard.jp
+*.activtrak.com
 *.actlz.github.io
 *.actonservice.com
 *.actonsoftware.com
@@ -1968,6 +1967,7 @@
 *.advertising-api-eu.amazon.com
 *.advertising-cdn.dpgmedia.cloud
 *.advertising-module.api.dpgmedia.cloud
+*.advertising.amazon.dev
 *.advertising.apple.com
 *.advertising.cn
 *.advertising.com
@@ -2105,6 +2105,7 @@
 *.aggle.net
 *.aggregateknowledge.com
 *.aghtag.tech
+*.agi-static.indiatimes.com
 *.agilecrm.com
 *.agilemeasure.com
 *.agillic.com
@@ -2228,9 +2229,11 @@
 *.algonomy.com
 *.algorecs.com
 *.aliabdaal.ck.page
-*.alibaba-inc.com
+*.alibaba.com
+*.alicdn.com
 *.alicloudapi.com
 *.alida.com
+*.aliexpress.com
 *.aliexpress.ru
 *.alikunlun.com
 *.alimama.com
@@ -2768,8 +2771,6 @@
 *.apkdo.com
 *.apkpure.net
 *.aplikacii.com
-*.aplus-sdk.alibaba-inc.com
-*.aplus.aliexpress.com
 *.apm.bigbank.eu
 *.apnarm.net.au
 *.apns.ios.ijinshan.com
@@ -3019,7 +3020,6 @@
 *.as.yuewz.com
 *.as49870.net
 *.asciinema.org
-*.ase.aidcgroup.net
 *.ase.com
 *.asfinagv8.azureedge.net
 *.ashampoo.com
@@ -3048,7 +3048,6 @@
 *.assets.adobedtm.com
 *.assets.adobetm.com
 *.assets.adsttc.com
-*.assets.alicdn.com
 *.assets.cengage.com
 *.assets.contently.com
 *.assets.context.ly
@@ -3778,6 +3777,7 @@
 *.bitbrowser.net
 *.bitcoin-powersupply.com
 *.bitcoinbazis.hu
+*.bitdefender.com
 *.bitdreams.com
 *.bitgravity.com
 *.bitly.com
@@ -5204,6 +5204,7 @@
 *.cmcore.com
 *.cmdcbv.app
 *.cmp-static.springer.com
+*.cmp-teamblue.services
 *.cmp.ad.nl
 *.cmp.aftenbladet.no
 *.cmp.aftenposten.no
@@ -7189,6 +7190,7 @@
 *.emarbox.com
 *.emarketingsolutions.es
 *.emarsys.net
+*.ematrix.filmipop.com
 *.emb-api.com
 *.embed.email-provider.eu
 *.embed.enormail.eu
@@ -7201,6 +7203,7 @@
 *.embedly.com
 *.embedmaker.com
 *.embedmaps.com
+*.embeds.acswapp.com
 *.embeds.driftcdn.com
 *.embedsocial.com
 *.embluemail.com
@@ -7353,6 +7356,7 @@
 *.etoro.com
 *.etracker.com
 *.etracker.de
+*.ets.org
 *.ettoday.net
 *.eu-analytics.figpii.com
 *.eu-cdn.ad1x.com
@@ -7864,6 +7868,7 @@
 *.fpc.msedge.net
 *.fpnpmcdn.net
 *.fpp.keessmit.nl
+*.fpt.live.com
 *.fpt.microsoft.com
 *.fpt.norton.com
 *.fpv5.googleapis.com
@@ -8133,6 +8138,7 @@
 *.gatekeeperconsent.com
 *.gateway-sop.fpt.vn
 *.gateway.answerscloud.com
+*.gateway.bingviz.microsoftapp.net
 *.gateway.foresee.com
 *.gateway.fortunelounge.com
 *.gateway.hobbii.com
@@ -8287,6 +8293,7 @@
 *.getpocket.cdn.mozilla.net
 *.getpublica.com
 *.getqonfi.com
+*.getreditus.com
 *.getresponse.com
 *.getresponse.nl
 *.getreview.pl
@@ -8604,7 +8611,6 @@
 *.gtm.wearetriple.com
 *.gtminet.net
 *.gtmniddocks.herokuapp.com
-*.gtmsdd.alicdn.com
 *.gtmucs.cn
 *.guangzhuiyuan.com
 *.guenther.de
@@ -8895,6 +8901,7 @@
 *.hs-data.com
 *.hs.qhupdate.com
 *.hsdn.org
+*.hsprotect.net
 *.htjsk.com
 *.htlb.casalemedia.com
 *.htlbid.com
@@ -9364,6 +9371,7 @@
 *.ifacelog.iqiyi.com
 *.ifengad.3g.ifeng.com
 *.iforbet.pl
+*.iframe.hsprotect.net
 *.iframe.ly
 *.igamingbusiness.com
 *.igaworks.com
@@ -9554,6 +9562,7 @@
 *.informz.net
 *.infraforge.ai
 *.infragrid.v.network
+*.infran.ru
 *.infura.io
 *.infusionsoft.app
 *.infusionsoft.com
@@ -9894,6 +9903,7 @@
 *.isteingeek.de
 *.istmein.de
 *.istreamsche.com
+*.isy-teamblue.services
 *.it.com
 *.italiaonline.it
 *.iterable.com
@@ -9940,6 +9950,8 @@
 *.jango.com
 *.janrainsso.com
 *.japan.inmobi.com
+*.jarvis.cx
+*.jarvisads.com
 *.jasongo.net
 *.javhd.com
 *.jb.ecar168.cn
@@ -10694,6 +10706,7 @@
 *.locally.nl
 *.localsensor.com
 *.localytics.com
+*.locate.indiatimes.com
 *.location.bloomberg.com
 *.location.l.force.com
 *.location.microsoft.com
@@ -10788,6 +10801,7 @@
 *.logs1409.xiti.com
 *.logs1413.xiti.com
 *.logs2.xiti.com
+*.logsapi.zoho.eu
 *.logservice.hicloud.com
 *.logservice1.hicloud.com
 *.logstat.t.sfht.com
@@ -12643,6 +12657,7 @@
 *.pages02.net
 *.pages04.net
 *.pages09.net
+*.pagesense-js.zoho.com
 *.pagesense.io
 *.pagespeed-mod.com
 *.pagewiz.com
@@ -13365,6 +13380,8 @@
 *.ps.eyeota.net
 *.psb.lenovomm.com
 *.psh.ai
+*.psiexams.com
+*.psionline.com
 *.pstatp.com
 *.pstmrk.it
 *.pt.afl.rakuten.co.jp
@@ -13899,7 +13916,6 @@
 *.requestmetrics.com
 *.rereddit.com
 *.res-geo.cdn.office.net
-*.res-odx.op-mobile.opera.com
 *.res.adcome.cn
 *.res.aduu.cn
 *.res.gwifi.com.cn
@@ -14210,7 +14226,6 @@
 *.s.ntv.io
 *.s.on-device.com
 *.s.p.youku.com
-*.s.pinimg.com
 *.s.qhupdate.com
 *.s.search.naver.com
 *.s.skimresources.com
@@ -15581,6 +15596,7 @@
 *.stickyadstv.com
 *.stimmwissenschaften.de
 *.stjzh.gdtarget.com
+*.stk.hsprotect.net
 *.stm.orf.at
 *.stm.suitsupply.com
 *.stmg-prod.mirror.co.uk
@@ -15918,7 +15934,6 @@
 *.tags.adnuntius.com
 *.tags.affiliatefuture.com
 *.tags.chip.de
-*.tags.creativecdn.com
 *.tags.crwdcntrl.net
 *.tags.experian.co.uk
 *.tags.expo9.exponential.com
@@ -16540,6 +16555,7 @@
 *.trk.loudedig.com
 *.trk.mail.ru
 *.trk.pinterest.com
+*.trk.register.it
 *.trk.simplyhosting.com
 *.trk.teamblue.services
 *.trk.techtarget.com
@@ -16633,6 +16649,7 @@
 *.tva-recherche.lu
 *.tvbingo.dk
 *.tvf.com
+*.tvid.in
 *.tvn-media.ipresso.pl
 *.tvn.hit.gemius.pl
 *.tvpixel.com
@@ -16846,7 +16863,6 @@
 *.us-reviews.com
 *.us-u.openx.net
 *.us.tags.newscgp.com
-*.us.ynuf.aliapp.org
 *.us01.rayjump.com
 *.us01campaign.zoom.us
 *.us3.datadoghq.com
@@ -17347,6 +17363,7 @@
 *.webtrends.com
 *.webtrendslive.com
 *.webview.unityads.unity3d.com
+*.webwork-tracker.com
 *.webyze.com
 *.wedate.com
 *.wedofollows.com
@@ -17506,6 +17523,8 @@
 *.wootric.com
 *.wordstream.com
 *.workarea.com
+*.workcomposer.com
+*.workers.dev
 *.workingatcompanyinfo.nl
 *.worldaccelerator.com
 *.worldchasetag.com
@@ -17578,7 +17597,6 @@
 *.www-cultofmac-com.ezoic.net
 *.www-elperiodic-com.translate.goog
 *.www-googletagmanager.l.google.com
-*.www.googletagmanager.com
 *.www138.civicscience.com
 *.wx.xwjqr.com
 *.wxsnsdy.wxs.qq.com
@@ -17784,6 +17802,7 @@
 *.yougov.com
 *.youku.com
 *.youmi.net
+*.younity.com
 *.yourbrand.com
 *.yourdailyhealthpack.com
 *.yourlinkdr.com

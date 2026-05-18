@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 000dn.com
 0.0.0.0 001union.com
@@ -302,12 +302,10 @@
 0.0.0.0 265.com
 0.0.0.0 268mob.cn
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-0.0.0.0 26qxvo.tdum.alibaba.com
 0.0.0.0 26zsd.cn
 0.0.0.0 270degrees.io
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
-0.0.0.0 28345.ase.aidcgroup.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 0.0.0.0 28acglz.com
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -1094,6 +1092,7 @@
 0.0.0.0 activities.easyjet.com
 0.0.0.0 activity.windows.com
 0.0.0.0 activityboard.jp
+0.0.0.0 activtrak.com
 0.0.0.0 actlz.github.io
 0.0.0.0 actonservice.com
 0.0.0.0 actonsoftware.com
@@ -1968,6 +1967,7 @@
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 advertising-module.api.dpgmedia.cloud
+0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.cn
 0.0.0.0 advertising.com
@@ -2105,6 +2105,7 @@
 0.0.0.0 aggle.net
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 aghtag.tech
+0.0.0.0 agi-static.indiatimes.com
 0.0.0.0 agilecrm.com
 0.0.0.0 agilemeasure.com
 0.0.0.0 agillic.com
@@ -2228,9 +2229,11 @@
 0.0.0.0 algonomy.com
 0.0.0.0 algorecs.com
 0.0.0.0 aliabdaal.ck.page
-0.0.0.0 alibaba-inc.com
+0.0.0.0 alibaba.com
+0.0.0.0 alicdn.com
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.com
 0.0.0.0 aliexpress.ru
 0.0.0.0 alikunlun.com
 0.0.0.0 alimama.com
@@ -2768,8 +2771,6 @@
 0.0.0.0 apkdo.com
 0.0.0.0 apkpure.net
 0.0.0.0 aplikacii.com
-0.0.0.0 aplus-sdk.alibaba-inc.com
-0.0.0.0 aplus.aliexpress.com
 0.0.0.0 apm.bigbank.eu
 0.0.0.0 apnarm.net.au
 0.0.0.0 apns.ios.ijinshan.com
@@ -3019,7 +3020,6 @@
 0.0.0.0 as.yuewz.com
 0.0.0.0 as49870.net
 0.0.0.0 asciinema.org
-0.0.0.0 ase.aidcgroup.net
 0.0.0.0 ase.com
 0.0.0.0 asfinagv8.azureedge.net
 0.0.0.0 ashampoo.com
@@ -3048,7 +3048,6 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adobetm.com
 0.0.0.0 assets.adsttc.com
-0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.cengage.com
 0.0.0.0 assets.contently.com
 0.0.0.0 assets.context.ly
@@ -3087,6 +3086,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-band-camp.net
 0.0.0.0 at-config.sensic.net
+0.0.0.0 at.alicdn.com
 0.0.0.0 at.cylex.de
 0.0.0.0 at98.com
 0.0.0.0 atanx.alicdn.com
@@ -3777,6 +3777,7 @@
 0.0.0.0 bitbrowser.net
 0.0.0.0 bitcoin-powersupply.com
 0.0.0.0 bitcoinbazis.hu
+0.0.0.0 bitdefender.com
 0.0.0.0 bitdreams.com
 0.0.0.0 bitgravity.com
 0.0.0.0 bitly.com
@@ -5203,6 +5204,7 @@
 0.0.0.0 cmcore.com
 0.0.0.0 cmdcbv.app
 0.0.0.0 cmp-static.springer.com
+0.0.0.0 cmp-teamblue.services
 0.0.0.0 cmp.ad.nl
 0.0.0.0 cmp.aftenbladet.no
 0.0.0.0 cmp.aftenposten.no
@@ -7188,6 +7190,7 @@
 0.0.0.0 emarbox.com
 0.0.0.0 emarketingsolutions.es
 0.0.0.0 emarsys.net
+0.0.0.0 ematrix.filmipop.com
 0.0.0.0 emb-api.com
 0.0.0.0 embed.email-provider.eu
 0.0.0.0 embed.enormail.eu
@@ -7200,6 +7203,7 @@
 0.0.0.0 embedly.com
 0.0.0.0 embedmaker.com
 0.0.0.0 embedmaps.com
+0.0.0.0 embeds.acswapp.com
 0.0.0.0 embeds.driftcdn.com
 0.0.0.0 embedsocial.com
 0.0.0.0 embluemail.com
@@ -7352,6 +7356,7 @@
 0.0.0.0 etoro.com
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
+0.0.0.0 ets.org
 0.0.0.0 ettoday.net
 0.0.0.0 eu-analytics.figpii.com
 0.0.0.0 eu-cdn.ad1x.com
@@ -7863,6 +7868,7 @@
 0.0.0.0 fpc.msedge.net
 0.0.0.0 fpnpmcdn.net
 0.0.0.0 fpp.keessmit.nl
+0.0.0.0 fpt.live.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fpt.norton.com
 0.0.0.0 fpv5.googleapis.com
@@ -8132,6 +8138,7 @@
 0.0.0.0 gatekeeperconsent.com
 0.0.0.0 gateway-sop.fpt.vn
 0.0.0.0 gateway.answerscloud.com
+0.0.0.0 gateway.bingviz.microsoftapp.net
 0.0.0.0 gateway.foresee.com
 0.0.0.0 gateway.fortunelounge.com
 0.0.0.0 gateway.hobbii.com
@@ -8286,6 +8293,7 @@
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 getpublica.com
 0.0.0.0 getqonfi.com
+0.0.0.0 getreditus.com
 0.0.0.0 getresponse.com
 0.0.0.0 getresponse.nl
 0.0.0.0 getreview.pl
@@ -8603,7 +8611,6 @@
 0.0.0.0 gtm.wearetriple.com
 0.0.0.0 gtminet.net
 0.0.0.0 gtmniddocks.herokuapp.com
-0.0.0.0 gtmsdd.alicdn.com
 0.0.0.0 gtmucs.cn
 0.0.0.0 guangzhuiyuan.com
 0.0.0.0 guenther.de
@@ -8894,6 +8901,7 @@
 0.0.0.0 hs-data.com
 0.0.0.0 hs.qhupdate.com
 0.0.0.0 hsdn.org
+0.0.0.0 hsprotect.net
 0.0.0.0 htjsk.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htlbid.com
@@ -9363,6 +9371,7 @@
 0.0.0.0 ifacelog.iqiyi.com
 0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 iforbet.pl
+0.0.0.0 iframe.hsprotect.net
 0.0.0.0 iframe.ly
 0.0.0.0 igamingbusiness.com
 0.0.0.0 igaworks.com
@@ -9553,6 +9562,7 @@
 0.0.0.0 informz.net
 0.0.0.0 infraforge.ai
 0.0.0.0 infragrid.v.network
+0.0.0.0 infran.ru
 0.0.0.0 infura.io
 0.0.0.0 infusionsoft.app
 0.0.0.0 infusionsoft.com
@@ -9893,6 +9903,7 @@
 0.0.0.0 isteingeek.de
 0.0.0.0 istmein.de
 0.0.0.0 istreamsche.com
+0.0.0.0 isy-teamblue.services
 0.0.0.0 it.com
 0.0.0.0 italiaonline.it
 0.0.0.0 iterable.com
@@ -9939,6 +9950,8 @@
 0.0.0.0 jango.com
 0.0.0.0 janrainsso.com
 0.0.0.0 japan.inmobi.com
+0.0.0.0 jarvis.cx
+0.0.0.0 jarvisads.com
 0.0.0.0 jasongo.net
 0.0.0.0 javhd.com
 0.0.0.0 jb.ecar168.cn
@@ -10693,6 +10706,7 @@
 0.0.0.0 locally.nl
 0.0.0.0 localsensor.com
 0.0.0.0 localytics.com
+0.0.0.0 locate.indiatimes.com
 0.0.0.0 location.bloomberg.com
 0.0.0.0 location.l.force.com
 0.0.0.0 location.microsoft.com
@@ -10787,6 +10801,7 @@
 0.0.0.0 logs1409.xiti.com
 0.0.0.0 logs1413.xiti.com
 0.0.0.0 logs2.xiti.com
+0.0.0.0 logsapi.zoho.eu
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logstat.t.sfht.com
@@ -12642,6 +12657,7 @@
 0.0.0.0 pages02.net
 0.0.0.0 pages04.net
 0.0.0.0 pages09.net
+0.0.0.0 pagesense-js.zoho.com
 0.0.0.0 pagesense.io
 0.0.0.0 pagespeed-mod.com
 0.0.0.0 pagewiz.com
@@ -13364,6 +13380,8 @@
 0.0.0.0 ps.eyeota.net
 0.0.0.0 psb.lenovomm.com
 0.0.0.0 psh.ai
+0.0.0.0 psiexams.com
+0.0.0.0 psionline.com
 0.0.0.0 pstatp.com
 0.0.0.0 pstmrk.it
 0.0.0.0 pt.afl.rakuten.co.jp
@@ -13898,7 +13916,6 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 rereddit.com
 0.0.0.0 res-geo.cdn.office.net
-0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 res.adcome.cn
 0.0.0.0 res.aduu.cn
 0.0.0.0 res.gwifi.com.cn
@@ -14209,7 +14226,6 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 s.on-device.com
 0.0.0.0 s.p.youku.com
-0.0.0.0 s.pinimg.com
 0.0.0.0 s.qhupdate.com
 0.0.0.0 s.search.naver.com
 0.0.0.0 s.skimresources.com
@@ -14616,6 +14632,7 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
+0.0.0.0 sentry.io
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.odysee.tv
@@ -15579,6 +15596,7 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 stimmwissenschaften.de
 0.0.0.0 stjzh.gdtarget.com
+0.0.0.0 stk.hsprotect.net
 0.0.0.0 stm.orf.at
 0.0.0.0 stm.suitsupply.com
 0.0.0.0 stmg-prod.mirror.co.uk
@@ -15916,7 +15934,6 @@
 0.0.0.0 tags.adnuntius.com
 0.0.0.0 tags.affiliatefuture.com
 0.0.0.0 tags.chip.de
-0.0.0.0 tags.creativecdn.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.experian.co.uk
 0.0.0.0 tags.expo9.exponential.com
@@ -16538,6 +16555,7 @@
 0.0.0.0 trk.loudedig.com
 0.0.0.0 trk.mail.ru
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trk.register.it
 0.0.0.0 trk.simplyhosting.com
 0.0.0.0 trk.teamblue.services
 0.0.0.0 trk.techtarget.com
@@ -16631,6 +16649,7 @@
 0.0.0.0 tva-recherche.lu
 0.0.0.0 tvbingo.dk
 0.0.0.0 tvf.com
+0.0.0.0 tvid.in
 0.0.0.0 tvn-media.ipresso.pl
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 tvpixel.com
@@ -16844,7 +16863,6 @@
 0.0.0.0 us-reviews.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.tags.newscgp.com
-0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us01campaign.zoom.us
 0.0.0.0 us3.datadoghq.com
@@ -17345,6 +17363,7 @@
 0.0.0.0 webtrends.com
 0.0.0.0 webtrendslive.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 webwork-tracker.com
 0.0.0.0 webyze.com
 0.0.0.0 wedate.com
 0.0.0.0 wedofollows.com
@@ -17504,6 +17523,8 @@
 0.0.0.0 wootric.com
 0.0.0.0 wordstream.com
 0.0.0.0 workarea.com
+0.0.0.0 workcomposer.com
+0.0.0.0 workers.dev
 0.0.0.0 workingatcompanyinfo.nl
 0.0.0.0 worldaccelerator.com
 0.0.0.0 worldchasetag.com
@@ -17576,7 +17597,6 @@
 0.0.0.0 www-cultofmac-com.ezoic.net
 0.0.0.0 www-elperiodic-com.translate.goog
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 wxsnsdy.wxs.qq.com
@@ -17782,6 +17802,7 @@
 0.0.0.0 yougov.com
 0.0.0.0 youku.com
 0.0.0.0 youmi.net
+0.0.0.0 younity.com
 0.0.0.0 yourbrand.com
 0.0.0.0 yourdailyhealthpack.com
 0.0.0.0 yourlinkdr.com
