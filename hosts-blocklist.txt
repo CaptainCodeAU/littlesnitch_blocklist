@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 000dn.com
 0.0.0.0 001union.com
@@ -302,12 +302,10 @@
 0.0.0.0 265.com
 0.0.0.0 268mob.cn
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-0.0.0.0 26qxvo.tdum.alibaba.com
 0.0.0.0 26zsd.cn
 0.0.0.0 270degrees.io
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
-0.0.0.0 28345.ase.aidcgroup.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 0.0.0.0 28acglz.com
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2231,9 +2229,11 @@
 0.0.0.0 algonomy.com
 0.0.0.0 algorecs.com
 0.0.0.0 aliabdaal.ck.page
-0.0.0.0 alibaba-inc.com
+0.0.0.0 alibaba.com
+0.0.0.0 alicdn.com
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.com
 0.0.0.0 aliexpress.ru
 0.0.0.0 alikunlun.com
 0.0.0.0 alimama.com
@@ -2286,6 +2286,7 @@
 0.0.0.0 altamob.com
 0.0.0.0 altbeacon.org
 0.0.0.0 altermedia.nl
+0.0.0.0 alternytics.com
 0.0.0.0 altify.com
 0.0.0.0 altima-hosting.fr
 0.0.0.0 altitude-arena.com
@@ -2439,6 +2440,7 @@
 0.0.0.0 analytics.mysynchrony.com
 0.0.0.0 analytics.naproxy.com
 0.0.0.0 analytics.natlawreview.com
+0.0.0.0 analytics.nearly.family
 0.0.0.0 analytics.newsifier.nl
 0.0.0.0 analytics.nicknick.nl
 0.0.0.0 analytics.nova.fox.com
@@ -2771,8 +2773,6 @@
 0.0.0.0 apkdo.com
 0.0.0.0 apkpure.net
 0.0.0.0 aplikacii.com
-0.0.0.0 aplus-sdk.alibaba-inc.com
-0.0.0.0 aplus.aliexpress.com
 0.0.0.0 apm.bigbank.eu
 0.0.0.0 apnarm.net.au
 0.0.0.0 apns.ios.ijinshan.com
@@ -3022,7 +3022,6 @@
 0.0.0.0 as.yuewz.com
 0.0.0.0 as49870.net
 0.0.0.0 asciinema.org
-0.0.0.0 ase.aidcgroup.net
 0.0.0.0 ase.com
 0.0.0.0 asfinagv8.azureedge.net
 0.0.0.0 ashampoo.com
@@ -3051,7 +3050,6 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adobetm.com
 0.0.0.0 assets.adsttc.com
-0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.cengage.com
 0.0.0.0 assets.contently.com
 0.0.0.0 assets.context.ly
@@ -3090,6 +3088,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-band-camp.net
 0.0.0.0 at-config.sensic.net
+0.0.0.0 at.alicdn.com
 0.0.0.0 at.cylex.de
 0.0.0.0 at98.com
 0.0.0.0 atanx.alicdn.com
@@ -3780,6 +3779,7 @@
 0.0.0.0 bitbrowser.net
 0.0.0.0 bitcoin-powersupply.com
 0.0.0.0 bitcoinbazis.hu
+0.0.0.0 bitdefender.com
 0.0.0.0 bitdreams.com
 0.0.0.0 bitgravity.com
 0.0.0.0 bitly.com
@@ -3947,6 +3947,7 @@
 0.0.0.0 botmind.io
 0.0.0.0 botnation.ai
 0.0.0.0 botndm.nl
+0.0.0.0 botslab.com
 0.0.0.0 boulevarddeletincelle.fr
 0.0.0.0 boulevarddesexperts.fr
 0.0.0.0 bounce-commerce.de
@@ -4921,6 +4922,7 @@
 0.0.0.0 chromatec.ru
 0.0.0.0 chrome-stats.com
 0.0.0.0 chtbl.com
+0.0.0.0 churchofjesuschrist.org
 0.0.0.0 churchrez.org
 0.0.0.0 chyly.tech
 0.0.0.0 ci.vungle.com
@@ -5278,6 +5280,7 @@
 0.0.0.0 co.la.welt.de
 0.0.0.0 co2ok.eco
 0.0.0.0 coachingwithjoy.nl
+0.0.0.0 cobiedouma.nl
 0.0.0.0 cobrowser.com
 0.0.0.0 cocospy.com
 0.0.0.0 cocounion.com
@@ -6918,6 +6921,7 @@
 0.0.0.0 duiba.com.cn
 0.0.0.0 dukaan.com
 0.0.0.0 dumedia.ru
+0.0.0.0 dummyapi.online
 0.0.0.0 duo.nvidia.com
 0.0.0.0 duomeng.cn
 0.0.0.0 dup.baidustatic.com
@@ -7247,6 +7251,7 @@
 0.0.0.0 energetischhuis.nl
 0.0.0.0 energokst.kz
 0.0.0.0 energyarts.com
+0.0.0.0 energyhealingzone.com
 0.0.0.0 energymind.nl
 0.0.0.0 engage.ticketmaster.com
 0.0.0.0 engage.wixapps.net
@@ -8301,6 +8306,7 @@
 0.0.0.0 getreview.pl
 0.0.0.0 getrevue.co
 0.0.0.0 getrewardful.com
+0.0.0.0 getrich.li
 0.0.0.0 gets-it.net
 0.0.0.0 getscreen.me
 0.0.0.0 getsidekick.com
@@ -8613,7 +8619,6 @@
 0.0.0.0 gtm.wearetriple.com
 0.0.0.0 gtminet.net
 0.0.0.0 gtmniddocks.herokuapp.com
-0.0.0.0 gtmsdd.alicdn.com
 0.0.0.0 gtmucs.cn
 0.0.0.0 guangzhuiyuan.com
 0.0.0.0 guenther.de
@@ -9110,6 +9115,7 @@
 0.0.0.0 iadworkbench.apple.com
 0.0.0.0 ialottery.com
 0.0.0.0 iamallama.com
+0.0.0.0 iarp.org
 0.0.0.0 iavilciadeg.eu.com
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.adnxs.com
@@ -9396,6 +9402,7 @@
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
 0.0.0.0 ijoycig.com
+0.0.0.0 ikinnerlijkekracht.nl
 0.0.0.0 ilcorsaronero.info
 0.0.0.0 illow.io
 0.0.0.0 ilumy.com
@@ -9531,6 +9538,7 @@
 0.0.0.0 infinigrow.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 infinitepixeltracking.com
+0.0.0.0 infinity-healing.eu
 0.0.0.0 influ2.com
 0.0.0.0 info-flyingblue.com
 0.0.0.0 info.cloudflare.com
@@ -9809,6 +9817,7 @@
 0.0.0.0 ir.mail.126.com
 0.0.0.0 ir.mail.163.com
 0.0.0.0 ir.mail.yeah.net
+0.0.0.0 ireenthunnissen.nl
 0.0.0.0 ireklama.mk
 0.0.0.0 iridion.de
 0.0.0.0 iris.ipsos.com
@@ -9963,6 +9972,7 @@
 0.0.0.0 jddaw.com
 0.0.0.0 jdlhg.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 jdownloader.org
 0.0.0.0 jdsports-client-resources.co.uk
 0.0.0.0 jdt8.net
 0.0.0.0 jean.live
@@ -10145,7 +10155,6 @@
 0.0.0.0 juzi.cn
 0.0.0.0 juzilm.com
 0.0.0.0 jvh.nl
-0.0.0.0 jwplayer.com
 0.0.0.0 jwpltx.com
 0.0.0.0 jxbjt.com
 0.0.0.0 jxjzny.com
@@ -10271,6 +10280,7 @@
 0.0.0.0 kissmetrics.com
 0.0.0.0 kissmetrics.io
 0.0.0.0 kissmetricshq.com
+0.0.0.0 kit.com
 0.0.0.0 kiwifarms.net
 0.0.0.0 kiyoh.com
 0.0.0.0 kjdsfjisdfjr23.azurewebsites.net
@@ -10314,6 +10324,7 @@
 0.0.0.0 koi-3qnciq0m5q.marketingautomation.services
 0.0.0.0 koi-3qnkjfhgq6.marketingautomation.services
 0.0.0.0 kolikkopelit.com
+0.0.0.0 kombewustinverbinding.nl
 0.0.0.0 komoona.com
 0.0.0.0 kompas.services
 0.0.0.0 kompassdata.com
@@ -11451,6 +11462,7 @@
 0.0.0.0 mijnoverheid.hopp.to
 0.0.0.0 mijnoverheid.ozto.com
 0.0.0.0 mijnpostcode.nl
+0.0.0.0 mijnzonnestraaltje.nl
 0.0.0.0 miles-research.com
 0.0.0.0 milet11111.pcapredict.com
 0.0.0.0 mili2nd.co
@@ -11632,6 +11644,7 @@
 0.0.0.0 monetize-stream.viralize.tv
 0.0.0.0 monetizer101.com
 0.0.0.0 mongo87a.sweet-water.org
+0.0.0.0 monique-foederer.nl
 0.0.0.0 moniquebooijink.nl
 0.0.0.0 monitor.clickcease.com
 0.0.0.0 monitor.ebay.com
@@ -11877,10 +11890,13 @@
 0.0.0.0 nativendo.de
 0.0.0.0 nativex.com
 0.0.0.0 nativo.com
+0.0.0.0 naturalhealers.com
 0.0.0.0 naturamiele.it
 0.0.0.0 naturaroyal.com
+0.0.0.0 natuurgeneeskunde-gemert.nl
 0.0.0.0 natuurlijkbijmarianne.nl
 0.0.0.0 natuurlijke-analyse.nl
+0.0.0.0 natuurlijkinbalance.nl
 0.0.0.0 natwaves.com
 0.0.0.0 naumann.nkl.de
 0.0.0.0 nav.sciencedirect.com
@@ -12095,6 +12111,7 @@
 0.0.0.0 nordslot.com
 0.0.0.0 normandy-cdn.services.mozilla.com
 0.0.0.0 normandy.cdn.mozilla.net
+0.0.0.0 normasense.nl
 0.0.0.0 norobet.de
 0.0.0.0 norsk-tipping.no
 0.0.0.0 norstat.at
@@ -13174,12 +13191,16 @@
 0.0.0.0 praktijkdevlindertuin.nl
 0.0.0.0 praktijkegtmiranda.nl
 0.0.0.0 praktijkholistichealing.nl
+0.0.0.0 praktijkinnerfreedom.nl
 0.0.0.0 praktijkinnerlijkegroei.nl
+0.0.0.0 praktijkjensitive.nl
 0.0.0.0 praktijkjosje.nl
 0.0.0.0 praktijklichtpunt.nu
 0.0.0.0 praktijkmagistraal.nl
+0.0.0.0 praktijkmakesense.nl
 0.0.0.0 praktijkmeergeluk.nl
 0.0.0.0 praktijkmiriam.nl
+0.0.0.0 praktijkrelease.nl
 0.0.0.0 praktijktamaravanoers.nl
 0.0.0.0 praktijktcg.nl
 0.0.0.0 praktijkviaversa.nl
@@ -13414,6 +13435,7 @@
 0.0.0.0 publicidad.tv
 0.0.0.0 publicismedia.de
 0.0.0.0 publikaan.nl
+0.0.0.0 publish.api.switchbot.net
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 publisher.caroda.io
@@ -13858,6 +13880,9 @@
 0.0.0.0 regionalserver.com
 0.0.0.0 registration.gimbal.com
 0.0.0.0 reignn.com
+0.0.0.0 reiki.org
+0.0.0.0 reikilifestyle.com
+0.0.0.0 reikiscoop.com
 0.0.0.0 rejoiner.com
 0.0.0.0 reklami.24fudbal.mk
 0.0.0.0 reklami.daily.mk
@@ -13919,7 +13944,6 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 rereddit.com
 0.0.0.0 res-geo.cdn.office.net
-0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 res.adcome.cn
 0.0.0.0 res.aduu.cn
 0.0.0.0 res.gwifi.com.cn
@@ -14230,7 +14254,6 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 s.on-device.com
 0.0.0.0 s.p.youku.com
-0.0.0.0 s.pinimg.com
 0.0.0.0 s.qhupdate.com
 0.0.0.0 s.search.naver.com
 0.0.0.0 s.skimresources.com
@@ -14616,7 +14639,12 @@
 0.0.0.0 sendy.webcurso.org
 0.0.0.0 seniorenvoordeelpas.nl
 0.0.0.0 senja.io
+0.0.0.0 sense-ability.be
+0.0.0.0 sensety.nl
 0.0.0.0 sensic.net
+0.0.0.0 sensigezondhuis.nl
+0.0.0.0 sensitherapie.nl
+0.0.0.0 sensitreatment.com
 0.0.0.0 sensoro.com
 0.0.0.0 sensorsdata.cn
 0.0.0.0 sensorsdata.com
@@ -14637,6 +14665,7 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
+0.0.0.0 sentry.io
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.odysee.tv
@@ -14925,6 +14954,7 @@
 0.0.0.0 slotclub.de
 0.0.0.0 slotmagie.de
 0.0.0.0 sloto-cash-casino.com
+0.0.0.0 slotozilla.info
 0.0.0.0 slotsandfriends.de
 0.0.0.0 slotsmagic.de
 0.0.0.0 slotstemple.com
@@ -15219,6 +15249,7 @@
 0.0.0.0 spreadex.dk
 0.0.0.0 spreedly.com
 0.0.0.0 sprig.com
+0.0.0.0 springel.nl
 0.0.0.0 springernature.io
 0.0.0.0 springserve.com
 0.0.0.0 sprinklecontent.com
@@ -15938,7 +15969,6 @@
 0.0.0.0 tags.adnuntius.com
 0.0.0.0 tags.affiliatefuture.com
 0.0.0.0 tags.chip.de
-0.0.0.0 tags.creativecdn.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.experian.co.uk
 0.0.0.0 tags.expo9.exponential.com
@@ -16318,6 +16348,7 @@
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 toboads.com
 0.0.0.0 tocaboca.com
+0.0.0.0 todayimeet.nl
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tollfreeforwarding.com
 0.0.0.0 tolt.io
@@ -16868,7 +16899,6 @@
 0.0.0.0 us-reviews.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.tags.newscgp.com
-0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us01campaign.zoom.us
 0.0.0.0 us3.datadoghq.com
@@ -17025,6 +17055,7 @@
 0.0.0.0 velocidi.com
 0.0.0.0 veloxity.net
 0.0.0.0 velthuysemulder.nl
+0.0.0.0 velvet-beauty.nl
 0.0.0.0 venatusmedia.com
 0.0.0.0 vendio.com
 0.0.0.0 vendiro.nl
@@ -17124,6 +17155,7 @@
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visitor.abmatic.ai
 0.0.0.0 visitor.figpii.com
+0.0.0.0 visits.paralino.app
 0.0.0.0 vistatravelclub.com
 0.0.0.0 visto.li
 0.0.0.0 visualdna.com
@@ -17530,6 +17562,7 @@
 0.0.0.0 wordstream.com
 0.0.0.0 workarea.com
 0.0.0.0 workcomposer.com
+0.0.0.0 workers.dev
 0.0.0.0 workingatcompanyinfo.nl
 0.0.0.0 worldaccelerator.com
 0.0.0.0 worldchasetag.com
@@ -17602,7 +17635,6 @@
 0.0.0.0 www-cultofmac-com.ezoic.net
 0.0.0.0 www-elperiodic-com.translate.goog
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 wxsnsdy.wxs.qq.com
@@ -17884,6 +17916,7 @@
 0.0.0.0 zephr.com
 0.0.0.0 zergnet.com
 0.0.0.0 zetaglobal.com
+0.0.0.0 zetp.rs
 0.0.0.0 zeturf.nl
 0.0.0.0 zeylin15.com
 0.0.0.0 zgfszs.com

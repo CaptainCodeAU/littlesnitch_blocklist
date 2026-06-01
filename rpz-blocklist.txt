@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.r.msn.com CNAME .
 000dn.com CNAME .
 001union.com CNAME .
@@ -302,12 +302,10 @@
 265.com CNAME .
 268mob.cn CNAME .
 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com CNAME .
-26qxvo.tdum.alibaba.com CNAME .
 26zsd.cn CNAME .
 270degrees.io CNAME .
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com CNAME .
 27qfj.x.incapdns.net CNAME .
-28345.ase.aidcgroup.net CNAME .
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com CNAME .
 28acglz.com CNAME .
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com CNAME .
@@ -2231,9 +2229,11 @@ algbid.app CNAME .
 algonomy.com CNAME .
 algorecs.com CNAME .
 aliabdaal.ck.page CNAME .
-alibaba-inc.com CNAME .
+alibaba.com CNAME .
+alicdn.com CNAME .
 alicloudapi.com CNAME .
 alida.com CNAME .
+aliexpress.com CNAME .
 aliexpress.ru CNAME .
 alikunlun.com CNAME .
 alimama.com CNAME .
@@ -2286,6 +2286,7 @@ alsycon.nl CNAME .
 altamob.com CNAME .
 altbeacon.org CNAME .
 altermedia.nl CNAME .
+alternytics.com CNAME .
 altify.com CNAME .
 altima-hosting.fr CNAME .
 altitude-arena.com CNAME .
@@ -2439,6 +2440,7 @@ analytics.museum.nl CNAME .
 analytics.mysynchrony.com CNAME .
 analytics.naproxy.com CNAME .
 analytics.natlawreview.com CNAME .
+analytics.nearly.family CNAME .
 analytics.newsifier.nl CNAME .
 analytics.nicknick.nl CNAME .
 analytics.nova.fox.com CNAME .
@@ -2771,8 +2773,6 @@ apkarchive.ru CNAME .
 apkdo.com CNAME .
 apkpure.net CNAME .
 aplikacii.com CNAME .
-aplus-sdk.alibaba-inc.com CNAME .
-aplus.aliexpress.com CNAME .
 apm.bigbank.eu CNAME .
 apnarm.net.au CNAME .
 apns.ios.ijinshan.com CNAME .
@@ -3022,7 +3022,6 @@ as.sinahk.net CNAME .
 as.yuewz.com CNAME .
 as49870.net CNAME .
 asciinema.org CNAME .
-ase.aidcgroup.net CNAME .
 ase.com CNAME .
 asfinagv8.azureedge.net CNAME .
 ashampoo.com CNAME .
@@ -3051,7 +3050,6 @@ assets.a-mo.net CNAME .
 assets.adobedtm.com CNAME .
 assets.adobetm.com CNAME .
 assets.adsttc.com CNAME .
-assets.alicdn.com CNAME .
 assets.cengage.com CNAME .
 assets.contently.com CNAME .
 assets.context.ly CNAME .
@@ -3090,6 +3088,7 @@ aswpsdkeu.com CNAME .
 aswpsdkus.com CNAME .
 at-band-camp.net CNAME .
 at-config.sensic.net CNAME .
+at.alicdn.com CNAME .
 at.cylex.de CNAME .
 at98.com CNAME .
 atanx.alicdn.com CNAME .
@@ -3780,6 +3779,7 @@ bitban.com CNAME .
 bitbrowser.net CNAME .
 bitcoin-powersupply.com CNAME .
 bitcoinbazis.hu CNAME .
+bitdefender.com CNAME .
 bitdreams.com CNAME .
 bitgravity.com CNAME .
 bitly.com CNAME .
@@ -3947,6 +3947,7 @@ botmind.ai CNAME .
 botmind.io CNAME .
 botnation.ai CNAME .
 botndm.nl CNAME .
+botslab.com CNAME .
 boulevarddeletincelle.fr CNAME .
 boulevarddesexperts.fr CNAME .
 bounce-commerce.de CNAME .
@@ -4921,6 +4922,7 @@ choshu.co.jp CNAME .
 chromatec.ru CNAME .
 chrome-stats.com CNAME .
 chtbl.com CNAME .
+churchofjesuschrist.org CNAME .
 churchrez.org CNAME .
 chyly.tech CNAME .
 ci.vungle.com CNAME .
@@ -5278,6 +5280,7 @@ co-in.io CNAME .
 co.la.welt.de CNAME .
 co2ok.eco CNAME .
 coachingwithjoy.nl CNAME .
+cobiedouma.nl CNAME .
 cobrowser.com CNAME .
 cocospy.com CNAME .
 cocounion.com CNAME .
@@ -6918,6 +6921,7 @@ duelz.com CNAME .
 duiba.com.cn CNAME .
 dukaan.com CNAME .
 dumedia.ru CNAME .
+dummyapi.online CNAME .
 duo.nvidia.com CNAME .
 duomeng.cn CNAME .
 dup.baidustatic.com CNAME .
@@ -7247,6 +7251,7 @@ enepal.net CNAME .
 energetischhuis.nl CNAME .
 energokst.kz CNAME .
 energyarts.com CNAME .
+energyhealingzone.com CNAME .
 energymind.nl CNAME .
 engage.ticketmaster.com CNAME .
 engage.wixapps.net CNAME .
@@ -8301,6 +8306,7 @@ getresponse.nl CNAME .
 getreview.pl CNAME .
 getrevue.co CNAME .
 getrewardful.com CNAME .
+getrich.li CNAME .
 gets-it.net CNAME .
 getscreen.me CNAME .
 getsidekick.com CNAME .
@@ -8613,7 +8619,6 @@ gtm.vanmoof.com CNAME .
 gtm.wearetriple.com CNAME .
 gtminet.net CNAME .
 gtmniddocks.herokuapp.com CNAME .
-gtmsdd.alicdn.com CNAME .
 gtmucs.cn CNAME .
 guangzhuiyuan.com CNAME .
 guenther.de CNAME .
@@ -9110,6 +9115,7 @@ iadsdk.apple.com.edgekey.net CNAME .
 iadworkbench.apple.com CNAME .
 ialottery.com CNAME .
 iamallama.com CNAME .
+iarp.org CNAME .
 iavilciadeg.eu.com CNAME .
 ib.adnxs-simple.com CNAME .
 ib.adnxs.com CNAME .
@@ -9396,6 +9402,7 @@ iirexhibitionslimite.tt.omtrdc.net CNAME .
 iis1.deliver.ifeng.com CNAME .
 iis3g.deliver.ifeng.com CNAME .
 ijoycig.com CNAME .
+ikinnerlijkekracht.nl CNAME .
 ilcorsaronero.info CNAME .
 illow.io CNAME .
 ilumy.com CNAME .
@@ -9531,6 +9538,7 @@ infiniamobile.com CNAME .
 infinigrow.com CNAME .
 infinitedata-pa.googleapis.com CNAME .
 infinitepixeltracking.com CNAME .
+infinity-healing.eu CNAME .
 influ2.com CNAME .
 info-flyingblue.com CNAME .
 info.cloudflare.com CNAME .
@@ -9809,6 +9817,7 @@ iqzone.com CNAME .
 ir.mail.126.com CNAME .
 ir.mail.163.com CNAME .
 ir.mail.yeah.net CNAME .
+ireenthunnissen.nl CNAME .
 ireklama.mk CNAME .
 iridion.de CNAME .
 iris.ipsos.com CNAME .
@@ -9963,6 +9972,7 @@ jc1.dayfund.cn CNAME .
 jddaw.com CNAME .
 jdlhg.com CNAME .
 jdoqocy.com CNAME .
+jdownloader.org CNAME .
 jdsports-client-resources.co.uk CNAME .
 jdt8.net CNAME .
 jean.live CNAME .
@@ -10145,7 +10155,6 @@ jutou5.com CNAME .
 juzi.cn CNAME .
 juzilm.com CNAME .
 jvh.nl CNAME .
-jwplayer.com CNAME .
 jwpltx.com CNAME .
 jxbjt.com CNAME .
 jxjzny.com CNAME .
@@ -10271,6 +10280,7 @@ kiss-ssb.com CNAME .
 kissmetrics.com CNAME .
 kissmetrics.io CNAME .
 kissmetricshq.com CNAME .
+kit.com CNAME .
 kiwifarms.net CNAME .
 kiyoh.com CNAME .
 kjdsfjisdfjr23.azurewebsites.net CNAME .
@@ -10314,6 +10324,7 @@ kodama-group.jp CNAME .
 koi-3qnciq0m5q.marketingautomation.services CNAME .
 koi-3qnkjfhgq6.marketingautomation.services CNAME .
 kolikkopelit.com CNAME .
+kombewustinverbinding.nl CNAME .
 komoona.com CNAME .
 kompas.services CNAME .
 kompassdata.com CNAME .
@@ -11451,6 +11462,7 @@ mijnapotheek.nl CNAME .
 mijnoverheid.hopp.to CNAME .
 mijnoverheid.ozto.com CNAME .
 mijnpostcode.nl CNAME .
+mijnzonnestraaltje.nl CNAME .
 miles-research.com CNAME .
 milet11111.pcapredict.com CNAME .
 mili2nd.co CNAME .
@@ -11632,6 +11644,7 @@ monetate.net CNAME .
 monetize-stream.viralize.tv CNAME .
 monetizer101.com CNAME .
 mongo87a.sweet-water.org CNAME .
+monique-foederer.nl CNAME .
 moniquebooijink.nl CNAME .
 monitor.clickcease.com CNAME .
 monitor.ebay.com CNAME .
@@ -11877,10 +11890,13 @@ nativemedia.rs CNAME .
 nativendo.de CNAME .
 nativex.com CNAME .
 nativo.com CNAME .
+naturalhealers.com CNAME .
 naturamiele.it CNAME .
 naturaroyal.com CNAME .
+natuurgeneeskunde-gemert.nl CNAME .
 natuurlijkbijmarianne.nl CNAME .
 natuurlijke-analyse.nl CNAME .
+natuurlijkinbalance.nl CNAME .
 natwaves.com CNAME .
 naumann.nkl.de CNAME .
 nav.sciencedirect.com CNAME .
@@ -12095,6 +12111,7 @@ nordicbet.dk CNAME .
 nordslot.com CNAME .
 normandy-cdn.services.mozilla.com CNAME .
 normandy.cdn.mozilla.net CNAME .
+normasense.nl CNAME .
 norobet.de CNAME .
 norsk-tipping.no CNAME .
 norstat.at CNAME .
@@ -13174,12 +13191,16 @@ praktijkcynergie.nl CNAME .
 praktijkdevlindertuin.nl CNAME .
 praktijkegtmiranda.nl CNAME .
 praktijkholistichealing.nl CNAME .
+praktijkinnerfreedom.nl CNAME .
 praktijkinnerlijkegroei.nl CNAME .
+praktijkjensitive.nl CNAME .
 praktijkjosje.nl CNAME .
 praktijklichtpunt.nu CNAME .
 praktijkmagistraal.nl CNAME .
+praktijkmakesense.nl CNAME .
 praktijkmeergeluk.nl CNAME .
 praktijkmiriam.nl CNAME .
+praktijkrelease.nl CNAME .
 praktijktamaravanoers.nl CNAME .
 praktijktcg.nl CNAME .
 praktijkviaversa.nl CNAME .
@@ -13414,6 +13435,7 @@ publicidad.net CNAME .
 publicidad.tv CNAME .
 publicismedia.de CNAME .
 publikaan.nl CNAME .
+publish.api.switchbot.net CNAME .
 publisher-event.ads.prd.ie.internal.unity3d.com CNAME .
 publisher-event.unityads.unity3d.com CNAME .
 publisher.caroda.io CNAME .
@@ -13858,6 +13880,9 @@ region1.google-analytics.com CNAME .
 regionalserver.com CNAME .
 registration.gimbal.com CNAME .
 reignn.com CNAME .
+reiki.org CNAME .
+reikilifestyle.com CNAME .
+reikiscoop.com CNAME .
 rejoiner.com CNAME .
 reklami.24fudbal.mk CNAME .
 reklami.daily.mk CNAME .
@@ -13919,7 +13944,6 @@ request.eprotect.vantivcnp.com CNAME .
 requestmetrics.com CNAME .
 rereddit.com CNAME .
 res-geo.cdn.office.net CNAME .
-res-odx.op-mobile.opera.com CNAME .
 res.adcome.cn CNAME .
 res.aduu.cn CNAME .
 res.gwifi.com.cn CNAME .
@@ -14230,7 +14254,6 @@ s.nitropay.com CNAME .
 s.ntv.io CNAME .
 s.on-device.com CNAME .
 s.p.youku.com CNAME .
-s.pinimg.com CNAME .
 s.qhupdate.com CNAME .
 s.search.naver.com CNAME .
 s.skimresources.com CNAME .
@@ -14616,7 +14639,12 @@ sendy.co CNAME .
 sendy.webcurso.org CNAME .
 seniorenvoordeelpas.nl CNAME .
 senja.io CNAME .
+sense-ability.be CNAME .
+sensety.nl CNAME .
 sensic.net CNAME .
+sensigezondhuis.nl CNAME .
+sensitherapie.nl CNAME .
+sensitreatment.com CNAME .
 sensoro.com CNAME .
 sensorsdata.cn CNAME .
 sensorsdata.com CNAME .
@@ -14637,6 +14665,7 @@ sentry.hetzner.company CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.internxt.com CNAME .
 sentry.invoicing.co CNAME .
+sentry.io CNAME .
 sentry.justwatch.com CNAME .
 sentry.matrix.org CNAME .
 sentry.odysee.tv CNAME .
@@ -14925,6 +14954,7 @@ slot.union.ucweb.com CNAME .
 slotclub.de CNAME .
 slotmagie.de CNAME .
 sloto-cash-casino.com CNAME .
+slotozilla.info CNAME .
 slotsandfriends.de CNAME .
 slotsmagic.de CNAME .
 slotstemple.com CNAME .
@@ -15219,6 +15249,7 @@ spproxy.autobytel.com CNAME .
 spreadex.dk CNAME .
 spreedly.com CNAME .
 sprig.com CNAME .
+springel.nl CNAME .
 springernature.io CNAME .
 springserve.com CNAME .
 sprinklecontent.com CNAME .
@@ -15938,7 +15969,6 @@ tags-eu.tiqcdn.com CNAME .
 tags.adnuntius.com CNAME .
 tags.affiliatefuture.com CNAME .
 tags.chip.de CNAME .
-tags.creativecdn.com CNAME .
 tags.crwdcntrl.net CNAME .
 tags.experian.co.uk CNAME .
 tags.expo9.exponential.com CNAME .
@@ -16318,6 +16348,7 @@ to.getnitropack.com CNAME .
 tob-cms.bj.bcebos.com CNAME .
 toboads.com CNAME .
 tocaboca.com CNAME .
+todayimeet.nl CNAME .
 token.rubiconproject.com CNAME .
 tollfreeforwarding.com CNAME .
 tolt.io CNAME .
@@ -16868,7 +16899,6 @@ us-central1-signal-data-science.cloudfunctions.net CNAME .
 us-reviews.com CNAME .
 us-u.openx.net CNAME .
 us.tags.newscgp.com CNAME .
-us.ynuf.aliapp.org CNAME .
 us01.rayjump.com CNAME .
 us01campaign.zoom.us CNAME .
 us3.datadoghq.com CNAME .
@@ -17025,6 +17055,7 @@ veikkaus.fi CNAME .
 velocidi.com CNAME .
 veloxity.net CNAME .
 velthuysemulder.nl CNAME .
+velvet-beauty.nl CNAME .
 venatusmedia.com CNAME .
 vendio.com CNAME .
 vendiro.nl CNAME .
@@ -17124,6 +17155,7 @@ visitor-scoring-c.marketlinc.com CNAME .
 visitor-service.tealiumiq.com CNAME .
 visitor.abmatic.ai CNAME .
 visitor.figpii.com CNAME .
+visits.paralino.app CNAME .
 vistatravelclub.com CNAME .
 visto.li CNAME .
 visualdna.com CNAME .
@@ -17530,6 +17562,7 @@ wootric.com CNAME .
 wordstream.com CNAME .
 workarea.com CNAME .
 workcomposer.com CNAME .
+workers.dev CNAME .
 workingatcompanyinfo.nl CNAME .
 worldaccelerator.com CNAME .
 worldchasetag.com CNAME .
@@ -17602,7 +17635,6 @@ www-analytics.esa.int CNAME .
 www-cultofmac-com.ezoic.net CNAME .
 www-elperiodic-com.translate.goog CNAME .
 www-googletagmanager.l.google.com CNAME .
-www.googletagmanager.com CNAME .
 www138.civicscience.com CNAME .
 wx.xwjqr.com CNAME .
 wxsnsdy.wxs.qq.com CNAME .
@@ -17884,6 +17916,7 @@ zeotap.com CNAME .
 zephr.com CNAME .
 zergnet.com CNAME .
 zetaglobal.com CNAME .
+zetp.rs CNAME .
 zeturf.nl CNAME .
 zeylin15.com CNAME .
 zgfszs.com CNAME .
