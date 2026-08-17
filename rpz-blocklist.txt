@@ -5020,6 +5020,7 @@ aliabdaal.ck.page CNAME .
 alibaba-inc.com CNAME .
 alicloudapi.com CNAME .
 alida.com CNAME .
+aliexpress.ru CNAME .
 alikunlun.com CNAME .
 alimama.com CNAME .
 alimento.be CNAME .
@@ -5280,6 +5281,7 @@ analytics.gandi.net CNAME .
 analytics.getshogun.com CNAME .
 analytics.gigyahosting1.com CNAME .
 analytics.global.sky.com CNAME .
+analytics.google.com CNAME .
 analytics.greenhost.net CNAME .
 analytics.groupoffice.net CNAME .
 analytics.htmedia.in CNAME .
@@ -5579,6 +5581,7 @@ apkdo.com CNAME .
 apknewdownload.info CNAME .
 apkpure.net CNAME .
 aplikacii.com CNAME .
+aplus-sdk.alibaba-inc.com CNAME .
 aplus.aliexpress.com CNAME .
 apm.bigbank.eu CNAME .
 apollanjacrystals.nl CNAME .
@@ -5838,6 +5841,7 @@ as49870.net CNAME .
 asamee.com CNAME .
 asciinema.org CNAME .
 ascoin.pl CNAME .
+ase.aidcgroup.net CNAME .
 ase.com CNAME .
 asetindolottery88.net CNAME .
 ashahaarmans.nl CNAME .
@@ -5870,6 +5874,7 @@ assethc.com CNAME .
 assets-cdn.starapps.studio CNAME .
 assets.adobedtm.com CNAME .
 assets.adsttc.com CNAME .
+assets.alicdn.com CNAME .
 assets.cengage.com CNAME .
 assets.contently.com CNAME .
 assets.context.ly CNAME .
@@ -5913,6 +5918,8 @@ at-band-camp.net CNAME .
 at-config.sensic.net CNAME .
 at.cylex.de CNAME .
 at98.com CNAME .
+atanx.alicdn.com CNAME .
+atanx2.alicdn.com CNAME .
 atas.io CNAME .
 atatus.com CNAME .
 atdata.com CNAME .
@@ -12434,6 +12441,7 @@ dynalias.net CNAME .
 dynalias.org CNAME .
 dynamic-tracking.com CNAME .
 dynamic-yield.com CNAME .
+dynamic.criteo.com CNAME .
 dynamiccasino198.com CNAME .
 dynamiccasino215.com CNAME .
 dynamiccasino270.com CNAME .
@@ -14622,6 +14630,7 @@ glutoes.com CNAME .
 glympse.com CNAME .
 glyph.medium.com CNAME .
 gm99.com CNAME .
+gma.alicdn.com CNAME .
 gma1.com CNAME .
 gmads.net CNAME .
 gmailpva.com CNAME .
@@ -14766,6 +14775,7 @@ google-analytics.com CNAME .
 googleadmob.com CNAME .
 googleads-cn.com CNAME .
 googleads.com CNAME .
+googleads.g.doubleclick.net CNAME .
 googleadservices-cn.com CNAME .
 googleadservices.com CNAME .
 googleadsserving.cn CNAME .
@@ -14966,6 +14976,7 @@ gtm.oasisfeng.com CNAME .
 gtm.reflect.app CNAME .
 gtm.vanmoof.com CNAME .
 gtminet.net CNAME .
+gtmsdd.alicdn.com CNAME .
 gtmucs.cn CNAME .
 gtr96.casino CNAME .
 gtranslate.io CNAME .
@@ -20820,6 +20831,7 @@ pagbets.casino CNAME .
 page-stats.de CNAME .
 page-vest-lost.xyz CNAME .
 page.link CNAME .
+pagead2.googlesyndication.com CNAME .
 pagechoice.com CNAME .
 pagechoice.net CNAME .
 pagefly.io CNAME .
@@ -22662,6 +22674,7 @@ reputon.com CNAME .
 reqtube.com CNAME .
 requestmetrics.com CNAME .
 rereddit.com CNAME .
+res-odx.op-mobile.opera.com CNAME .
 research-survey.com CNAME .
 research.net CNAME .
 researchintel.com CNAME .
@@ -23113,6 +23126,7 @@ s.flocdn.com CNAME .
 s.id CNAME .
 s.jlminte.com CNAME .
 s.on-device.com CNAME .
+s.pinimg.com CNAME .
 s.skimresources.com CNAME .
 s.swiftypecdn.com CNAME .
 s.vi-serve.com CNAME .
@@ -23551,7 +23565,6 @@ sentry.bazo.dk CNAME .
 sentry.bunq.com CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.invoicing.co CNAME .
-sentry.io CNAME .
 sentry.justwatch.com CNAME .
 sentry.matrix.org CNAME .
 sentry.odysee.tv CNAME .
@@ -24677,6 +24690,7 @@ stathat.com CNAME .
 static-addtoany.com CNAME .
 static-dscn.net CNAME .
 static-eu.payments-amazon.com CNAME .
+static.criteo.net CNAME .
 static.flv.uuzuonline.com CNAME .
 static.g.ppstream.com CNAME .
 static.ichehome.com CNAME .
@@ -24742,6 +24756,7 @@ stats.foodwatch.org CNAME .
 stats.forensic-architecture.org CNAME .
 stats.framasoft.org CNAME .
 stats.freedom.nl CNAME .
+stats.g.doubleclick.net CNAME .
 stats.gouv.mc CNAME .
 stats.ideanote.io CNAME .
 stats.ivpn.net CNAME .
@@ -25275,6 +25290,7 @@ tagmanager.becop.nl CNAME .
 tagmanager.top CNAME .
 tagrpd.de CNAME .
 tags-eu.tiqcdn.com CNAME .
+tags.creativecdn.com CNAME .
 tags.nationwide.com CNAME .
 tagsrvcs.com CNAME .
 tahgigbazargan.xyz CNAME .
@@ -27671,6 +27687,7 @@ www-fifa.work CNAME .
 www-fifa.xin CNAME .
 www-robllox.com CNAME .
 www-roblqx.co CNAME .
+www.googletagmanager.com CNAME .
 wwwv-roblox.co CNAME .
 wx.xwjqr.com CNAME .
 wx4.casino CNAME .
