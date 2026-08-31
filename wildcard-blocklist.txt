@@ -5247,6 +5247,7 @@
 *.aliceadsl.fr
 *.alicloudapi.com
 *.alida.com
+*.aliexpress.ru
 *.alightmtion.com
 *.alignedconsultants.com
 *.alikunlun.com
@@ -5569,6 +5570,7 @@
 *.analytics.getshogun.com
 *.analytics.gigyahosting1.com
 *.analytics.global.sky.com
+*.analytics.google.com
 *.analytics.greenhost.net
 *.analytics.groupoffice.net
 *.analytics.htmedia.in
@@ -5904,6 +5906,7 @@
 *.apkpure.net
 *.aplikacii.com
 *.aplikasigerhanatoto1.com
+*.aplus-sdk.alibaba-inc.com
 *.aplus.aliexpress.com
 *.aplusmovingandstorage.com
 *.apluspermits.com
@@ -6207,6 +6210,7 @@
 *.asatoe.co
 *.asciinema.org
 *.ascoin.pl
+*.ase.aidcgroup.net
 *.ase.com
 *.asemafor.cl
 *.asetindolottery88.net
@@ -6243,6 +6247,7 @@
 *.assethc.com
 *.assets-cdn.starapps.studio
 *.assets.adobedtm.com
+*.assets.alicdn.com
 *.assets.cengage.com
 *.assets.contently.com
 *.assets.context.ly
@@ -6286,6 +6291,8 @@
 *.at-config.sensic.net
 *.at.cylex.de
 *.at98.com
+*.atanx.alicdn.com
+*.atanx2.alicdn.com
 *.atas.io
 *.atatus.com
 *.atdata.com
@@ -10496,6 +10503,7 @@
 *.cdn.static.zdbb.net
 *.cdn.stream.schibsted.media
 *.cdn.stroeerdigitalgroup.de
+*.cdn.taboola.com
 *.cdn.tagcommander.com
 *.cdn.trustindex.io
 *.cdn.usefathom.com
@@ -13184,6 +13192,7 @@
 *.dynalias.org
 *.dynamic-tracking.com
 *.dynamic-yield.com
+*.dynamic.criteo.com
 *.dynamiccasino198.com
 *.dynamiccasino215.com
 *.dynamiccasino270.com
@@ -15414,6 +15423,7 @@
 *.glympse.com
 *.glyph.medium.com
 *.gm99.com
+*.gma.alicdn.com
 *.gma1.com
 *.gmads.net
 *.gmailpva.com
@@ -15555,6 +15565,7 @@
 *.googleadmob.com
 *.googleads-cn.com
 *.googleads.com
+*.googleads.g.doubleclick.net
 *.googleadservices-cn.com
 *.googleadservices.com
 *.googleanalytics.com
@@ -15751,6 +15762,7 @@
 *.gtm.reflect.app
 *.gtm.vanmoof.com
 *.gtminet.net
+*.gtmsdd.alicdn.com
 *.gtmucs.cn
 *.gtr96.casino
 *.gtranslate.io
@@ -21590,6 +21602,7 @@
 *.pagbets.casino
 *.page-stats.de
 *.page.link
+*.pagead2.googlesyndication.com
 *.pagechoice.com
 *.pagechoice.net
 *.pagefly.io
@@ -23432,6 +23445,7 @@
 *.reqtube.com
 *.requestmetrics.com
 *.rereddit.com
+*.res-odx.op-mobile.opera.com
 *.research-survey.com
 *.research.net
 *.researchintel.com
@@ -23878,6 +23892,7 @@
 *.s.id
 *.s.jlminte.com
 *.s.on-device.com
+*.s.pinimg.com
 *.s.skimresources.com
 *.s.swiftypecdn.com
 *.s.w.org
@@ -25420,6 +25435,7 @@
 *.static-addtoany.com
 *.static-dscn.net
 *.static-eu.payments-amazon.com
+*.static.criteo.net
 *.static.flv.uuzuonline.com
 *.static.g.ppstream.com
 *.static.ichehome.com
@@ -25486,6 +25502,7 @@
 *.stats.forensic-architecture.org
 *.stats.framasoft.org
 *.stats.freedom.nl
+*.stats.g.doubleclick.net
 *.stats.gouv.mc
 *.stats.ideanote.io
 *.stats.ivpn.net
@@ -26026,6 +26043,7 @@
 *.tagmanager.top
 *.tagrpd.de
 *.tags-eu.tiqcdn.com
+*.tags.creativecdn.com
 *.tags.nationwide.com
 *.tagsrvcs.com
 *.tahgigbazargan.xyz
@@ -28431,6 +28449,7 @@
 *.www-fifa.sbs
 *.www-fifa.work
 *.www-fifa.xin
+*.www.googletagmanager.com
 *.wwwv-roblox.co
 *.wx.xwjqr.com
 *.wx4.casino

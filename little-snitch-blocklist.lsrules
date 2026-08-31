@@ -1,6 +1,6 @@
 {
-    "name": "ph00lt0 - blocklist",
-    "description": "https://github.com/ph00lt0/blocklist",
+    "name": "CaptainCodeAU - blocklist",
+    "description": "https://github.com/CaptainCodeAU/littlesnitch_blocklist",
     "denied-remote-domains": [
         "000037.cc",
         "00007.casino",
@@ -24311,7 +24311,6 @@
         "sentry.bunq.com",
         "sentry.hq.citizenlab.co",
         "sentry.invoicing.co",
-        "sentry.io",
         "sentry.justwatch.com",
         "sentry.matrix.org",
         "sentry.odysee.tv",
@@ -29081,6 +29080,25 @@
         "zzbaowen.com",
         "zzkko.com",
         "zzlocalsquared.com",
-        "zzpcentrale.nl"
+        "zzpcentrale.nl",
+        "ase.aidcgroup.net",
+        "assets.alicdn.com",
+        "aplus-sdk.alibaba-inc.com",
+        "atanx.alicdn.com",
+        "atanx2.alicdn.com",
+        "gma.alicdn.com",
+        "gtmsdd.alicdn.com",
+        "aliexpress.ru",
+        "cdn.taboola.com",
+        "dynamic.criteo.com",
+        "static.criteo.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "res-odx.op-mobile.opera.com",
+        "s.pinimg.com",
+        "tags.creativecdn.com",
+        "analytics.google.com",
+        "www.googletagmanager.com"
     ]
 }
