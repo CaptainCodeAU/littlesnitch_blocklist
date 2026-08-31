@@ -516,7 +516,6 @@
 134083.click CNAME .
 1343.casino CNAME .
 1345.casino CNAME .
-134642.xyz CNAME .
 1346590.com CNAME .
 1348.casino CNAME .
 1349p.casino CNAME .
@@ -547,9 +546,7 @@
 13xx.casino CNAME .
 13z3.casino CNAME .
 140.casino CNAME .
-14025.xyz CNAME .
 1407.casino CNAME .
-14088.xyz CNAME .
 140proof.com CNAME .
 1410.casino CNAME .
 1411w.casino CNAME .
@@ -635,7 +632,6 @@
 1673.casino CNAME .
 1674.casino CNAME .
 1678.casino CNAME .
-167v922n4212.lol CNAME .
 168.it168.com CNAME .
 1680go.com CNAME .
 1685.casino CNAME .
@@ -718,7 +714,6 @@
 1825.casino CNAME .
 1832.casino CNAME .
 1834.casino CNAME .
-1834x6892n61.lol CNAME .
 1842.casino CNAME .
 1847.casino CNAME .
 184casinoplay.live CNAME .
@@ -798,10 +793,8 @@
 1e100.net CNAME .
 1e100cdn.net CNAME .
 1fabet.live CNAME .
-1foqo.lat CNAME .
 1go.casino CNAME .
 1gr.cz CNAME .
-1homeinterior.com CNAME .
 1inch-dex.net CNAME .
 1io.casino CNAME .
 1k.ru CNAME .
@@ -1151,7 +1144,6 @@
 2411.casino CNAME .
 2412.casino CNAME .
 2414.casino CNAME .
-24155.xyz CNAME .
 241e.casino CNAME .
 241v.casino CNAME .
 2423.casino CNAME .
@@ -1168,7 +1160,6 @@
 247realmedia.com CNAME .
 247sosservices.com CNAME .
 247sports.com CNAME .
-248bestmoon.click CNAME .
 24auto.de CNAME .
 24casino.com CNAME .
 24casino1.co.uk CNAME .
@@ -1237,7 +1228,6 @@
 263.casino CNAME .
 2635.casino CNAME .
 265.com CNAME .
-268365h.com CNAME .
 268mob.cn CNAME .
 2698.casino CNAME .
 26bonus.casino CNAME .
@@ -1636,7 +1626,6 @@
 3628.casino CNAME .
 3635.casino CNAME .
 3637.casino CNAME .
-364251.xyz CNAME .
 365.mk CNAME .
 3651.casino CNAME .
 3653.casino CNAME .
@@ -2165,7 +2154,6 @@
 5168026.fls.doubleclick.net CNAME .
 516m.casino CNAME .
 5181.casino CNAME .
-518128512.mom CNAME .
 5186.casino CNAME .
 5189.casino CNAME .
 5191.casino CNAME .
@@ -2330,7 +2318,6 @@
 5aug.com CNAME .
 5bir.xyz CNAME .
 5c61d83bec173600012aac7a.click CNAME .
-5ca8758c-02d0-4a72-89c8-d468b66dda41.com CNAME .
 5casino.best CNAME .
 5d3x.net CNAME .
 5dimes.eu CNAME .
@@ -2462,7 +2449,6 @@
 63t.casino CNAME .
 6401.casino CNAME .
 6412.casino CNAME .
-643273.xyz CNAME .
 644446.com CNAME .
 6459.casino CNAME .
 6479.casino CNAME .
@@ -2529,12 +2515,10 @@
 67l.casino CNAME .
 67o.casino CNAME .
 67uj.casino CNAME .
-683452.xyz CNAME .
 6848.casino CNAME .
 685wo.com CNAME .
 68665565.com CNAME .
 68765.xyz CNAME .
-688443.xyz CNAME .
 688n.casino CNAME .
 6894.casino CNAME .
 68ninecasino35.com CNAME .
@@ -3009,7 +2993,6 @@
 8226.casino CNAME .
 8227.casino CNAME .
 822x.casino CNAME .
-8235672.lol CNAME .
 8239sf.com CNAME .
 823ggg.casa CNAME .
 8260sf.com CNAME .
@@ -3646,7 +3629,6 @@ abcotvssb.net CNAME .
 abcsinsights.com CNAME .
 abcvg.info CNAME .
 abczdrowie.pl CNAME .
-abdullah-brothers.com CNAME .
 abecorkups.com CNAME .
 abegs.org CNAME .
 abeille-assurances.fr CNAME .
@@ -3674,13 +3656,11 @@ abrankings.com CNAME .
 abraxas-apis.ch CNAME .
 abraxas-apps.ch CNAME .
 abrfestival.com CNAME .
-abrikos.xyz CNAME .
 abroad.apilocate.amap.com CNAME .
 abrtp2-cdn.marketo.com CNAME .
 abrye.com CNAME .
 absolutecaninepa.com CNAME .
 absorbingband.com CNAME .
-absshop-ping.xyz CNAME .
 abstractapi.com CNAME .
 abstractedauthority.com CNAME .
 absvip.casino CNAME .
@@ -3691,8 +3671,6 @@ abtesting.ai CNAME .
 abtesting.roblox.com CNAME .
 abtshield.com CNAME .
 abundish.info CNAME .
-abv-abc12.top CNAME .
-abv-gbg120.top CNAME .
 abv.bg CNAME .
 abwxjp5.me CNAME .
 abyss.to CNAME .
@@ -3751,7 +3729,6 @@ accesswca.com CNAME .
 accor.webgeoservices.com CNAME .
 accorhotels.com CNAME .
 accorhotels.ws CNAME .
-account-protection-support.quest CNAME .
 account.squadata.net CNAME .
 accountable2you.com CNAME .
 accountinsight.cloud CNAME .
@@ -3992,9 +3969,7 @@ adblade.com CNAME .
 adblcounter.com CNAME .
 adblock.ee CNAME .
 adblockanalytics.com CNAME .
-adblockfree.com CNAME .
 adblockplus.org CNAME .
-adblockpro.net CNAME .
 adbreak.ch CNAME .
 adbrite.com CNAME .
 adbrix.com CNAME .
@@ -4037,8 +4012,6 @@ addmilk.nl CNAME .
 addmypasskey.com CNAME .
 addons.business CNAME .
 addonslab.com CNAME .
-addonslab.net CNAME .
-addonslab.org CNAME .
 addqi.com CNAME .
 addqo.com CNAME .
 addqy.com CNAME .
@@ -4233,7 +4206,6 @@ adobetarget.com CNAME .
 adobetm.com CNAME .
 adocean-global.com CNAME .
 adocean.pl CNAME .
-adodebtsole.xyz CNAME .
 adoducvew.com CNAME .
 adomv.com CNAME .
 adopenstatic.com CNAME .
@@ -4934,11 +4906,7 @@ ae.bdstatic.com CNAME .
 ae.nflximg.net CNAME .
 aec944b68370194a50.link CNAME .
 aecert.org CNAME .
-aeirur.top CNAME .
-aeirvr.top CNAME .
-aeiryr.top CNAME .
 aem-ingest.onkakao.net CNAME .
-aemuntanya.net CNAME .
 aeplled.cfd CNAME .
 aeroadmin.com CNAME .
 aerocasino.ca CNAME .
@@ -4949,7 +4917,6 @@ aeroleads.com CNAME .
 aeroports-voyages.fr CNAME .
 aerserv.com CNAME .
 aestatic.net CNAME .
-aethersyncmatrix5.lol CNAME .
 aews-analytics.sogei.it CNAME .
 aexp-static.com CNAME .
 afdb.org CNAME .
@@ -5016,7 +4983,6 @@ afp.ai CNAME .
 afp.alicdn.com CNAME .
 afp24.net CNAME .
 africagonepay.info CNAME .
-africanmemoriesexplorers.com CNAME .
 africansindeutschland.com CNAME .
 africn.earth CNAME .
 afroempiredance.com CNAME .
@@ -5063,7 +5029,6 @@ aginginplacellc.com CNAME .
 agle21xe2anfddirite.com CNAME .
 aglimitless.com CNAME .
 agluona.lt CNAME .
-agma-analytics.de CNAME .
 agnitas.ag CNAME .
 agnitas.de CNAME .
 agof.de CNAME .
@@ -5093,7 +5058,6 @@ ahtigames.de CNAME .
 ahtigamescasino.net CNAME .
 ai-analytics.org CNAME .
 ai-news.ru CNAME .
-ai-pakistan.com CNAME .
 ai.bioon.com CNAME .
 ai.com CNAME .
 ai.yimg.jp CNAME .
@@ -5118,8 +5082,6 @@ aidlifempowerment.com CNAME .
 aidtclass.com CNAME .
 aidwithoutborders.info CNAME .
 aigeonemails.com CNAME .
-aigle-construction.com CNAME .
-aigroupfood.com CNAME .
 aikan6.com CNAME .
 aikomart.com CNAME .
 ailianjk.com CNAME .
@@ -5285,7 +5247,6 @@ alibaba-inc.com CNAME .
 aliceadsl.fr CNAME .
 alicloudapi.com CNAME .
 alida.com CNAME .
-aliexpress.ru CNAME .
 alightmtion.com CNAME .
 alignedconsultants.com CNAME .
 alikunlun.com CNAME .
@@ -5339,7 +5300,6 @@ allneedsllc.com CNAME .
 alloprof-production.web.app CNAME .
 allorigins.win CNAME .
 allowtrack.com CNAME .
-allplanetssame.cfd CNAME .
 allright-casino.click CNAME .
 allrightcasino-pl.com CNAME .
 allrightcasino.com CNAME .
@@ -5412,13 +5372,11 @@ alpixtrack.com CNAME .
 alqaemalmutahida.com CNAME .
 alqemam.info CNAME .
 alrakham.ae CNAME .
-alrashidun.org CNAME .
 alrawabit.online CNAME .
 alrosha.com CNAME .
 alsar.sn CNAME .
 alsdvds.com CNAME .
 alsengineering.net CNAME .
-alsofillsoar.xyz CNAME .
 alsycon.net CNAME .
 alsycon.nl CNAME .
 altamob.com CNAME .
@@ -5486,19 +5444,15 @@ americancasinoguide.com CNAME .
 americancasinoguidebook.com CNAME .
 americanenvironics.com CNAME .
 americanhapkidokarate.com CNAME .
-americanmanchester.org CNAME .
 americanmovers.co CNAME .
 americanmovingco.org CNAME .
 americanprogaragedoorllc.com CNAME .
 americasdspkits.com CNAME .
 americastartmagazine.com CNAME .
-ameslwv.org CNAME .
-ameyiando.com CNAME .
 amg-doors.com CNAME .
 amg55.casino CNAME .
 amgload.net CNAME .
 amici-di-pogrande.it CNAME .
-amid-darnsoul.xyz CNAME .
 amigosdelasfinanzas.com CNAME .
 amillionads.com CNAME .
 amityglobalgroup.com CNAME .
@@ -5508,7 +5462,6 @@ ammarnomani.com CNAME .
 ammars.cc CNAME .
 ammitservices.com CNAME .
 ammkbd.com CNAME .
-ammmaka.top CNAME .
 ammunitionreloadstorecanada.com CNAME .
 amoad.com CNAME .
 amobee.com CNAME .
@@ -5546,7 +5499,6 @@ ana.headerlift.com CNAME .
 anaconda.cloud CNAME .
 anadomisis.com CNAME .
 anagog.com CNAME .
-anakondabob.club CNAME .
 analisenetempresabr.digital CNAME .
 analisenetempresabr.info CNAME .
 analisenetempresabr.pro CNAME .
@@ -5617,7 +5569,6 @@ analytics.gandi.net CNAME .
 analytics.getshogun.com CNAME .
 analytics.gigyahosting1.com CNAME .
 analytics.global.sky.com CNAME .
-analytics.google.com CNAME .
 analytics.greenhost.net CNAME .
 analytics.groupoffice.net CNAME .
 analytics.htmedia.in CNAME .
@@ -5720,7 +5671,6 @@ analyzercasinos.com CNAME .
 anamariaromanow.com CNAME .
 anandagenciesindia.in CNAME .
 anasbhbh.com CNAME .
-anascopr.net CNAME .
 anastasopoulosandco.com CNAME .
 anbieter-vergleich.ch CNAME .
 anbusivam.com CNAME .
@@ -5729,7 +5679,6 @@ ancensored.com CNAME .
 ancestry.com CNAME .
 ancestry.de CNAME .
 ancestry.fr CNAME .
-and-last-lock.xyz CNAME .
 andalecatering.com CNAME .
 andaluciaocasion.com CNAME .
 andapp.jp CNAME .
@@ -5780,7 +5729,6 @@ anquan.org CNAME .
 anrdoezrs.net CNAME .
 answerbase.com CNAME .
 answerdash.com CNAME .
-answerjournal.net CNAME .
 answerrocket.com CNAME .
 answersocrates.com CNAME .
 antai-dossier-1009.com CNAME .
@@ -5799,7 +5747,6 @@ antply.com CNAME .
 antradar.com CNAME .
 antvoice.com CNAME .
 anura.io CNAME .
-anus-staylard.xyz CNAME .
 anvasoft.ca CNAME .
 anvato.net CNAME .
 anwb.webpower.eu CNAME .
@@ -5957,7 +5904,6 @@ apknewdownload.info CNAME .
 apkpure.net CNAME .
 aplikacii.com CNAME .
 aplikasigerhanatoto1.com CNAME .
-aplus-sdk.alibaba-inc.com CNAME .
 aplus.aliexpress.com CNAME .
 aplusmovingandstorage.com CNAME .
 apluspermits.com CNAME .
@@ -6054,7 +6000,6 @@ appier.com CNAME .
 appier.net CNAME .
 appinfo.usebruno.com CNAME .
 applause.com CNAME .
-apple-caseid.com CNAME .
 apple-device.live CNAME .
 apple-googleapi.com CNAME .
 apple-maps.info CNAME .
@@ -6174,7 +6119,6 @@ arcgisonline.com CNAME .
 archennews.com CNAME .
 archivepro.io CNAME .
 archiveresale.com CNAME .
-archivoscrosoft.com CNAME .
 arclight.vimeo.com CNAME .
 arcoro.com CNAME .
 arcot.com CNAME .
@@ -6217,12 +6161,10 @@ armandarougroup.com CNAME .
 armedforcessupportfoundation.org CNAME .
 armenia.su CNAME .
 armis.tech CNAME .
-armsmead-bell.xyz CNAME .
 arnari.org CNAME .
 arnavcomputer.in CNAME .
 arobasemail.com CNAME .
 aroclenetapp.net CNAME .
-aroluzchile.cl CNAME .
 arounddeal.com CNAME .
 arpeely.com CNAME .
 arrayinsights.com CNAME .
@@ -6263,11 +6205,8 @@ asadosteaks.nl CNAME .
 asalka.com CNAME .
 asamee.com CNAME .
 asatoe.co CNAME .
-asayel.site CNAME .
 asciinema.org CNAME .
 ascoin.pl CNAME .
-asdbanorte.cfd CNAME .
-ase.aidcgroup.net CNAME .
 ase.com CNAME .
 asemafor.cl CNAME .
 asetindolottery88.net CNAME .
@@ -6304,7 +6243,6 @@ assessmentevaluationreport.com CNAME .
 assethc.com CNAME .
 assets-cdn.starapps.studio CNAME .
 assets.adobedtm.com CNAME .
-assets.alicdn.com CNAME .
 assets.cengage.com CNAME .
 assets.contently.com CNAME .
 assets.context.ly CNAME .
@@ -6348,8 +6286,6 @@ at-band-camp.net CNAME .
 at-config.sensic.net CNAME .
 at.cylex.de CNAME .
 at98.com CNAME .
-atanx.alicdn.com CNAME .
-atanx2.alicdn.com CNAME .
 atas.io CNAME .
 atatus.com CNAME .
 atdata.com CNAME .
@@ -6426,7 +6362,6 @@ auburn9819.com CNAME .
 aucasinoslist.com CNAME .
 auctionexport.com CNAME .
 auctionit.vip CNAME .
-audeladuclimat.com CNAME .
 audet.club CNAME .
 audev.zeit.de CNAME .
 audex.userreport.com CNAME .
@@ -6481,7 +6416,6 @@ aussievitamin.com CNAME .
 australia-southeast1-jg-real-time-reporting.cloudfunctions.net CNAME .
 australian-casino-bonuses.com CNAME .
 austrialotterie.com CNAME .
-auth-clo-id.cc CNAME .
 auth-eu-manager.com CNAME .
 auth-ms-service.org CNAME .
 auth-ms-service.site CNAME .
@@ -6522,7 +6456,6 @@ automizely.com CNAME .
 automizy.com CNAME .
 autopilothq.com CNAME .
 autorepairpalmetto.com CNAME .
-autoscoutdealer24.com CNAME .
 autosecure.cy CNAME .
 autotransportspecialty.com CNAME .
 autoverify.com CNAME .
@@ -6588,7 +6521,6 @@ avocarrot.com CNAME .
 avocet.io CNAME .
 avonairesolutions.com CNAME .
 avplayer.com CNAME .
-avrupabet.org CNAME .
 avtoresurs.net CNAME .
 awadserver.com CNAME .
 awakeyet.com CNAME .
@@ -6686,7 +6618,6 @@ b17.8794.cn CNAME .
 b19.casino CNAME .
 b1img.com CNAME .
 b1js.com CNAME .
-b1n6mp.lat CNAME .
 b1sync.zemanta.com CNAME .
 b22w9.casino CNAME .
 b23w1.casino CNAME .
@@ -6700,7 +6631,6 @@ b2cdemostore.com CNAME .
 b2metric.com CNAME .
 b322ew1.casino CNAME .
 b33.asia CNAME .
-b3n8mf.lat CNAME .
 b4392.casino CNAME .
 b61.casino CNAME .
 b63.casino CNAME .
@@ -6735,7 +6665,6 @@ babiel.com CNAME .
 babyboomboomads.com CNAME .
 babydiapersinturkey.com CNAME .
 babydreambd.com CNAME .
-babyglee-all.xyz CNAME .
 babykraamzorg.nl CNAME .
 babyzeebd.com CNAME .
 bac.com CNAME .
@@ -6818,8 +6747,6 @@ balenckingslot.org CNAME .
 balianti.com CNAME .
 balicasinoworld.com CNAME .
 balihoo.com CNAME .
-balkanlovers.ch CNAME .
-ballweldleer.xyz CNAME .
 ballycasino.com CNAME .
 balonx.online CNAME .
 balorea.com CNAME .
@@ -6836,9 +6763,7 @@ bancdebinary.com CNAME .
 bancocasino.sk CNAME .
 bancoltau.com CNAME .
 bandizip.pro CNAME .
-bandrice-pity.xyz CNAME .
 bandsintown.com CNAME .
-bandsway-arch.xyz CNAME .
 bandwagonhost.com CNAME .
 bangbrosonline.com CNAME .
 bangcasino.org CNAME .
@@ -6877,7 +6802,6 @@ bantaminc.com CNAME .
 banzai-casino.ru CNAME .
 banzaicasino-in.com CNAME .
 baohanhkangen.com CNAME .
-baoxissde.one CNAME .
 baoyatu.cc CNAME .
 bapak178.org CNAME .
 baqend.com CNAME .
@@ -6889,7 +6813,6 @@ barboef.nl CNAME .
 barcelona11.com CNAME .
 barcharttrk.com CNAME .
 barclayscannabiscapital.ph CNAME .
-barclkaysbankk.support CNAME .
 baremetrics.com CNAME .
 barguidenotes.com CNAME .
 barifurniture.net CNAME .
@@ -6919,7 +6842,6 @@ bat.bing.com CNAME .
 bataviacasino.nl CNAME .
 bataviadownsgaming.com CNAME .
 batch.com CNAME .
-bathgram-rare.xyz CNAME .
 batiactu.com CNAME .
 batik123.info CNAME .
 battingcasino.com CNAME .
@@ -7051,8 +6973,6 @@ beehiiv.com CNAME .
 beeketing.com CNAME .
 beeline.ru CNAME .
 beemray.com CNAME .
-beenfatenext.xyz CNAME .
-beensale-lion.xyz CNAME .
 beepbeep-casino.de CNAME .
 beepbeepcasino.io CNAME .
 beepbeepcasino29.com CNAME .
@@ -7066,7 +6986,6 @@ beganment.com CNAME .
 beget.com CNAME .
 beginnerpancake.com CNAME .
 behamics.com CNAME .
-behargintza-be.biz CNAME .
 behave.com CNAME .
 behbudlabs.com CNAME .
 behe.com CNAME .
@@ -7087,7 +7006,6 @@ belgium-tomorrowlland.com CNAME .
 belgium-tomorrowlland.info CNAME .
 belgiumtomoorrowland.com CNAME .
 belindabuck.com CNAME .
-bell-geneclan.xyz CNAME .
 bellacasashade.com CNAME .
 bellagio.nl CNAME .
 bellalucaconsulting.com CNAME .
@@ -7109,7 +7027,6 @@ bencodems.org CNAME .
 bencrumpsocialjustice.org CNAME .
 bendegroot-pim.nl CNAME .
 bendingspoonsapps.com CNAME .
-benedettibigpond.com CNAME .
 beneficiosbancow.com CNAME .
 benefit-ads.com CNAME .
 beneribeiraopreto.com CNAME .
@@ -7128,7 +7045,6 @@ beopinion.com CNAME .
 bepolite.eu CNAME .
 berapt-medii.com CNAME .
 berla.co CNAME .
-berlin21.info CNAME .
 beroniw.com CNAME .
 berrag.nl CNAME .
 bersatu.me CNAME .
@@ -7239,7 +7155,6 @@ bet365.pe CNAME .
 bet365.rs CNAME .
 bet365affiliates.com CNAME .
 bet365ald.com CNAME .
-bet365bby.com CNAME .
 bet365k2.cc CNAME .
 bet365koreasite.com CNAME .
 bet365partners.com CNAME .
@@ -7310,7 +7225,6 @@ betify-casino-france.net CNAME .
 betify-casino-online-fr.com CNAME .
 betika.com CNAME .
 betinasia.com CNAME .
-betingom.org CNAME .
 betiran.vip CNAME .
 betistacasino.online CNAME .
 betkaka.bet CNAME .
@@ -7321,7 +7235,6 @@ betlivo90.bet CNAME .
 betmajic.cc CNAME .
 betmajic90.com CNAME .
 betmajickade.com CNAME .
-betmarinom.org CNAME .
 betmegapari.net CNAME .
 betmegapari.org CNAME .
 betmgm.nl CNAME .
@@ -7395,7 +7308,6 @@ betzonecasinoitalia.com CNAME .
 betzopoda.com CNAME .
 beverlyhillsclinics.com CNAME .
 bevertech.in CNAME .
-beviralnews.com CNAME .
 bevr.nl CNAME .
 bevrijdingsuitgifte.nl CNAME .
 bewelllabs.com CNAME .
@@ -7510,13 +7422,11 @@ big7.com CNAME .
 bigabid.com CNAME .
 bigabidserv.com CNAME .
 bigapplepestnyc.com CNAME .
-bigbadwolf.click CNAME .
 bigbaer.co CNAME .
 bigbasssplash-casino.uk CNAME .
 bigboostcasino.io CNAME .
 bigbossasiaslot.com CNAME .
 bigboxads.com CNAME .
-bigboysclub.cyou CNAME .
 bigcasino1.com CNAME .
 bigcasinoit.com CNAME .
 bigcommerce.com CNAME .
@@ -7528,7 +7438,6 @@ bigdatanederland.com CNAME .
 bigenpakistan.com CNAME .
 bigfishgames.com CNAME .
 bigger.com CNAME .
-biggestchlen.lol CNAME .
 biglietteria.ch CNAME .
 bigmailer.io CNAME .
 bigmarker.com CNAME .
@@ -7558,7 +7467,6 @@ bikenetzwerk.de CNAME .
 bikertlane.com CNAME .
 bikespalmbeach.com CNAME .
 biketrain.net CNAME .
-biketype-not.xyz CNAME .
 bildungschancen.de CNAME .
 bilgenart.com CNAME .
 bilinmedia.net CNAME .
@@ -7574,7 +7482,6 @@ bimbolive.com CNAME .
 bimmalplantation.com CNAME .
 bimtrackapp.co CNAME .
 bin.kompas.services CNAME .
-bind-mice-glow.xyz CNAME .
 bing.net CNAME .
 bingbong.de CNAME .
 bingo-casino.net CNAME .
@@ -7612,7 +7519,6 @@ biodiversidadhuaranchalina.com CNAME .
 biogrowgreens.com CNAME .
 biolyroa.com CNAME .
 bionic-ads.com CNAME .
-biopelletuab.com CNAME .
 bioplantsolutions.nl CNAME .
 bioplass.com CNAME .
 biorxiv.org CNAME .
@@ -7697,7 +7603,6 @@ bjshomedelivery.com CNAME .
 bkofamerica.com CNAME .
 bkrtx.com CNAME .
 blaaaa12.googlecode.com CNAME .
-blabhunk-copy.xyz CNAME .
 black-popular.com CNAME .
 blackbaudhosting.com CNAME .
 blackbearcasinoresort.com CNAME .
@@ -7716,7 +7621,6 @@ blackoakcasino.com CNAME .
 blacktiger.tech CNAME .
 blago-qr.ru CNAME .
 blakcinwhitexn.cc CNAME .
-blatnoitovar.xyz CNAME .
 blau.de CNAME .
 blauw.com CNAME .
 blauwsurvey.com CNAME .
@@ -7736,7 +7640,6 @@ blismedia.com CNAME .
 blisspointmedia.com CNAME .
 blitz-casino.biz CNAME .
 blitzcasino.net CNAME .
-blitzhireio.com CNAME .
 blockadsnot.com CNAME .
 blockcasino.ca CNAME .
 blockchain-ads.com CNAME .
@@ -7834,14 +7737,12 @@ bob-casino.com CNAME .
 bobbush.org CNAME .
 bobbycasino.net CNAME .
 bobcasino.com CNAME .
-bobik.cfd CNAME .
 bobsrvsc.com CNAME .
 bocaratonmover.com CNAME .
 bocelligruppo.com CNAME .
 bodhi.is CNAME .
 bodogcasino-ca.com CNAME .
 bodrumyachtservices.com CNAME .
-bodybydre.in CNAME .
 bodyweightculture.co CNAME .
 boekenschaap.nl CNAME .
 boerse-go.de CNAME .
@@ -7858,7 +7759,6 @@ bohocasino.com CNAME .
 boilingmadsoup.com CNAME .
 boit.cloud CNAME .
 bokucasinos.ca CNAME .
-bold-blab-cold.xyz CNAME .
 boldapps.net CNAME .
 boldcasinobase.nl CNAME .
 boldcasinodaily.com CNAME .
@@ -7893,7 +7793,6 @@ boltanalytics.com CNAME .
 boltrack.net CNAME .
 bolvanvoordeel.nl CNAME .
 bomb90bet.com CNAME .
-bombamodzik.xyz CNAME .
 bombastic-casino.net CNAME .
 bombbomb.com CNAME .
 bombora.com CNAME .
@@ -7995,7 +7894,6 @@ bordvipbet.com CNAME .
 bore.pub CNAME .
 boreus.de CNAME .
 borlabs.io CNAME .
-borlest.com CNAME .
 boro1.bet CNAME .
 boro2.bet CNAME .
 boro3.bet CNAME .
@@ -8098,7 +7996,6 @@ brandtinoda.com CNAME .
 brandwatch.com CNAME .
 brangocasino.se CNAME .
 branker.co CNAME .
-brat-malllake.xyz CNAME .
 bratpack.nl CNAME .
 braverybeans.com CNAME .
 bravobandchicago.net CNAME .
@@ -8114,7 +8011,6 @@ bre-international.com CNAME .
 breakneckridgefarm.com CNAME .
 brealtime.com CNAME .
 breathe-studio.com CNAME .
-bred-mornidea.xyz CNAME .
 breedertrack.com CNAME .
 breezometer.com CNAME .
 brein-medicijn.nl CNAME .
@@ -8134,7 +8030,6 @@ bridg.com CNAME .
 bridgeman.nl CNAME .
 bridgesend-8.com CNAME .
 bridgetrack.com CNAME .
-brig-skipdeep.xyz CNAME .
 bright-sdk.com CNAME .
 brightadnetwork.com CNAME .
 brightcasino262.com CNAME .
@@ -8167,7 +8062,6 @@ brighteon.com CNAME .
 brightextend.com CNAME .
 brightfunnel.com CNAME .
 brightinfo.com CNAME .
-brightleafrv.com CNAME .
 brightlinkimmigration.com CNAME .
 brightlocal.com CNAME .
 brightmetrics.com CNAME .
@@ -8181,8 +8075,6 @@ brillshop.de CNAME .
 bringimpact2022.com CNAME .
 brinkcommerce.com CNAME .
 briochef.com CNAME .
-brisk-with-easy.xyz CNAME .
-briskpair-rode.xyz CNAME .
 britepool.com CNAME .
 british-casino-bonuses.com CNAME .
 britishcareercraft.com CNAME .
@@ -8195,7 +8087,6 @@ broadcom.com CNAME .
 broadsidedaisysanta.com CNAME .
 broadstreet.ai CNAME .
 broadstreetads.com CNAME .
-broadwalkindia.com CNAME .
 broadwaylotterytickets.com CNAME .
 brockmeyer.nl CNAME .
 broke-it.net CNAME .
@@ -8228,23 +8119,19 @@ browserapp.ru CNAME .
 browserleakscheck.com CNAME .
 browsertool.com CNAME .
 browsertools.com CNAME .
-browsify.co CNAME .
 browsify.net CNAME .
 browsiprod.com CNAME .
-brucebetcasino.at CNAME .
 brucebetcasino.ch CNAME .
 brucebetcasino.de CNAME .
 brucebetcasino.it CNAME .
 brucebetcasino.pl CNAME .
 brucelead.com CNAME .
 bruks.com CNAME .
-brukva.shop CNAME .
 brytecore.com CNAME .
 brytes.de CNAME .
 brznetwork.com CNAME .
 bs0.casino CNAME .
 bs3.casino CNAME .
-bsdadvocacy.org CNAME .
 bserail.com CNAME .
 bsh-group.com CNAME .
 bslnz.nz CNAME .
@@ -8326,10 +8213,8 @@ buktijpmaluku.pro CNAME .
 bulkaccounts.shop CNAME .
 bulkdevices.com CNAME .
 bulksec.ru CNAME .
-bull-drops.online CNAME .
 bull-drops.ru CNAME .
 bullcasino.com CNAME .
-bulldrops.online CNAME .
 bulldrops.ru CNAME .
 bulletin.nebula.zyxel.com CNAME .
 bullion.media CNAME .
@@ -8346,12 +8231,10 @@ bureaulidwienvandeven.nl CNAME .
 bureauvdo.nl CNAME .
 burgernetcdn.nl CNAME .
 burningpushing.info CNAME .
-burp-flung-pilot.xyz CNAME .
 burritodelight.com CNAME .
 burstofclass.com CNAME .
 buscacnpj.org CNAME .
 bushidomma.net CNAME .
-bushnaq.ch CNAME .
 business-school-online-xst.sbs CNAME .
 business.didomi.io CNAME .
 business.samsungusa.com CNAME .
@@ -8367,7 +8250,6 @@ businessroadtogrowth.com CNAME .
 businesswire.com CNAME .
 busopps.org CNAME .
 bussgeldrechner.org CNAME .
-bussimultimatemod.com CNAME .
 bustle.com CNAME .
 butterandcheese.net CNAME .
 butterflybingo.org CNAME .
@@ -8591,7 +8473,6 @@ canadiantire.ca CNAME .
 canalplus.pro CNAME .
 canariasbitcoin.es CNAME .
 cancelx.com CNAME .
-cancepolsegbcnolom.bond CNAME .
 canda1.iridion.de CNAME .
 candlefox.com CNAME .
 candlewaster.co CNAME .
@@ -8607,20 +8488,13 @@ canetworkcabling.com CNAME .
 cangnews.com CNAME .
 canirank.com CNAME .
 canjejpuntosbac.help CNAME .
-canjepuntosrbac.help CNAME .
-canjepuntosubac.help CNAME .
-canjepuntosvbac.help CNAME .
-canjepuntosxbac.help CNAME .
 canjerecompensa.help CNAME .
 canjeregalos.help CNAME .
-canjevpuntosbac.help CNAME .
-canjewpuntosbac.help CNAME .
 cannabis-dna.com CNAME .
 cannaclicks.com CNAME .
 canopydeploy.net CNAME .
 canplay-casino.net CNAME .
 canstockphoto.com CNAME .
-canta-cn.com CNAME .
 canwestghana.com CNAME .
 capaplouk.click CNAME .
 capi.connatix.com CNAME .
@@ -8655,8 +8529,6 @@ carbonads.net CNAME .
 carbondmp.com CNAME .
 carbonfeverthink.com CNAME .
 carbonrmp.com CNAME .
-card-slip-pier.xyz CNAME .
-card-votecrew.xyz CNAME .
 cardboardcrispyrover.com CNAME .
 cardcasino.sk CNAME .
 cardfeed.com CNAME .
@@ -8710,7 +8582,6 @@ casalemedia.com CNAME .
 case-client.com CNAME .
 cash.neweramediaworks.com CNAME .
 cashappps.com CNAME .
-cashblaq.fit CNAME .
 cashclubcasino.com CNAME .
 cashimashi.com CNAME .
 cashino.info CNAME .
@@ -10494,7 +10365,6 @@ cdn-settings.segment.com CNAME .
 cdn-sitegainer.com CNAME .
 cdn-social.janrain.com CNAME .
 cdn-spurit.com CNAME .
-cdn-tiktok.com CNAME .
 cdn-ukwest.onetrust.com CNAME .
 cdn-xp-ingest-ab.v.aaplimg.com CNAME .
 cdn-xp-ingest.edge.apple CNAME .
@@ -10626,7 +10496,6 @@ cdn.speedcurve.com CNAME .
 cdn.static.zdbb.net CNAME .
 cdn.stream.schibsted.media CNAME .
 cdn.stroeerdigitalgroup.de CNAME .
-cdn.taboola.com CNAME .
 cdn.tagcommander.com CNAME .
 cdn.trustindex.io CNAME .
 cdn.usefathom.com CNAME .
@@ -10768,7 +10637,6 @@ cfolks.pl CNAME .
 cfwidget.com CNAME .
 cgp14p.info CNAME .
 cgskqg.com CNAME .
-ch-0826.com CNAME .
 chaincasino.ca CNAME .
 chairmartbd.com CNAME .
 chal-tec.com CNAME .
@@ -10785,7 +10653,6 @@ chanakyainvestments.com CNAME .
 chance-ad.com CNAME .
 chanced.com CNAME .
 chancescasinokelowna.com CNAME .
-chanderdua.com CNAME .
 changelly.com CNAME .
 changelogfy.com CNAME .
 channel.io CNAME .
@@ -10802,7 +10669,6 @@ chaoliangyun.com CNAME .
 chaport.com CNAME .
 chapsvision-cybergov.fr CNAME .
 chapsvision.fr CNAME .
-char-avid-verb.xyz CNAME .
 chariotent.com CNAME .
 charitycasino.com CNAME .
 charlestonhandtherapy.com CNAME .
@@ -10880,7 +10746,6 @@ checkvehiclesnow.com CNAME .
 cheekybingo--casino-uk.com CNAME .
 chefricharddiabeticdeserts.com CNAME .
 chegg.com CNAME .
-chekmesssupot.online CNAME .
 chemiefabriks.com CNAME .
 chengadx.com CNAME .
 chenggao.cn CNAME .
@@ -10892,7 +10757,6 @@ cherrygoldcasino.com CNAME .
 cherryspinscasino.org CNAME .
 chessabc.com CNAME .
 chetanpatnaik.com CNAME .
-chewy.pk CNAME .
 chexx.casino CNAME .
 chfpgcbe.com CNAME .
 chi-ori.nl CNAME .
@@ -10959,7 +10823,6 @@ chromedata.com CNAME .
 chronoboost-en.com CNAME .
 chsupply.tech CNAME .
 chtbl.com CNAME .
-chubrik.sbs CNAME .
 chukiteopty.com CNAME .
 chumashcasino.com CNAME .
 chumbacasino.com CNAME .
@@ -11052,7 +10915,6 @@ claudettevachon007.com CNAME .
 claudyschonis.nl CNAME .
 claw1337.casino CNAME .
 claw17-02.casino CNAME .
-claylikepilot.xyz CNAME .
 clck-analytics.com CNAME .
 clcknads.pro CNAME .
 clcktrax.com CNAME .
@@ -11062,7 +10924,6 @@ cldsvc.net CNAME .
 clean.gg CNAME .
 cleandippool.com CNAME .
 cleaning-service-sloos.nl CNAME .
-cleankits.co CNAME .
 cleanmediaads.com CNAME .
 cleanmediaadserver.com CNAME .
 cleanschoonmaakbedrijf.nl CNAME .
@@ -11119,7 +10980,6 @@ clevergirlscollective.com CNAME .
 cleverhomecraft.com CNAME .
 cleverlotto.de CNAME .
 clevernt.com CNAME .
-cleverpondky.com CNAME .
 cleverpush.com CNAME .
 cleverreach.com CNAME .
 clevertap-prod.com CNAME .
@@ -11247,7 +11107,6 @@ client.tonos.gjirafa.tech CNAME .
 clientcdn.pushengage.com CNAME .
 clientchatlive.com CNAME .
 clientconfig.passport.net CNAME .
-clientesexculiso.lat CNAME .
 clientesneurolinks.com CNAME .
 clientgear.com CNAME .
 clientseoreport.com CNAME .
@@ -11308,13 +11167,11 @@ cloudcasinostudio.nl CNAME .
 cloudcdn.yousee.com CNAME .
 cloudclusters.net CNAME .
 cloudcone.com CNAME .
-cloudenterprise26.com CNAME .
 cloudfilebridge.com CNAME .
 cloudflareinsights.com CNAME .
 cloudflareresearch.com CNAME .
 cloudinfolibrary.com CNAME .
 cloudiq.com CNAME .
-cloudjah.com CNAME .
 cloudland.net CNAME .
 cloudlanecdn.com CNAME .
 cloudlogobox.com CNAME .
@@ -11362,7 +11219,6 @@ cmcore.com CNAME .
 cmdcbv.app CNAME .
 cmevents.pro CNAME .
 cmgfinancialconsultant.com CNAME .
-cmobile19.info CNAME .
 cmp-static.springer.com CNAME .
 cmp-teamblue.services CNAME .
 cmp.aftenbladet.no CNAME .
@@ -11420,7 +11276,6 @@ co-buying.com CNAME .
 co-in.io CNAME .
 co2ok.eco CNAME .
 coachingwithjoy.nl CNAME .
-coalfact-tear.xyz CNAME .
 coastallasercompany.com CNAME .
 cobaltads.com CNAME .
 cobaltskysurveys.com CNAME .
@@ -11454,8 +11309,6 @@ coderkubes.com CNAME .
 codesti.com CNAME .
 codexal.co CNAME .
 codigofuente.info CNAME .
-codmbiz.com CNAME .
-codmreward.com CNAME .
 codomaza.com CNAME .
 cofeusa.com CNAME .
 coffeebungalowkandy.com CNAME .
@@ -11474,7 +11327,6 @@ coin-hive.com CNAME .
 coin-stats.com CNAME .
 coinads.online CNAME .
 coinadster.com CNAME .
-coinbase-max.com CNAME .
 coinbaseinvestors.ai CNAME .
 coinbaseportalaccess.com CNAME .
 coinblind.com CNAME .
@@ -11506,7 +11358,6 @@ coja.life CNAME .
 colascore.com CNAME .
 colegiofundadoresdelacalera.cl CNAME .
 colfaxtestinglabs.com CNAME .
-colibrik.com CNAME .
 colisprive.com CNAME .
 colissimo.fr CNAME .
 collabox.uk CNAME .
@@ -11584,12 +11435,10 @@ commbox.io CNAME .
 commerce.coinbase.com CNAME .
 commoninja.com CNAME .
 commonroom.io CNAME .
-commonwealthonline.info CNAME .
 commsor.com CNAME .
 commucare.nl CNAME .
 communedediossong.com CNAME .
 communicationads.net CNAME .
-communicationisyourright.org CNAME .
 comodo.com CNAME .
 comodoca.com CNAME .
 compagniedesalpes.fr CNAME .
@@ -11606,7 +11455,6 @@ compell.io CNAME .
 complex.com CNAME .
 complianz.io CNAME .
 compra-protegida.xyz CNAME .
-compraway.com CNAME .
 comprehensiveclaritystation.com CNAME .
 comprehensiveupskillingsphere.com CNAME .
 comptoirdesessentiels.fr CNAME .
@@ -11663,7 +11511,6 @@ connectif.cloud CNAME .
 connectivetissuecare.info CNAME .
 connectivityassistant.com CNAME .
 connectivitytests.com CNAME .
-connectmagazineads.com CNAME .
 connectme.tool-box.online CNAME .
 connectsb.nl CNAME .
 connectwise.com CNAME .
@@ -11706,7 +11553,6 @@ consumertestconnect.com CNAME .
 consumertrack.com CNAME .
 consways.com CNAME .
 conta.cc CNAME .
-contact-supporrst-service-unlock.vip CNAME .
 contactatonce.com CNAME .
 contactcenterworld.com CNAME .
 contactimpact.de CNAME .
@@ -11715,7 +11561,6 @@ contactnummernederlands.com CNAME .
 contactnummernl.com CNAME .
 contactnummers.nl CNAME .
 contactstellarsteel.com CNAME .
-contactt-smeta-supporst-team-notification.homes CNAME .
 contdelivery.com CNAME .
 contempoconstructiontx.com CNAME .
 content-ad.net CNAME .
@@ -11873,7 +11718,6 @@ coralmustang.com CNAME .
 coralogix.com CNAME .
 coralproject.net CNAME .
 coralreefcottons.com CNAME .
-coralwebqe.help CNAME .
 cordes-cloud.net CNAME .
 cordial.com CNAME .
 cordial.io CNAME .
@@ -11948,7 +11792,6 @@ cosmocasino.com CNAME .
 cosmocasino.io CNAME .
 cosmocasinolab.nl CNAME .
 cosmocasinoworks.nl CNAME .
-cosmotopic.org CNAME .
 cospa.fr CNAME .
 costa.it CNAME .
 costadoroimperia.it CNAME .
@@ -11989,7 +11832,6 @@ covidtracking.com CNAME .
 cowhite.disqus.com CNAME .
 cozmo90bet.com CNAME .
 cozylivingrevamp.com CNAME .
-cozysigh-nick.xyz CNAME .
 cp.greenxf.cn CNAME .
 cpa-queen.com CNAME .
 cpadllc.com CNAME .
@@ -11998,7 +11840,6 @@ cpatrk.net CNAME .
 cpb.esprit.dk CNAME .
 cpcd.org.br CNAME .
 cpex.cz CNAME .
-cpload.com CNAME .
 cpm.amateurcommunity.com CNAME .
 cpm.amateurcommunity.de CNAME .
 cpm.wargaming.net CNAME .
@@ -12020,7 +11861,6 @@ cqcounter.com CNAME .
 cquotient.com CNAME .
 cqylt.net CNAME .
 cr-p16.ladsp.com CNAME .
-crackplus.org CNAME .
 crakmedia.com CNAME .
 cram-shop.com CNAME .
 crash-stats.allizom.org CNAME .
@@ -12068,7 +11908,6 @@ creditcardforbadcredit.info CNAME .
 creditecolleiresia.com CNAME .
 creditfreescore.com CNAME .
 creditnex.us CNAME .
-creditoconsumoltau.sbs CNAME .
 creditreform.de CNAME .
 creditsafe.com CNAME .
 creditsuisse-verify-abnamro.ph CNAME .
@@ -12080,7 +11919,6 @@ cresuscasino365.com CNAME .
 criarsite.online CNAME .
 cricbuzz.com CNAME .
 cricketroadgame.casino CNAME .
-cridhac.org CNAME .
 crimtan.com CNAME .
 crisp.chat CNAME .
 crisp.help CNAME .
@@ -12101,7 +11939,6 @@ croiseedubonheur.fr CNAME .
 cronicasdelcentro.com CNAME .
 cronon.net CNAME .
 cropper-dex.com CNAME .
-cropriftmore.xyz CNAME .
 crosschannel.com CNAME .
 crossdevicetracking.com CNAME .
 crosshair-x.com CNAME .
@@ -12173,7 +12010,6 @@ cryptoleo-casino.org CNAME .
 cryptoleocasino.net CNAME .
 cryptoleocasino.org CNAME .
 cryptologygraphics.com CNAME .
-cryptomeshforge5.lol CNAME .
 cryptominerworld.com CNAME .
 cryptonews.com CNAME .
 crystal-roll-casino-nl.com CNAME .
@@ -12256,11 +12092,9 @@ curationsoft.com CNAME .
 curator.io CNAME .
 curatora.io CNAME .
 curatrading.com CNAME .
-curename-gust.xyz CNAME .
 curiosityproject.info CNAME .
 curlservice.com CNAME .
 curoadvies.nl CNAME .
-curpyrfc.org CNAME .
 currencyrobo.shopapps.in CNAME .
 cursillo.eu CNAME .
 curvyerotic.com CNAME .
@@ -12291,7 +12125,6 @@ cutercounter.com CNAME .
 cutestat.com CNAME .
 cuth.me CNAME .
 cutt.ly CNAME .
-cuttingedgefencing.ca CNAME .
 cvda.17173.com CNAME .
 cvent.com CNAME .
 cvm.casino CNAME .
@@ -12424,7 +12257,6 @@ daraz.com CNAME .
 dardsaaz.com CNAME .
 dargahnizamuddin.com CNAME .
 darimedic.ro CNAME .
-darioel.com CNAME .
 dark.shopping CNAME .
 darman.nl CNAME .
 darnobedienceupscale.com CNAME .
@@ -12471,7 +12303,6 @@ databasegalore.com CNAME .
 databay.nl CNAME .
 databerries.com CNAME .
 datablocks.net CNAME .
-databoomb.hk CNAME .
 databox.com CNAME .
 databreakers.com CNAME .
 databridgemarketresearch.com CNAME .
@@ -12581,7 +12412,6 @@ datmean.com CNAME .
 datorama.com CNAME .
 datouniao.com CNAME .
 daum.net CNAME .
-davestrap.xyz CNAME .
 davfobi.de CNAME .
 davidglennjr.com CNAME .
 davidkarpay.com CNAME .
@@ -12613,7 +12443,6 @@ dcad.watersoul.com CNAME .
 dcf.espn.com CNAME .
 dcmservice.de CNAME .
 dcntr-ads.com CNAME .
-dcoregym.com CNAME .
 dcrtb-pixel.com CNAME .
 dcs.adobedc.net CNAME .
 dcsaascdn.net CNAME .
@@ -12636,7 +12465,6 @@ deadlinefunnel.com CNAME .
 deadreset.com CNAME .
 dealeranalytics.com CNAME .
 dealerinspire.com CNAME .
-dealflung-four.xyz CNAME .
 dealsdepot.xyz CNAME .
 dealtale.com CNAME .
 dealwa.cc CNAME .
@@ -12644,7 +12472,6 @@ deapi.afreecatv.com CNAME .
 dear-lottery.in CNAME .
 dearlottery.in CNAME .
 dearlottery.tv CNAME .
-deathbecomesher.net CNAME .
 deboraescobar.com CNAME .
 debounce.io CNAME .
 debteasyhelp.com CNAME .
@@ -12683,7 +12510,6 @@ deferendum.com CNAME .
 definemedia.de CNAME .
 definitivehc.com CNAME .
 definitiveledger.ca CNAME .
-deft-army-glad.xyz CNAME .
 defx-perps.com CNAME .
 degoudsbloem.be CNAME .
 dehelendereisindepraktijk.nl CNAME .
@@ -12734,7 +12560,6 @@ dempiremanagement.com CNAME .
 demythbio.com CNAME .
 demzamasonry.com CNAME .
 denaamloterij.nl CNAME .
-denegnet.click CNAME .
 deneitherapeut.nl CNAME .
 denkis.nl CNAME .
 dentalevolution.fr CNAME .
@@ -12809,15 +12634,12 @@ devices.carnivalmobile.com CNAME .
 devlyrics.com CNAME .
 devowl.io CNAME .
 devpick.io CNAME .
-devplugs.co CNAME .
 devplugs.com CNAME .
 devredin.com CNAME .
 devsanmaden.com CNAME .
 devscope.io CNAME .
-devurek.xyz CNAME .
 dewacasino334.site CNAME .
 dewapokercore.club CNAME .
-dewapokercore.us CNAME .
 dewicasino88d.com CNAME .
 dex-fluid.com CNAME .
 deyetechnical.com CNAME .
@@ -12862,20 +12684,16 @@ dianru.com CNAME .
 dianxinos.com CNAME .
 diaojj.com CNAME .
 diariolibre.net CNAME .
-dice-grate-plan.xyz CNAME .
 dicespincasino.com CNAME .
 dickfordays.com CNAME .
 dicloak.com CNAME .
 dicverse.com CNAME .
 did.li CNAME .
-diddyparty.click CNAME .
 dideo.ir CNAME .
 didigroup.be CNAME .
 didomi.com CNAME .
 didomi.io CNAME .
 die-spielbank.de CNAME .
-died-halo-tang.xyz CNAME .
-diet-graymost.xyz CNAME .
 differentialkerayechiyan.store CNAME .
 differentialmamuli.store CNAME .
 diffuse.nl CNAME .
@@ -12948,7 +12766,6 @@ diplomaticproperties.com CNAME .
 direct-email.nl CNAME .
 direct.dy-api.com CNAME .
 directadvert.ru CNAME .
-directdownloadl.ink CNAME .
 directorio-de-casinos-mx.com CNAME .
 directpointe.com CNAME .
 directresearch.nl CNAME .
@@ -12962,7 +12779,6 @@ discover-tech.io CNAME .
 discoverorg.com CNAME .
 discoverystudio.bio CNAME .
 discoveryvideos.org CNAME .
-disk-bask-rusk.xyz CNAME .
 diskstation.eu CNAME .
 diskstation.me CNAME .
 dismantlepenantiterrorist.com CNAME .
@@ -13032,7 +12848,6 @@ dmtrck.com CNAME .
 dmws.nl CNAME .
 dmws.plus CNAME .
 dmxleo.com CNAME .
-dn-pdflite.lat CNAME .
 dnaaesthetics.pk CNAME .
 dnctlaw.com CNAME .
 dns-jumper.com CNAME .
@@ -13064,7 +12879,6 @@ docomo-analytics.com CNAME .
 docs-google.com CNAME .
 docs.crp.to CNAME .
 docs.prebid.org CNAME .
-docsend.online CNAME .
 docshub-01.info CNAME .
 docshub-secure.com CNAME .
 docsignsecured.info CNAME .
@@ -13076,7 +12890,6 @@ docuaccess2026.com CNAME .
 document360.io CNAME .
 docusine.com CNAME .
 docuslutmentadoonline.top CNAME .
-docuuumennnntonline.top CNAME .
 dodep.casino CNAME .
 does-it.net CNAME .
 doesntexist.com CNAME .
@@ -13091,7 +12904,6 @@ doliboli.fr CNAME .
 dollycasino.com CNAME .
 domesmarketing.com CNAME .
 domidata.ai CNAME .
-dominiocaicai.xyz CNAME .
 dominion.pk CNAME .
 domirunway.com CNAME .
 domo.com CNAME .
@@ -13126,7 +12938,6 @@ dopoboulogne.com CNAME .
 dorenzaa.com CNAME .
 dorlest.com CNAME .
 dorthin.com CNAME .
-dostiyari.com CNAME .
 dosvak.com CNAME .
 dotcounter.douyutv.com CNAME .
 dotdigital.com CNAME .
@@ -13157,14 +12968,10 @@ doudao.cn CNAME .
 doumob.com CNAME .
 douyin.com CNAME .
 dov-e.com CNAME .
-dove-void-pave.xyz CNAME .
 dovecasino.net CNAME .
-dovepact-gist.xyz CNAME .
 dovgertz.com CNAME .
-down-loanleap.xyz CNAME .
 downholeinjection.com CNAME .
 downiestatistics.com CNAME .
-download-app.us CNAME .
 download-soft.com CNAME .
 download.com CNAME .
 download.nvidia.com CNAME .
@@ -13189,7 +12996,6 @@ dpaikar.com CNAME .
 dpbolvw.net CNAME .
 dpcuments.com CNAME .
 dpdns.org CNAME .
-dpdzsvf.cfd CNAME .
 dpgmmservices.nl CNAME .
 dpgshops.nl CNAME .
 dphtrading.de CNAME .
@@ -13216,9 +13022,7 @@ drake-casino.io CNAME .
 drake-casino.us CNAME .
 drakecasino.eu CNAME .
 drakonn.it CNAME .
-dramdare-shop.xyz CNAME .
 draperanddressmaker.com CNAME .
-drastok.xyz CNAME .
 draw.casino CNAME .
 draximenarosero.com CNAME .
 draxioncapital.com CNAME .
@@ -13275,7 +13079,6 @@ drrajivparti.com CNAME .
 drsilvi.ro CNAME .
 drueckglueck.com CNAME .
 drueckglueck.de CNAME .
-drug-arereef.xyz CNAME .
 drumup.io CNAME .
 drvishalpatel.in CNAME .
 drxrc.com CNAME .
@@ -13288,13 +13091,11 @@ ds4windows.pro CNAME .
 dsconstruction.cc CNAME .
 dservinc.com CNAME .
 dsfwxz.com CNAME .
-dsgagfsahkfsahfjs.shop CNAME .
 dslreports.com CNAME .
 dsmstats.com CNAME .
 dsp.com CNAME .
 dspeelautomaten.nl CNAME .
 dstat.tech CNAME .
-dstat.top CNAME .
 dstillery.com CNAME .
 dsw0trk.com CNAME .
 dt00.net CNAME .
@@ -13322,12 +13123,10 @@ dublinbet-casino.io CNAME .
 dublinhomecarellc.com CNAME .
 duboiscollege.com CNAME .
 dubox.com CNAME .
-duck-fondmoan.xyz CNAME .
 duckdns.org CNAME .
 duckduckbingo.org CNAME .
 duct-master.com CNAME .
 dudespincasino.at CNAME .
-duel-gulp-luck.xyz CNAME .
 duelbitscasino.org CNAME .
 duelz-casino.org CNAME .
 duelz.com CNAME .
@@ -13335,7 +13134,6 @@ duelzcasino.net CNAME .
 duemineral.uk CNAME .
 dukaan.com CNAME .
 dukeofribs.online CNAME .
-dumb-heel-boy.xyz CNAME .
 dumbingofage.com CNAME .
 dummyapi.online CNAME .
 dumps-cc-best.ru CNAME .
@@ -13347,7 +13145,6 @@ duraflexpallets.com CNAME .
 durakutihs.com CNAME .
 durasite.net CNAME .
 durationmedia.net CNAME .
-dusk-omit-epic.xyz CNAME .
 dustadvnetherlandsparts.com CNAME .
 dustlandexpress.com CNAME .
 dustyductsbegone.com CNAME .
@@ -13369,7 +13166,6 @@ dwadfergs.com CNAME .
 dweb.link CNAME .
 dwhitelabel.com CNAME .
 dwin1.com CNAME .
-dwiretna.tn CNAME .
 dws.casino CNAME .
 dwservice.net CNAME .
 dxlconstruction.com CNAME .
@@ -13388,7 +13184,6 @@ dynalias.net CNAME .
 dynalias.org CNAME .
 dynamic-tracking.com CNAME .
 dynamic-yield.com CNAME .
-dynamic.criteo.com CNAME .
 dynamiccasino198.com CNAME .
 dynamiccasino215.com CNAME .
 dynamiccasino270.com CNAME .
@@ -13408,12 +13203,10 @@ dynamiccasinostation.com CNAME .
 dynamiccasinostudio.com CNAME .
 dynamiccasinoworld.com CNAME .
 dynamicdatasol-linkedin-advertising.pages.dev CNAME .
-dynamiclifecoach.org CNAME .
 dynamics.com CNAME .
 dynamicyield.com CNAME .
 dynamiteduweb.fr CNAME .
 dynamoagency1984.com CNAME .
-dynastyroofingfl.com CNAME .
 dynataprivacy.com CNAME .
 dynatrace-managed.com CNAME .
 dynatrace.com CNAME .
@@ -13494,8 +13287,6 @@ eaglemtncasino.com CNAME .
 eaglevpfund.com CNAME .
 eagllwin.com CNAME .
 earenmind.be CNAME .
-earlnotgray.xyz CNAME .
-earltoll-snap.xyz CNAME .
 early-birds.fr CNAME .
 earlyiq.com CNAME .
 earlyparrot.com CNAME .
@@ -13628,7 +13419,6 @@ edmondinnovations.com CNAME .
 edu-academia.com CNAME .
 eduancm.com CNAME .
 eduappcenter.com CNAME .
-education-gov.com CNAME .
 educationloansolution.com CNAME .
 educomics.org CNAME .
 edukati.my.id CNAME .
@@ -13704,7 +13494,6 @@ eldoradocasino-vcr.top CNAME .
 elearning-bogota.com CNAME .
 electro-smog.ch CNAME .
 electrogas.pt CNAME .
-electrostore-kw.com CNAME .
 elementaryanalytics.com CNAME .
 elementshomeremodeling.com CNAME .
 elementslosgatos.com CNAME .
@@ -13754,7 +13543,6 @@ elroyalecasino.com CNAME .
 eltiempo.es CNAME .
 eltransistorgranada.com CNAME .
 elvaruno.com CNAME .
-elxxvvx.xyz CNAME .
 em-cultuur.nl CNAME .
 em-frame.securitytrfx.com CNAME .
 em6gto.top CNAME .
@@ -13762,7 +13550,6 @@ em8.casino CNAME .
 emag.ro CNAME .
 email-address-validator.us.greenhouse.io CNAME .
 email-marketing-consultants.com CNAME .
-email-qiye.com CNAME .
 email-zoom.com CNAME .
 email.awscloud.com CNAME .
 email.cgroup.online CNAME .
@@ -13832,7 +13619,6 @@ emucasino.com CNAME .
 emxdgt.com CNAME .
 emxdigital.com CNAME .
 en-login-apps.de CNAME .
-en-us--balancing.co CNAME .
 en.betweenx.com CNAME .
 en.shenyun.com CNAME .
 en.shenyun.org CNAME .
@@ -13847,8 +13633,6 @@ endoftheinternet.org CNAME .
 endorsal.io CNAME .
 endpoint-api-v1.com CNAME .
 endpoint2.collection.sumologic.com CNAME .
-ends-fork-ores.xyz CNAME .
-ends-pare-stow.xyz CNAME .
 enefit.ee CNAME .
 enelgia.club CNAME .
 enepal.net CNAME .
@@ -13907,7 +13691,6 @@ ensighten.com CNAME .
 ensighten.norton.com CNAME .
 ent1.12584.cn CNAME .
 entegaljerm.xyz CNAME .
-enter-pverif-code.info CNAME .
 enter-system.com CNAME .
 entercash-casinos.top CNAME .
 enterprisebot.co CNAME .
@@ -13997,7 +13780,6 @@ esoterischewebwinkel.nl CNAME .
 espace-clientfrcom.com CNAME .
 espacebus.com CNAME .
 espaceducoeur.com CNAME .
-espaceparticulier.com CNAME .
 espaciocf.de CNAME .
 esputnik.com CNAME .
 essential-apps.com CNAME .
@@ -14019,7 +13801,6 @@ estrelamardedetizadora.com CNAME .
 estrongs.com CNAME .
 et9.casino CNAME .
 etahub.com CNAME .
-etchspinhas.xyz CNAME .
 etenx.com CNAME .
 eterno.com CNAME .
 eth.link CNAME .
@@ -14032,7 +13813,6 @@ ethionline.com CNAME .
 ethyca.com CNAME .
 etl.tindersparks.com CNAME .
 etl.xlmc.sandai.net CNAME .
-etomoe.cfd CNAME .
 etoolads.cn CNAME .
 etoro.com CNAME .
 etracker.com CNAME .
@@ -14092,7 +13872,6 @@ euspielothek.de CNAME .
 eustatsunative.com CNAME .
 ev2sirbd269o5j.org CNAME .
 evaluationkit.com CNAME .
-evansunitedspringcarnivalsherman.com CNAME .
 event-scatter.net CNAME .
 eventbid.net CNAME .
 eventcp.pro CNAME .
@@ -14148,7 +13927,6 @@ exactis.com CNAME .
 exactmetrics.com CNAME .
 exacttarget.com CNAME .
 exads.com CNAME .
-examclaparmy.xyz CNAME .
 examity.com CNAME .
 examonline.in CNAME .
 examsoft.com CNAME .
@@ -14201,7 +13979,6 @@ ext.frontusercontent.com CNAME .
 extend.tv CNAME .
 external.simpleanalytics.com CNAME .
 extlab.co CNAME .
-extlab.org CNAME .
 extra-casino2.com CNAME .
 extrahefty.com CNAME .
 extrakits.co CNAME .
@@ -14258,7 +14035,6 @@ f1casino.com.pl CNAME .
 f1g.fr CNAME .
 f1prospects.com CNAME .
 f230q.xyz CNAME .
-f2znsx.cfd CNAME .
 f451.casino CNAME .
 f46.casino CNAME .
 f48.casino CNAME .
@@ -14326,7 +14102,6 @@ fair-spins-casino.com CNAME .
 fair-spins-casino.net CNAME .
 fairgo-casino.io CNAME .
 fairgocasino.com CNAME .
-fairgroovetr.blog CNAME .
 fairplay.club CNAME .
 fairplay.nl CNAME .
 fairplaybingo.nl CNAME .
@@ -14432,7 +14207,6 @@ fearlessfaucet.com CNAME .
 febcasino.com CNAME .
 fecdn.user1st.info CNAME .
 federatedmedia.net CNAME .
-fedexdelivery.ltd CNAME .
 fedstat.ru CNAME .
 fedxpressdelivery.com CNAME .
 feedad.com CNAME .
@@ -14462,7 +14236,6 @@ fellroriana.com CNAME .
 felomint.click CNAME .
 feltet.dk CNAME .
 femboy.center CNAME .
-femboykisser.sbs CNAME .
 fenggejiaju.com CNAME .
 fengkongcloud.com CNAME .
 feniksscasino.lv CNAME .
@@ -14480,10 +14253,7 @@ ferncurrent14.com CNAME .
 fernsehlotterie.de CNAME .
 ferzy.com CNAME .
 fesold.com CNAME .
-festgrape-bog.xyz CNAME .
-festivaldrop.com CNAME .
 fevvkiieiu.com CNAME .
-fewfwfwfwfwf.info CNAME .
 feyhaum.com CNAME .
 ffice365.com CNAME .
 fflogs.com CNAME .
@@ -14568,7 +14338,6 @@ findmykids.app CNAME .
 findmykids.org CNAME .
 findresources4me.com CNAME .
 findthatlead.com CNAME .
-fine-work-team.com CNAME .
 fineboost.com CNAME .
 finect.com CNAME .
 finereport.com CNAME .
@@ -14576,7 +14345,6 @@ fingerfun.com CNAME .
 fingerprintjs.com CNAME .
 fingo-itau-development.com CNAME .
 finishoperations.com CNAME .
-finishoperations.org CNAME .
 finncdn.no CNAME .
 finserveconsulting.com CNAME .
 finsweet.com CNAME .
@@ -14605,7 +14373,6 @@ firststepfloors.com CNAME .
 fisheries.gov.pg CNAME .
 fishinfrenzy-casino-slot.uk CNAME .
 fishinfrenzycasinoslot.uk CNAME .
-fishwallhand.xyz CNAME .
 fit2leadconference.com CNAME .
 fitanalytics.com CNAME .
 fitle.com CNAME .
@@ -14640,7 +14407,6 @@ flexispy.com CNAME .
 flexoffers.com CNAME .
 flexserve.ch CNAME .
 flicargo.com CNAME .
-flightleaks.xyz CNAME .
 flingtrainer.us CNAME .
 flinndal.nl CNAME .
 flip-pay.com CNAME .
@@ -14685,7 +14451,6 @@ flushcasinogo.com CNAME .
 flutney.com CNAME .
 flutter.com CNAME .
 flux-cdn.com CNAME .
-flux-heldsham.xyz CNAME .
 fluxcasino.ca CNAME .
 fluxcasinogrid.nl CNAME .
 fluxmantle.click CNAME .
@@ -14706,17 +14471,13 @@ fndrsp-checkout.net CNAME .
 fnxx.info CNAME .
 fo-api.omnitagjs.com CNAME .
 foc-share.com CNAME .
-foc-share.org CNAME .
 focusatwill.com CNAME .
 focuscasinohub.nl CNAME .
 focuscasinostudio.nl CNAME .
 focuscat.com CNAME .
-foe-flawmire.xyz CNAME .
 fokindenfo1.lol CNAME .
 fokus.mk CNAME .
-fold-hide-deft.xyz CNAME .
 folina.nl CNAME .
-folk-gleeglee.xyz CNAME .
 follow-apps.com CNAME .
 followanalytics.com CNAME .
 fomlchev.uk CNAME .
@@ -14735,7 +14496,6 @@ fonts.sidearmsports.com CNAME .
 fonts.wpcdn.pl CNAME .
 fonts.zohowebstatic.com CNAME .
 fontshare.com CNAME .
-food-rulegrate.xyz CNAME .
 footb.xyz CNAME .
 footbalpersian.ir CNAME .
 footmarks.com CNAME .
@@ -14749,7 +14509,6 @@ for-the.biz CNAME .
 forbescasino.cz CNAME .
 forbesviz.com CNAME .
 fordogtrainers.it CNAME .
-fordsoupward.xyz CNAME .
 foreignrelations.us CNAME .
 forensicsguru.com CNAME .
 foreplay.co CNAME .
@@ -14770,7 +14529,6 @@ formatf.ru CNAME .
 formilla.com CNAME .
 formito.com CNAME .
 formlets.com CNAME .
-formnote-from.xyz CNAME .
 formonstore.com CNAME .
 forms.app CNAME .
 forsta.com CNAME .
@@ -14789,7 +14547,6 @@ foscarini.com CNAME .
 fotao9.com CNAME .
 fotoiran.ir CNAME .
 fouanalytics.com CNAME .
-fourhomethen.xyz CNAME .
 fourseasacupuncture.com CNAME .
 foursixty.com CNAME .
 foursquare.com CNAME .
@@ -14799,8 +14556,6 @@ foxitpdf.ru CNAME .
 foxlyme.com CNAME .
 foxmediagency.com CNAME .
 foxmetrics.com CNAME .
-foxplugin.co CNAME .
-foxplugin.net CNAME .
 foxybingo.com CNAME .
 fp.ups.com CNAME .
 fpa-cdn.adweek.com CNAME .
@@ -14823,7 +14578,6 @@ fr-casinos-en-ligne.com CNAME .
 fr-celinedionparis.com CNAME .
 fr-meilleurs-casinos.com CNAME .
 fr-online.met.vgwort.de CNAME .
-fr-particulier-espace.com CNAME .
 fr135.net CNAME .
 fr5.casino CNAME .
 frameplay.com CNAME .
@@ -14863,7 +14617,6 @@ freegeoip.app CNAME .
 freegeoip.io CNAME .
 freegeoip.net CNAME .
 freehosting.dev CNAME .
-freeknot-norm.xyz CNAME .
 freelogs.com CNAME .
 freememorygame.com CNAME .
 freemius.com CNAME .
@@ -14996,8 +14749,6 @@ frontapp.com CNAME .
 frontend.adhslx.com CNAME .
 frontify.com CNAME .
 frontnieuws.com CNAME .
-frostyislebe.pro CNAME .
-frtkvnpa.xyz CNAME .
 fruitbrat.com CNAME .
 fruitman.nl CNAME .
 fruitychancecasino.net CNAME .
@@ -15055,7 +14806,6 @@ funcasino.com CNAME .
 funcasinohire.com CNAME .
 funcasinos.org CNAME .
 funchats.ru CNAME .
-fund-fool-stub.xyz CNAME .
 fundacionculturalbcb.gob.bo CNAME .
 fundmyprop.com CNAME .
 fundraiseup.com CNAME .
@@ -15143,7 +14893,6 @@ g10696554090.co CNAME .
 g10894638425.co CNAME .
 g11092722760.co CNAME .
 g11290807095.co CNAME .
-g1158523.com CNAME .
 g1337.casino CNAME .
 g1386590345.co CNAME .
 g1584674680.co CNAME .
@@ -15192,7 +14941,6 @@ gaggle.net CNAME .
 gaia-oasis.com CNAME .
 gaiadeqi.com CNAME .
 gain-ads.com CNAME .
-gain-daze-kept.xyz CNAME .
 galabet1.org CNAME .
 galabingo.com CNAME .
 galacasino.com CNAME .
@@ -15260,7 +15008,6 @@ gancapost.info CNAME .
 gang.casino CNAME .
 gangstacasino.cy CNAME .
 gangstacasino.de CNAME .
-gangteem-beam.xyz CNAME .
 ganj.bet CNAME .
 ganjehost.com CNAME .
 ganpatimatrimonial.com CNAME .
@@ -15478,7 +15225,6 @@ getreview.pl CNAME .
 getrevue.co CNAME .
 getrewardful.com CNAME .
 getrich.li CNAME .
-getrichcurl.xyz CNAME .
 gets-it.net CNAME .
 getscreen.me CNAME .
 getsidekick.com CNAME .
@@ -15557,7 +15303,6 @@ giantin.com CNAME .
 giantlottos.com CNAME .
 gif.barclaycardus.com CNAME .
 giffg11111.pcapredict.com CNAME .
-giftcpfree.com CNAME .
 gifty.nl CNAME .
 gig.com CNAME .
 gigaonclick.com CNAME .
@@ -15586,8 +15331,6 @@ gitdetail.com CNAME .
 giter.vip CNAME .
 githubapp.com CNAME .
 githubhelp.com CNAME .
-give-lawncalm.xyz CNAME .
-give-pore-upon.xyz CNAME .
 givegood.gifts CNAME .
 gizbo-casino311.com CNAME .
 gizbo.casino CNAME .
@@ -15595,7 +15338,6 @@ gizbocasino150.com CNAME .
 gizmodo.cc CNAME .
 gizwidgets.com CNAME .
 gjirafa.tech CNAME .
-gladloanwhat.xyz CNAME .
 glamipixel.com CNAME .
 glance-mediametrie.com CNAME .
 glance.net CNAME .
@@ -15665,17 +15407,13 @@ glorycasino-kz.com CNAME .
 glorycasino.live CNAME .
 glorycasinos.com CNAME .
 glorycasinoz.com CNAME .
-glow-died-fail.xyz CNAME .
-glow-once-four.xyz CNAME .
 glowcasinogo.com CNAME .
 glowing-van.prefinery.com CNAME .
 glowmedaesthetics.com CNAME .
-glue-more-cork.xyz CNAME .
 glutoes.com CNAME .
 glympse.com CNAME .
 glyph.medium.com CNAME .
 gm99.com CNAME .
-gma.alicdn.com CNAME .
 gma1.com CNAME .
 gmads.net CNAME .
 gmailpva.com CNAME .
@@ -15720,7 +15458,6 @@ goadserver.com CNAME .
 goadservices.com CNAME .
 goaffpro.app CNAME .
 goaffpro.com CNAME .
-goal-soil-see.xyz CNAME .
 goal.com CNAME .
 goaliran.ir CNAME .
 goalstationwebshop.com CNAME .
@@ -15818,7 +15555,6 @@ google-analytics.com CNAME .
 googleadmob.com CNAME .
 googleads-cn.com CNAME .
 googleads.com CNAME .
-googleads.g.doubleclick.net CNAME .
 googleadservices-cn.com CNAME .
 googleadservices.com CNAME .
 googleanalytics.com CNAME .
@@ -15844,7 +15580,6 @@ gorilla-casino-ru.com CNAME .
 gorilla-casino-zerkalo9.ru CNAME .
 gorilla-casino.casino CNAME .
 gorilla-casino.ru CNAME .
-gorillaunit.fr CNAME .
 goslot.com CNAME .
 gospelio.com CNAME .
 gospincasino.com CNAME .
@@ -15933,7 +15668,6 @@ gratoramacasino.org CNAME .
 gratowin-casino.com CNAME .
 gratowincasino.net CNAME .
 gravatar.com CNAME .
-gravezerosold.xyz CNAME .
 gravitec.net CNAME .
 gravity-software.com CNAME .
 gravyanalytics.com CNAME .
@@ -15952,16 +15686,12 @@ greitatv.com CNAME .
 grenagana.com CNAME .
 greyeagleresortandcasino.ca CNAME .
 gricanjolt.com CNAME .
-grid-brisk-lard.xyz CNAME .
 grid-push.com CNAME .
-gridgrimmorn.xyz CNAME .
 gridsum.com CNAME .
 gridsumdissector.com CNAME .
 griffoncasino.com CNAME .
 griffoncasinoslots.com CNAME .
-grit-briskbath.xyz CNAME .
 grked.online CNAME .
-groan-brim-peak.xyz CNAME .
 groeschelcompany.com CNAME .
 groklan.com CNAME .
 groks-the.info CNAME .
@@ -16021,7 +15751,6 @@ gtm.oasisfeng.com CNAME .
 gtm.reflect.app CNAME .
 gtm.vanmoof.com CNAME .
 gtminet.net CNAME .
-gtmsdd.alicdn.com CNAME .
 gtmucs.cn CNAME .
 gtr96.casino CNAME .
 gtranslate.io CNAME .
@@ -16076,7 +15805,6 @@ gzpingyuanrl.com CNAME .
 gzqdmz.com CNAME .
 h42k.top CNAME .
 h5-whatsapps.gd.cn CNAME .
-h8k5yr.lat CNAME .
 habbit.net CNAME .
 habbowidgets.com CNAME .
 habilitanetempresabr.click CNAME .
@@ -16086,7 +15814,6 @@ habilitanetempresabr.pro CNAME .
 habitabilidades.us CNAME .
 habu.com CNAME .
 hachas.click CNAME .
-hackburppace.xyz CNAME .
 hackerai.co CNAME .
 hackers.krd CNAME .
 hacklinkmarketing.com CNAME .
@@ -16098,7 +15825,6 @@ haiws.com CNAME .
 haiyunpush.com CNAME .
 hakeiwjs727wj.com CNAME .
 haleywoodportfolio.com CNAME .
-half-mufflurk.xyz CNAME .
 halflife-play.ru CNAME .
 halfpricefurniturestore.com CNAME .
 halopsa.com CNAME .
@@ -16139,8 +15865,6 @@ hardrockhotelcasinolasvegas.com CNAME .
 hardrocksportsbook.com CNAME .
 hariomlottery.com CNAME .
 harlingfordhotel.com CNAME .
-harm-mint-veto.xyz CNAME .
-harmlick-mode.xyz CNAME .
 harmooniaal.nl CNAME .
 harness.io CNAME .
 harnessdigitalmarketing.com CNAME .
@@ -16152,9 +15876,7 @@ hashtag-labs.com CNAME .
 hashting.cash CNAME .
 hashting.promo CNAME .
 hasoffers.com CNAME .
-haste-flop-smug.xyz CNAME .
 hasthaglobal.com CNAME .
-hatchfoe-flung.xyz CNAME .
 hatech.dev CNAME .
 hatfieldhouseonhibernia.com CNAME .
 hatix.store CNAME .
@@ -16189,8 +15911,6 @@ headshotsandcorporate.com CNAME .
 headspin.io CNAME .
 headway-widget.net CNAME .
 headwayapp.co CNAME .
-heajost.online CNAME .
-heal-jazz-shop.xyz CNAME .
 healingenenergy.nl CNAME .
 health.halodoc.com CNAME .
 healthcarezoomcenteral.org CNAME .
@@ -16247,7 +15967,6 @@ helxiagent.com CNAME .
 hem.nl CNAME .
 hengam.io CNAME .
 hentaitracking.com CNAME .
-her-vein-pool.xyz CNAME .
 herdenkingsuitgifte.nl CNAME .
 here-for-more.info CNAME .
 hereapi.com CNAME .
@@ -16284,7 +16003,6 @@ hesabdarishabahang.xyz CNAME .
 hesenorm.info CNAME .
 hetnlpcollege.nl CNAME .
 hetpartnerschap.nl CNAME .
-hewsseen-tear.xyz CNAME .
 hexagon-analytics.com CNAME .
 hexstresser.org CNAME .
 hextom.com CNAME .
@@ -16352,7 +16070,6 @@ hipersushiads.com CNAME .
 hipex.io CNAME .
 hippamsas.com CNAME .
 hippodromecasino.com CNAME .
-hire-just-deep.xyz CNAME .
 hireology.com CNAME .
 hireserve.nl CNAME .
 hirevue-app.com CNAME .
@@ -16416,7 +16133,6 @@ hokenstore.com CNAME .
 hokikupoker88.org CNAME .
 hokm.bet CNAME .
 holdet.dk CNAME .
-holdpogohaul.xyz CNAME .
 holidayaccommodation4u.com CNAME .
 holidaycatalogs.com CNAME .
 holistik.nl CNAME .
@@ -16475,8 +16191,6 @@ hooiberg.speld.nl CNAME .
 hookcasino.org CNAME .
 hooklogic.com CNAME .
 hooks.slack.com CNAME .
-hoop-chad-gust.xyz CNAME .
-hoopramplawn.xyz CNAME .
 hoosierlottery.com CNAME .
 hootsuite.com CNAME .
 hopa-casino.org CNAME .
@@ -16506,12 +16220,10 @@ hot.m.shouji.360tpcdn.com CNAME .
 hotcore.info CNAME .
 hotdogsandads.com CNAME .
 hotdownloads.org CNAME .
-hotel-servicecheck.rest CNAME .
 hotelmozart-bonn.com CNAME .
 hotelperivoli.com CNAME .
 hoteltodoincluido.org CNAME .
 hotjar.com CNAME .
-hotjar.io CNAME .
 hotlinecasino26.com CNAME .
 hotlog.ru CNAME .
 hotmarketing.name CNAME .
@@ -16524,7 +16236,6 @@ houseofhakka.com CNAME .
 housesforsaleingeorgia.com CNAME .
 housetrade.net CNAME .
 hovqr.me CNAME .
-howto.rocks CNAME .
 howtocasino.com CNAME .
 hpanalytics.net CNAME .
 hpnjesmb.com CNAME .
@@ -16558,7 +16269,6 @@ http-inputs-itv.splunkcloud.com CNAME .
 httpbin.org CNAME .
 httpool.com CNAME .
 httpool.in CNAME .
-https--www-roblox.com CNAME .
 httpss--roblox.co CNAME .
 httpss--www--roblox.co CNAME .
 hu-manity.co CNAME .
@@ -16603,7 +16313,6 @@ huichuan.sm.cn CNAME .
 huimee.net CNAME .
 huisartspraktijkrombouts.nl CNAME .
 hulkapps.com CNAME .
-hullmall-cool.xyz CNAME .
 human-id.org CNAME .
 humansbad2026.com CNAME .
 hunanqingang.com CNAME .
@@ -16627,7 +16336,6 @@ hvacr.cn CNAME .
 hverster.store CNAME .
 hw.com CNAME .
 hwcloudtest.cn CNAME .
-hwykplqn.xyz CNAME .
 hxnxajp.club CNAME .
 hxsame.hexun.com CNAME .
 hxspc.com CNAME .
@@ -16657,7 +16365,6 @@ hypercasinospace.com CNAME .
 hypercasinostation.nl CNAME .
 hypercasinoworld.com CNAME .
 hypercasinozone.com CNAME .
-hypercorevector9.lol CNAME .
 hyperion.regiogroei.cloud CNAME .
 hyperpromote.com CNAME .
 hypers.com CNAME .
@@ -16759,7 +16466,6 @@ icloud-zr.com CNAME .
 icloudfind.live CNAME .
 iconmediapixel-ipv4.com CNAME .
 iconmediapixel.com CNAME .
-iconropeknob.xyz CNAME .
 icons8.com CNAME .
 icontact.com CNAME .
 icrmoving.com CNAME .
@@ -16773,9 +16479,7 @@ id528.com CNAME .
 id89565.cfd CNAME .
 id89652.cfd CNAME .
 idcqi.com CNAME .
-idd1r122v2.lol CNAME .
 iddaa.com CNAME .
-idea-nickdoor.xyz CNAME .
 idealcasinos.online CNAME .
 idealecasinos.com CNAME .
 idealecasinos.nl CNAME .
@@ -16792,7 +16496,6 @@ idhlagency.com CNAME .
 idleminer.pro CNAME .
 idmnet.pl CNAME .
 idvert.cz CNAME .
-ie-lpi.help CNAME .
 ieffects.com CNAME .
 ieplads.com CNAME .
 iesnare.com CNAME .
@@ -16815,7 +16518,6 @@ igjreoijgre1488.com CNAME .
 iglooanalytics.com CNAME .
 igmguru.com CNAME .
 ignitetech.ai CNAME .
-ignitioncasino.eu CNAME .
 ignitioncasino.net CNAME .
 ignitioncasino.ooo CNAME .
 ignitur.com CNAME .
@@ -16922,7 +16624,6 @@ imptracking.com CNAME .
 impur-treacheryperepelitsa.wiki CNAME .
 ims.humo.be CNAME .
 imspixel.com CNAME .
-imtokenoa.com CNAME .
 imtouken.com CNAME .
 imwwallet.shop CNAME .
 in-mostbet-casino.com CNAME .
@@ -17010,7 +16711,6 @@ infobip.com CNAME .
 infobrics.org CNAME .
 infocart.jp CNAME .
 infocom.kz CNAME .
-infocrabcob.xyz CNAME .
 infogram.com CNAME .
 infoip.io CNAME .
 infolada.ru CNAME .
@@ -17048,7 +16748,6 @@ ing-wb01.wt-eu02.net CNAME .
 ingeko-energies.fr CNAME .
 ingenioustechnologies.com CNAME .
 ingenius.com CNAME .
-ingest.sentry.io CNAME .
 ingestion.webanalytics.italia.it CNAME .
 ingovtop.click CNAME .
 ingridvanderveen.com CNAME .
@@ -17340,8 +17039,6 @@ ironproxy.space CNAME .
 ironsrc.com CNAME .
 ironsrc.mobi CNAME .
 irs01.net CNAME .
-irsci.net CNAME .
-irsci.online CNAME .
 irwin-casino414.com CNAME .
 irwin.casino CNAME .
 irxbetkade.com CNAME .
@@ -17673,9 +17370,7 @@ jenkinsmoving.com CNAME .
 jenniferloeffler.com CNAME .
 jennycasino.com CNAME .
 jennyrussianbluepalace.com CNAME .
-jenslittlerugrats.org CNAME .
 jentis.com CNAME .
-jerkloss-flux.xyz CNAME .
 jesgoo.com CNAME .
 jesusartificialintelligence.com CNAME .
 jet-casino-zahorovod1.top CNAME .
@@ -17732,8 +17427,6 @@ jiguang.cn CNAME .
 jili333slotslogin.click CNAME .
 jilicasinoworld.com CNAME .
 jiligameslogin.click CNAME .
-jilt-elsebeam.xyz CNAME .
-jiltparkhint.xyz CNAME .
 jimdo.com CNAME .
 jimeilm.com CNAME .
 jinghuazhijia.com CNAME .
@@ -17841,7 +17534,6 @@ jq5.casino CNAME .
 jqueryapihelpers.com CNAME .
 jqwidgets.com CNAME .
 jqz9.com CNAME .
-jrrjmarketing.com CNAME .
 js-check.com CNAME .
 js-error-tracer-api.cafe24.com CNAME .
 js-exceptions.paylogic.com CNAME .
@@ -17924,7 +17616,6 @@ justflow.nl CNAME .
 justns.ru CNAME .
 justpremium.com CNAME .
 justspincasino.org CNAME .
-juststep-rent.xyz CNAME .
 justtag.com CNAME .
 justtrack.io CNAME .
 justuno.com CNAME .
@@ -17957,7 +17648,6 @@ kadam.network CNAME .
 kafekarachi.com CNAME .
 kairion.de CNAME .
 kairosfire.com CNAME .
-kaishareresearch.com CNAME .
 kaiu-marketing.com CNAME .
 kajot-casino.com CNAME .
 kakadu-casinos.org CNAME .
@@ -17989,7 +17679,6 @@ kanuunacasinos.com CNAME .
 kanzbladi.com CNAME .
 kapetracking.com CNAME .
 kapitall.life CNAME .
-kapitall.my CNAME .
 kapost.com CNAME .
 kapowcasino.dk CNAME .
 kaprat.com CNAME .
@@ -18030,7 +17719,6 @@ keap-link006.com CNAME .
 keap.com CNAME .
 kebuntoto.casino CNAME .
 kecifang.net CNAME .
-kee126.com CNAME .
 keen.io CNAME .
 keep-icloud.com CNAME .
 keep-rewards.life CNAME .
@@ -18061,7 +17749,6 @@ kentcasino-win.store CNAME .
 kentjerk.info CNAME .
 kenwillzltd.com CNAME .
 kenzobet.casino CNAME .
-keptpilekeep.xyz CNAME .
 ker.pic2pic.site CNAME .
 keralalotteries.net CNAME .
 keralalotteryresult.net CNAME .
@@ -18118,7 +17805,6 @@ kiirkasiino.ee CNAME .
 kiirkasiinod.net CNAME .
 kikaloterij.nl CNAME .
 kikrouprosecolenimes.com CNAME .
-kiltwent-our.xyz CNAME .
 kimberlite.io CNAME .
 kimblegroup.com CNAME .
 kimimaro-trance.com CNAME .
@@ -18133,7 +17819,6 @@ kindredgroup.com CNAME .
 kinetic6.com CNAME .
 kinetic6tracks.com CNAME .
 king-cobra.eu CNAME .
-king-culmdown.xyz CNAME .
 king-hills-casino-online.com CNAME .
 king-maker-casino.org CNAME .
 kingads.digital CNAME .
@@ -18218,7 +17903,6 @@ knocdn.com CNAME .
 knockknock.top CNAME .
 knocommerce.com CNAME .
 knorex.com CNAME .
-knotgymstwo.xyz CNAME .
 knowler.io CNAME .
 knowsitall.info CNAME .
 ko-fi.com CNAME .
@@ -18353,7 +18037,6 @@ l373.casino CNAME .
 l982.landleven.nl CNAME .
 la2.chungta.vn CNAME .
 labellemontagne.com CNAME .
-lace-wise-crop.xyz CNAME .
 lacunads.com CNAME .
 ladbrokes.com CNAME .
 ladbrokes.de CNAME .
@@ -18397,7 +18080,6 @@ lashou1000.com CNAME .
 lasmegas.de CNAME .
 lasmejoresmxfla.mx CNAME .
 lassomarketing.io CNAME .
-last-hull-brig.xyz CNAME .
 lasvegascasino.com CNAME .
 lasvegascasino.org CNAME .
 lataamocasinos.com CNAME .
@@ -18405,8 +18087,6 @@ lataamocasinos.fi CNAME .
 latestcasinobonuses.bet CNAME .
 latestcasinobonuses.com CNAME .
 latestdatabase.com CNAME .
-lathvetoiris.xyz CNAME .
-latincp.com CNAME .
 lattice.com CNAME .
 launchdarkly.com CNAME .
 launcher.spot.im CNAME .
@@ -18476,7 +18156,6 @@ leadsy.ai CNAME .
 leadsync.me CNAME .
 leadview.io CNAME .
 leady.com CNAME .
-leafcash-even.xyz CNAME .
 leafflip.com CNAME .
 leaguejazire.com CNAME .
 leanplum.com CNAME .
@@ -18573,7 +18252,6 @@ lesfoliesrevees.fr CNAME .
 lesjoyauxduweb.fr CNAME .
 lessentieldunet.fr CNAME .
 lestresot.info CNAME .
-let-dyed-crow.xyz CNAME .
 letmeads.com CNAME .
 letnie-okazje199547571.cyou CNAME .
 letnie-okazje874661501.cyou CNAME .
@@ -18611,7 +18289,6 @@ licelus.com CNAME .
 license-casino-forum.com CNAME .
 license.theoplayer.com CNAME .
 licensebuttons.net CNAME .
-lickinchmail.xyz CNAME .
 lideedujour.fr CNAME .
 lidstatic.com CNAME .
 lielang618.com CNAME .
@@ -18634,7 +18311,6 @@ liftoff.io CNAME .
 ligabfa.com CNAME .
 ligatus.com CNAME .
 lightcars.de CNAME .
-lightcord.xyz CNAME .
 lighthouselist.com CNAME .
 lightindividual.com CNAME .
 lightningproxies.net CNAME .
@@ -18644,7 +18320,6 @@ lightwidget.com CNAME .
 lihua99.com CNAME .
 lijit.com CNAME .
 likar.info CNAME .
-like-hold-fray.xyz CNAME .
 like.tg CNAME .
 likes-pie.com CNAME .
 likesmaster.eu CNAME .
@@ -18676,7 +18351,6 @@ lineclearexpress.com CNAME .
 linguise.com CNAME .
 link-flux.com CNAME .
 link-forge6.com CNAME .
-link-novobanco.com CNAME .
 link-sharepoint.com CNAME .
 link.greetz.nl CNAME .
 link.invitado.nl CNAME .
@@ -18711,7 +18385,6 @@ linksnappy.com CNAME .
 linksplit.io CNAME .
 linksquares.com CNAME .
 linksynergy.com CNAME .
-linktools.co CNAME .
 linktools.org CNAME .
 linktrap.co CNAME .
 linkwi.se CNAME .
@@ -18737,7 +18410,6 @@ list.casino CNAME .
 listagram.com CNAME .
 listenother.com CNAME .
 listhub.net CNAME .
-listincode.com CNAME .
 listonic.com CNAME .
 listrakbi.com CNAME .
 listsoft.com CNAME .
@@ -18751,8 +18423,6 @@ littledns.ru CNAME .
 littleitalypizzafortwashington.com CNAME .
 liv5781408.pro CNAME .
 live-casino.nl CNAME .
-live-fled-slam.xyz CNAME .
-live-helpinfo.xyz CNAME .
 live-scores.com CNAME .
 live-timeline-addon.schibsted.tech CNAME .
 live-uk-uon.contensis.com CNAME .
@@ -18787,7 +18457,6 @@ liveintent.com CNAME .
 livelifewell.nl CNAME .
 liveline.at CNAME .
 livelook.com CNAME .
-livelshopbra.shop CNAME .
 liveperson.com CNAME .
 liveperson.net CNAME .
 liveproxies.io CNAME .
@@ -18834,7 +18503,6 @@ lo4d.com CNAME .
 loadbee.com CNAME .
 loader.wisepops.com CNAME .
 loadercdn.com CNAME .
-loansome-rare.xyz CNAME .
 loboclick.com CNAME .
 local.mlcdn.com CNAME .
 localbitcoins.com CNAME .
@@ -18919,23 +18587,18 @@ lokalna-048261.sbs CNAME .
 lokalna-067.sbs CNAME .
 lokalna-199101.sbs CNAME .
 lokalna-201932.sbs CNAME .
-lokalna-2328222239.lol CNAME .
 lokalna-29182.sbs CNAME .
-lokalna-443.sbs CNAME .
 lokalna-589.sbs CNAME .
 lokalna-666.sbs CNAME .
 lokalna-833.sbs CNAME .
 lokalna-83726.sbs CNAME .
 lokalna-849641.sbs CNAME .
-lokalna-93827.sbs CNAME .
 lokalna-oferta4132687.lol CNAME .
 lokalna-oferta7985432.lol CNAME .
-lokalna-oferta839122.lol CNAME .
 lokalna-ofeta16xpv0yj004b75v0.shop CNAME .
 lokalna-ofeta16xv0yj034b75v7.shop CNAME .
 lokalna-ofeta2435245.shop CNAME .
 lokalna-ofeta28921.sbs CNAME .
-lokalna-ofeta29097321.sbs CNAME .
 lokalna-ofeta3528509.shop CNAME .
 lokercorp.com CNAME .
 lokicasino.com CNAME .
@@ -18949,7 +18612,6 @@ lonkerocasino-fi.com CNAME .
 lonkerocasinos.com CNAME .
 lonkerocasinos.fi CNAME .
 lookaside.fbsbx.com CNAME .
-lookbergseal.xyz CNAME .
 looker.com CNAME .
 lookingformarketing.com CNAME .
 lookinlip.info CNAME .
@@ -18963,7 +18625,6 @@ loopyloyalty.com CNAME .
 loosun.net CNAME .
 loox.io CNAME .
 lordcasino592.com CNAME .
-lordcozytrap.xyz CNAME .
 lordlucky.de CNAME .
 lordping.de CNAME .
 loremipsumcorp.com CNAME .
@@ -18975,7 +18636,6 @@ losgatos.org CNAME .
 lossless-scaling.download CNAME .
 lossless-scaling.online CNAME .
 losslessscaling.pro CNAME .
-losspreyshot.xyz CNAME .
 lotadata.com CNAME .
 lotame.com CNAME .
 loten-kopen.com CNAME .
@@ -19082,7 +18742,6 @@ lp1901.com CNAME .
 lp4.io CNAME .
 lpages.co CNAME .
 lpmotortest.com CNAME .
-lpost-sa72.shop CNAME .
 lppm-kim.com CNAME .
 lpsnmedia.net CNAME .
 lqi.io CNAME .
@@ -19111,7 +18770,6 @@ lucielalumiere.info CNAME .
 luciq.ai CNAME .
 luckcasino.ro CNAME .
 luckcasinouk.net CNAME .
-luckfort-grim.xyz CNAME .
 luckiacasino.io CNAME .
 luckmedia.link CNAME .
 lucky-angpao.site CNAME .
@@ -19193,7 +18851,6 @@ luderlawe.com CNAME .
 ludoking.com CNAME .
 lufax.com CNAME .
 lukscasinos.com CNAME .
-lull-islebrew.xyz CNAME .
 lumenagnet.com CNAME .
 lumencasino.ca CNAME .
 lumicasino-suomi.com CNAME .
@@ -19384,7 +19041,6 @@ mailerking.net CNAME .
 mailerlite.com CNAME .
 mailersend.com CNAME .
 mailforge.ai CNAME .
-mailglobalsbg.com CNAME .
 mailgun-dataplane.rudderstack.com CNAME .
 mailgun.org CNAME .
 mailhelpdesksupport.com CNAME .
@@ -19398,7 +19054,6 @@ maillist-manage.eu CNAME .
 mailmeisters.nl CNAME .
 mailmunch.co CNAME .
 mailmunch.com CNAME .
-mailnalysis.com CNAME .
 mailperformance.com CNAME .
 mailplus.nl CNAME .
 mailreference.fr CNAME .
@@ -19422,7 +19077,6 @@ makepasskey.com CNAME .
 makeprosimp.com CNAME .
 makingreview.com CNAME .
 malaysianpastrybakery.org CNAME .
-male-martloss.xyz CNAME .
 malicious-website.com CNAME .
 malienterprises.com CNAME .
 malina-casino.fi CNAME .
@@ -19468,7 +19122,6 @@ mansioncasino.com CNAME .
 mantra.chat CNAME .
 mantracloud.com CNAME .
 manychat.com CNAME .
-manyhaste-seat.xyz CNAME .
 map.media6degrees.com CNAME .
 mapaicloud.com CNAME .
 mapi.huffpost.com CNAME .
@@ -19551,7 +19204,6 @@ marketperf.com CNAME .
 marketplan.io CNAME .
 marketresponse.nl CNAME .
 marketxs.com CNAME .
-markherdbark.xyz CNAME .
 markitondemand.com CNAME .
 markkennedy06.com CNAME .
 markteffect.nl CNAME .
@@ -19595,11 +19247,9 @@ masukkudapoker.space CNAME .
 matalebeziba.ir CNAME .
 match.new-programmatic.com CNAME .
 match.p4p.1688.com CNAME .
-mate-limegive.xyz CNAME .
 matelma.com CNAME .
 maternitycarealberta.com CNAME .
 mateuszskorupa.pl CNAME .
-math-buoy-seen.xyz CNAME .
 mathads.com CNAME .
 matheranalytics.com CNAME .
 mathilde-ads.com CNAME .
@@ -19644,7 +19294,6 @@ maxbetscasino.co CNAME .
 maxcasino.at CNAME .
 maxcasino.team CNAME .
 maxclientstatapi.com CNAME .
-maxcoinbseapp.com CNAME .
 maxcuru.com CNAME .
 maxesads.com CNAME .
 maxfactor-international.com CNAME .
@@ -19662,7 +19311,6 @@ maxwebsearch.com CNAME .
 maybe-sincetomorrow.buzz CNAME .
 mayeutika.eu CNAME .
 maysunmedia.com CNAME .
-mazeduskloud.xyz CNAME .
 mb.hockeybuzz.com CNAME .
 mb.moatads.com CNAME .
 mb.yidianzixun.com CNAME .
@@ -19880,7 +19528,6 @@ mercurecasino714.com CNAME .
 mercurecasino715.com CNAME .
 mercurecasino716.com CNAME .
 mercurecasino717.com CNAME .
-mere-tosspush.xyz CNAME .
 mergelsbergverlag.de CNAME .
 meridia.rs CNAME .
 meridianteq.org CNAME .
@@ -19906,8 +19553,6 @@ merveillesdujour.fr CNAME .
 mesenviesdemain.fr CNAME .
 mesoptik.com CNAME .
 messenger-security-notification-ads.one CNAME .
-messenger-verficaonti-account-adss.cyou CNAME .
-messenger-verification-security-supports.online CNAME .
 messenger-verrification-supporst.us CNAME .
 meta-accountscenter.com CNAME .
 meta-data-shredding-cleanup-utility.wiki CNAME .
@@ -19989,7 +19634,6 @@ micpn.com CNAME .
 microad-cn.com CNAME .
 microad.jp CNAME .
 microanalytics.io CNAME .
-microc2.lol CNAME .
 microfun.com CNAME .
 microlsireqjn.com CNAME .
 microsft.org CNAME .
@@ -20007,7 +19651,6 @@ midasbuy-zone.com CNAME .
 midasbuygames.com CNAME .
 middleware.p7s1.io CNAME .
 midiowagrowth.com CNAME .
-midle-eastcompany.com CNAME .
 midwestmerch.com CNAME .
 midzone.tools CNAME .
 miegyot.net CNAME .
@@ -20039,7 +19682,6 @@ milibris.com CNAME .
 milifestylemarketing.com CNAME .
 milink.com CNAME .
 miljoenenspel.nl CNAME .
-milkgang-yell.xyz CNAME .
 milkymouse.com CNAME .
 milkyway8.casino CNAME .
 milkywinscasino.com CNAME .
@@ -20064,7 +19706,6 @@ mindrocketsapis.com CNAME .
 mindtake.com CNAME .
 mindtickle.com CNAME .
 mine.nu CNAME .
-mineblack.lol CNAME .
 minepi.com CNAME .
 mines-casino.it CNAME .
 minexmr.com CNAME .
@@ -20085,7 +19726,6 @@ mintegral.com CNAME .
 minutemedia-prebid.com CNAME .
 minutemedia.com CNAME .
 mioisiskwowiwjowuwjwolab.club CNAME .
-miov2iaiaoubqosiqoiajwowiwjso.online CNAME .
 mip777.casino CNAME .
 mipujia.com CNAME .
 mirabelanalytics.com CNAME .
@@ -20178,10 +19818,8 @@ mo.haloapps.cn CNAME .
 mo.res.wpscdn.cn CNAME .
 moa.nl CNAME .
 moad.cn CNAME .
-moan-prod-did.xyz CNAME .
 moana-casino.fi CNAME .
 moanacasino.no CNAME .
-moandownsave.xyz CNAME .
 moarefeslami.xyz CNAME .
 moat.com CNAME .
 moatads.com CNAME .
@@ -20239,7 +19877,6 @@ mobvista.com CNAME .
 mocaplatform.com CNAME .
 mochiads.com CNAME .
 mochibot.com CNAME .
-mode-poll-grew.xyz CNAME .
 modeanalytics.com CNAME .
 moderncasino.ca CNAME .
 moderncasino194.com CNAME .
@@ -20396,7 +20033,6 @@ mostbetcasinoz.com CNAME .
 mostbetpolskacasino.com CNAME .
 mostbets-casino.kz CNAME .
 motabartarin-site-shartbandi-jahan.com CNAME .
-mothwellkeep.xyz CNAME .
 motionapp.com CNAME .
 motiva.ai CNAME .
 motivaction.ie CNAME .
@@ -20405,7 +20041,6 @@ motor-casino-bonus.ru CNAME .
 motorbook.xyz CNAME .
 motorcitycasino.com CNAME .
 motthavendispensary.com CNAME .
-mottl-dirtnine.xyz CNAME .
 motuntakhasosi.store CNAME .
 mountain.com CNAME .
 mountainous-statement.com CNAME .
@@ -20414,11 +20049,9 @@ mountoliveccc.com CNAME .
 mouseflow.com CNAME .
 moutaihotel.cn CNAME .
 movable-ink-344.com CNAME .
-move-dram-film.xyz CNAME .
 moveaws.com CNAME .
 movexcasino.ca CNAME .
 movexm.com CNAME .
-movie875.shop CNAME .
 moz.com CNAME .
 mozzartcasino.org CNAME .
 mp-newmedia.com CNAME .
@@ -20463,7 +20096,6 @@ msedgewebview1.pro CNAME .
 msedgewebview2.pro CNAME .
 mselect.nl CNAME .
 msf.com CNAME .
-msfconfig.icu CNAME .
 msg.71.am CNAME .
 msg.email CNAME .
 msg.qy.net CNAME .
@@ -20475,7 +20107,6 @@ msgsndr.com CNAME .
 mslottery.com CNAME .
 msltzer.cn CNAME .
 mspy.com CNAME .
-mssoftwares.org CNAME .
 mstat.acestream.net CNAME .
 mstcs.info CNAME .
 msuto.com CNAME .
@@ -20501,7 +20132,6 @@ multilotto.com CNAME .
 multimar.com.iq CNAME .
 multimirror.io CNAME .
 multipharma.be CNAME .
-multisavcx.xyz CNAME .
 multiscreensite.com CNAME .
 multitrk.com CNAME .
 multiview.com CNAME .
@@ -20595,7 +20225,6 @@ myhillcountrygrass.com CNAME .
 myhug.cn CNAME .
 myi-learn.com CNAME .
 myipinfo.net CNAME .
-myissuereport.live CNAME .
 mykajabi.com CNAME .
 mylotto99.info CNAME .
 mylottoy.com CNAME .
@@ -20635,7 +20264,6 @@ mytraffic.io CNAME .
 mytunnel.org CNAME .
 myvibe.co CNAME .
 myvnc.com CNAME .
-mywwjj.xyz CNAME .
 myxasafe.space CNAME .
 myxavpn.com CNAME .
 myxavpn.online CNAME .
@@ -20657,7 +20285,6 @@ n-st.vip.com CNAME .
 n.rich CNAME .
 n1-casino.co CNAME .
 n1betiran.com CNAME .
-n1betscasino.com CNAME .
 n1casino.com CNAME .
 n1casino.gr CNAME .
 n1casino.info CNAME .
@@ -20768,7 +20395,6 @@ near-place.com CNAME .
 near.com CNAME .
 nearly.family CNAME .
 nearme.com CNAME .
-nearzero-drug.xyz CNAME .
 neat-url.com CNAME .
 neatspy.com CNAME .
 neattools.co CNAME .
@@ -20822,7 +20448,6 @@ nesinecasino532.com CNAME .
 nesinecasino533.com CNAME .
 net-ads.mk CNAME .
 net-myappcom.com CNAME .
-netadblock.com CNAME .
 netadclick.com CNAME .
 netbet.com CNAME .
 netcasinofreespins.com CNAME .
@@ -20858,7 +20483,6 @@ netinfocompany.bg CNAME .
 netlogin.com CNAME .
 netnanny.com CNAME .
 netnut.io CNAME .
-netplugs.net CNAME .
 netpoint-media.de CNAME .
 netrenewsub.com CNAME .
 netrenuevaes.com CNAME .
@@ -20866,7 +20490,6 @@ netreviews.com CNAME .
 netrk.net CNAME .
 netroutehub.space CNAME .
 netshelter.net CNAME .
-netshieldkit.com CNAME .
 netsprot.in CNAME .
 netsproto.in CNAME .
 nettcasino.com CNAME .
@@ -20885,7 +20508,6 @@ neural-atlas-code-flat.courses CNAME .
 neurensics.com CNAME .
 neurocyb.com CNAME .
 neversoftmain.net CNAME .
-new-androidapps.me CNAME .
 new-casino.games CNAME .
 new-lucky-star.com CNAME .
 new-safe.com CNAME .
@@ -20946,7 +20568,6 @@ nexatestwp.com CNAME .
 nexd.com CNAME .
 nexicom.net CNAME .
 nexstaradvertising.com CNAME .
-next-jazz-iron.xyz CNAME .
 nextbahis.app CNAME .
 nextbahis.blog CNAME .
 nextbahis.coupons CNAME .
@@ -20978,8 +20599,6 @@ nexttads.com CNAME .
 nexuscasinolounge.nl CNAME .
 nexuscasinopulse.com CNAME .
 nexushub.info CNAME .
-nexusqal.guru CNAME .
-nexusqal.homes CNAME .
 nexusqal.pro CNAME .
 nexusqal.site CNAME .
 nexvaro-informatica.click CNAME .
@@ -20987,7 +20606,6 @@ nexx360.io CNAME .
 nexxen.com CNAME .
 nfcube.com CNAME .
 nfp.casino CNAME .
-nfy.fyi CNAME .
 ngame.com CNAME .
 ngastatic.com CNAME .
 ngdance.fun CNAME .
@@ -21002,8 +20620,6 @@ ni03hfph.com CNAME .
 nic-support.site CNAME .
 nic.casino CNAME .
 nic.feedback CNAME .
-nice-aunt-milk.xyz CNAME .
-nice-poolback.xyz CNAME .
 nice-team.net CNAME .
 nicejob.co CNAME .
 nicejob.com CNAME .
@@ -21014,7 +20630,6 @@ nichibenren.or.jp CNAME .
 nickalper.com CNAME .
 nickart.ro CNAME .
 nickkpixx123.world CNAME .
-nickodds-none.xyz CNAME .
 nickylody124.life CNAME .
 nicovideo.jp CNAME .
 nicservice.org CNAME .
@@ -21031,7 +20646,6 @@ nift.me CNAME .
 nifty.com CNAME .
 nigerianembassycaracas.org CNAME .
 nigga.click CNAME .
-niggerdemon.in CNAME .
 nightcord.st CNAME .
 nighthawk.cloud CNAME .
 nighthawkascend.cloud CNAME .
@@ -21052,7 +20666,6 @@ nimpool.io CNAME .
 nine-casino-fr.biz CNAME .
 nine-casino2.com CNAME .
 nine-casinosfr.fr CNAME .
-nine-edge-was.xyz CNAME .
 ninecasino-cz.org CNAME .
 ninecasino-fr.info CNAME .
 ninecasino.com CNAME .
@@ -21112,7 +20725,6 @@ noaccountcasinoonline.com CNAME .
 noaccountcasinowin.com CNAME .
 noads.biz CNAME .
 nobid.io CNAME .
-nobleshadebu.pro CNAME .
 nobojug.blog CNAME .
 nobonuscasino.com CNAME .
 nodemetrics3379.com CNAME .
@@ -21196,7 +20808,6 @@ notabug.org CNAME .
 notaverage.media CNAME .
 note-forge6.com CNAME .
 notgamestop.casino CNAME .
-notice-655201.com CNAME .
 notice-payments.com CNAME .
 notice.uchome.manyou.com CNAME .
 noticeofpleadings.net CNAME .
@@ -21267,7 +20878,6 @@ npaw.com CNAME .
 npm.red CNAME .
 npo-data.nl CNAME .
 npxfghrfpp.com CNAME .
-nr-032789432.lol CNAME .
 nr4.me CNAME .
 nreach.io CNAME .
 nrgcasino.net CNAME .
@@ -21376,9 +20986,7 @@ oasis-active.com CNAME .
 oastify.com CNAME .
 oath.cloud CNAME .
 oath.com CNAME .
-obeylandchap.xyz CNAME .
 obeyter.com CNAME .
-obeyyellwool.xyz CNAME .
 obfuscator.io CNAME .
 obi4wan.com CNAME .
 obirah.com CNAME .
@@ -21429,11 +21037,9 @@ oferta1122738485522.xyz CNAME .
 oferta1758691.click CNAME .
 oferta194178214141.sbs CNAME .
 oferta2947xni28j.rest CNAME .
-oferta29lj0b6vw8v.site CNAME .
 oferta389212.click CNAME .
 oferta825791.click CNAME .
 oferta878861.click CNAME .
-oferta932193.lol CNAME .
 ofertaa4506203531652.cfd CNAME .
 offen.dev CNAME .
 offer-go.com CNAME .
@@ -21742,8 +21348,6 @@ opautoclicker.dev CNAME .
 opdhxe.com CNAME .
 open-adsyield.com CNAME .
 open-analytics.se CNAME .
-open-pact-fore.xyz CNAME .
-open-teem-test.xyz CNAME .
 open.convertkit-mail2.com CNAME .
 open.cx CNAME .
 open.mkt61.net CNAME .
@@ -21807,7 +21411,6 @@ opteo.com CNAME .
 optidigital.com CNAME .
 optimacasino.ca CNAME .
 optimalfusion.com CNAME .
-optimalinfos.com CNAME .
 optimisation.data.lloydsbankinggroup.com CNAME .
 optimise-it.de CNAME .
 optimise.net CNAME .
@@ -21849,7 +21452,6 @@ orbitvpn.dev CNAME .
 ordermetrics.com CNAME .
 ordertracking.com CNAME .
 oregonlottery.org CNAME .
-ores-font-form.xyz CNAME .
 orglli.com CNAME .
 oribi.io CNAME .
 orienttaxtile.com CNAME .
@@ -21866,7 +21468,6 @@ orthofyto.com CNAME .
 orthohealthfoundation.nl CNAME .
 orthokennis.nl CNAME .
 orus-casino.com CNAME .
-oryx-foryell.xyz CNAME .
 oryxgaming.com CNAME .
 os-update-server.com CNAME .
 os-update-server.org CNAME .
@@ -21882,7 +21483,6 @@ oscilloskope.com CNAME .
 oshicasinos.net CNAME .
 osiaffiliate.com CNAME .
 ositracker.com CNAME .
-oskeysync.com CNAME .
 osm.cylex-international.com CNAME .
 ostmarketing.com CNAME .
 osupdateservice.yunos.com CNAME .
@@ -21901,7 +21501,6 @@ ourcasinotime.xyz CNAME .
 ourlads.com CNAME .
 ourmagicwithin.com CNAME .
 oursmartmarketingtools.com CNAME .
-out-duct-till.xyz CNAME .
 outbidplacardshowman.com CNAME .
 outbrain.com CNAME .
 outbrain.net CNAME .
@@ -21917,7 +21516,6 @@ outspot.be CNAME .
 outspot.nl CNAME .
 ovegetaux.com CNAME .
 ovelin.com CNAME .
-over-clapmolt.xyz CNAME .
 overbridgenet.com CNAME .
 overheid.io CNAME .
 overtracking.com CNAME .
@@ -21935,7 +21533,6 @@ oxiapps.com CNAME .
 oxidbetkade.online CNAME .
 oxigentech.in CNAME .
 oxiidbet.com CNAME .
-oxtraff.com CNAME .
 oxygen.casino CNAME .
 oyaz.ir CNAME .
 oynacasinocanli.com CNAME .
@@ -21979,9 +21576,7 @@ pacificcrestforaging.com CNAME .
 packagingbee.co CNAME .
 packet-relay-engine.courses CNAME .
 packetforensics.com CNAME .
-packetget.com CNAME .
 packetmeridian.top CNAME .
-paczkanr7254.shop CNAME .
 pad-service.com CNAME .
 paddleapi.com CNAME .
 paddypower.com CNAME .
@@ -21994,9 +21589,7 @@ pafcasinos-fi.com CNAME .
 pafetik.com CNAME .
 pagbets.casino CNAME .
 page-stats.de CNAME .
-page-vest-lost.xyz CNAME .
 page.link CNAME .
-pagead2.googlesyndication.com CNAME .
 pagechoice.com CNAME .
 pagechoice.net CNAME .
 pagefly.io CNAME .
@@ -22025,7 +21618,6 @@ palacecasinoresort.com CNAME .
 palacecasinos.nl CNAME .
 palazzobetcasino.com CNAME .
 pallyy.com CNAME .
-palm-cartfind.xyz CNAME .
 palmsbetcasino.org CNAME .
 palmslotscasino.net CNAME .
 panachedenouveautes.fr CNAME .
@@ -22054,10 +21646,8 @@ panoramafirm.pl CNAME .
 panoramio.com CNAME .
 panteia.nl CNAME .
 panteoncasino.bet CNAME .
-pantfontmalt.xyz CNAME .
 pantheonsite.io CNAME .
 panviva.com CNAME .
-papa-graze-wart.xyz CNAME .
 paperrig.com CNAME .
 paqle.dk CNAME .
 paragon-data.de CNAME .
@@ -22082,9 +21672,6 @@ parsalip.bio CNAME .
 parsballl.com CNAME .
 parse.ly CNAME .
 parsely.com CNAME .
-part-doselawn.xyz CNAME .
-part-lame-door.xyz CNAME .
-part-tape-into.xyz CNAME .
 partner-ads.com CNAME .
 partner.bargaindomains.com CNAME .
 partner.everydays.de CNAME .
@@ -22154,7 +21741,6 @@ passkeyadd.com CNAME .
 passkeyconnect.com CNAME .
 passle.net CNAME .
 passport.lenovo.com CNAME .
-past-reefprin.xyz CNAME .
 pastefy.app CNAME .
 pastiadajalan.pro CNAME .
 pat.farvd.com CNAME .
@@ -22201,7 +21787,6 @@ pcanada-ebulletin.ca CNAME .
 pcapredict.com CNAME .
 pcf.tdscd.com CNAME .
 pcswap.org CNAME .
-pdf-bro.lat CNAME .
 pdfacro.com CNAME .
 pdfbama.com CNAME .
 pdfbamaa.com CNAME .
@@ -22213,7 +21798,6 @@ peachcity.si CNAME .
 pearllemonleads.com CNAME .
 pectationselea.info CNAME .
 pee.cn CNAME .
-peer-tend-urge.xyz CNAME .
 peer39.com CNAME .
 peerclick.com CNAME .
 peerius.com CNAME .
@@ -22283,7 +21867,6 @@ personifyhq.com CNAME .
 perspolis.pro CNAME .
 perstat.ru CNAME .
 pescanalitica.news CNAME .
-pestrear-lamp.xyz CNAME .
 petal-growth-platform.garden CNAME .
 petalprocessingplatform.garden CNAME .
 petalsearch.com CNAME .
@@ -22322,7 +21905,6 @@ phbusiness.net CNAME .
 phebi.ai CNAME .
 phemayameltahub.site CNAME .
 phish.report CNAME .
-phishing-domain.xyz CNAME .
 phloxofficial.com CNAME .
 phnx.click CNAME .
 phoeniciancasino.net CNAME .
@@ -22386,7 +21968,6 @@ pikachuplush.com CNAME .
 pikakasino.com CNAME .
 pikakasinot.com CNAME .
 pikebitcasino.com CNAME .
-pile-thinuse.xyz CNAME .
 pills-europe.com CNAME .
 pills.casino CNAME .
 pillsonlinebest2.com CNAME .
@@ -22437,7 +22018,6 @@ pincoden.casino CNAME .
 pincojjmm.casino CNAME .
 pincrux.com CNAME .
 pinduoduo.com CNAME .
-pine-bathbear.xyz CNAME .
 ping-admin.ru CNAME .
 ping-t.com CNAME .
 ping.pe CNAME .
@@ -22570,24 +22150,19 @@ pl-14982.click CNAME .
 pl-2dgif.sbs CNAME .
 pl-45566.top CNAME .
 pl-473935.sbs CNAME .
-pl-489689124.lol CNAME .
 pl-62885439.click CNAME .
 pl-635253846.click CNAME .
 pl-746373638.click CNAME .
 pl-77655.top CNAME .
 pl-831249.lol CNAME .
-pl-aibt8.sbs CNAME .
 pl-ofera674892180.cfd CNAME .
 pl-oferta2912190.click CNAME .
 pl-oferta37377382.sbs CNAME .
 pl-oferta57423598.shop CNAME .
-pl-oferta746812.cfd CNAME .
 pl-oferta784301099.surf CNAME .
 pl-oferta7845hf5f.shop CNAME .
-pl-oferta812281.lol CNAME .
 pl-oferta81811.sbs CNAME .
 pl-oferta921.top CNAME .
-pl-oferta9810.lol CNAME .
 pl-oferta981912111.sbs CNAME .
 pl-oferta983795.lol CNAME .
 pl-ogloszenia-firmowe-id-883823.click CNAME .
@@ -22619,7 +22194,6 @@ plainproxies.com CNAME .
 plainridgeparkcasino.com CNAME .
 plainstats.com CNAME .
 plakiplaki.casino CNAME .
-plan-druggrape.xyz CNAME .
 planet7casino.com CNAME .
 planetfreevpn.com CNAME .
 planetgaming.nl CNAME .
@@ -22720,11 +22294,9 @@ plinkocasino.se CNAME .
 plinkogamecasino.com CNAME .
 plista.com CNAME .
 plotx.io CNAME .
-pls3lfjffecr21xk.sbs CNAME .
 plsxfbd.info CNAME .
 plu.mx CNAME .
 pluckypocket.com CNAME .
-plug-halo-flip.xyz CNAME .
 plug.it CNAME .
 plugandpay.nl CNAME .
 plugify.co CNAME .
@@ -22749,15 +22321,11 @@ pnstat.com CNAME .
 pntsonlineapp.com CNAME .
 podcastshop.ir CNAME .
 podcastswaves.com CNAME .
-podhelp-peat.xyz CNAME .
-podlossrota.xyz CNAME .
 podobne-firmy.pl CNAME .
 podzone.net CNAME .
 podzone.org CNAME .
-poemtendriot.xyz CNAME .
 pofang.com CNAME .
 pofezaf.com CNAME .
-pogo-hunt-brisk.xyz CNAME .
 pointerpro.com CNAME .
 pointi.jp CNAME .
 pointinside.com CNAME .
@@ -22780,7 +22348,6 @@ pokersoftwarepal.com CNAME .
 pokerstars-casino-uk.org CNAME .
 pokerstars-casino.io CNAME .
 pokerstars.com CNAME .
-pokerstars.it CNAME .
 pokerstars.net CNAME .
 pokerstarscasino.com CNAME .
 pokerstarscasino.dk CNAME .
@@ -22808,7 +22375,6 @@ polldaddy.com CNAME .
 pollfish.com CNAME .
 pollforall.com CNAME .
 pollo.ai CNAME .
-pollsort-tick.xyz CNAME .
 pollster.pl CNAME .
 pollywoginabog.net CNAME .
 polycasino.com CNAME .
@@ -22901,13 +22467,11 @@ poxupload2.biz CNAME .
 poyang.com CNAME .
 pp-poker.eu CNAME .
 pp.ua CNAME .
-pp5erm.sbs CNAME .
 ppcbidmax.com CNAME .
 ppcprotect.com CNAME .
 ppincome.net CNAME .
 ppl-acces-survey.com CNAME .
 ppl-logacces.com CNAME .
-ppl-survey-admin.com CNAME .
 ppneus.com CNAME .
 ppt.cc CNAME .
 pr-universe.com CNAME .
@@ -22963,7 +22527,6 @@ prejointl.info CNAME .
 premegalithic.com CNAME .
 premierepulse.top CNAME .
 premiumads.net CNAME .
-premiummemoy.autos CNAME .
 premiumplus.io CNAME .
 prephe.ro CNAME .
 prequel.tv CNAME .
@@ -22981,7 +22544,6 @@ prestigecasinohub.com CNAME .
 prestigecasinovip.com CNAME .
 prettylinks.com CNAME .
 previewship.net CNAME .
-prey-body-word.xyz CNAME .
 prf.hn CNAME .
 pricespider.com CNAME .
 priem-pixart.life CNAME .
@@ -23036,7 +22598,6 @@ primesurveys.com CNAME .
 primewidgets.com CNAME .
 primis.tech CNAME .
 primo.design CNAME .
-princesscasino.io CNAME .
 princesscasino.ro CNAME .
 printfriendly.com CNAME .
 printful.com CNAME .
@@ -23075,7 +22636,6 @@ prlvat-klient.com CNAME .
 prmarketing.jp CNAME .
 prmtracking.com CNAME .
 pro100.casino CNAME .
-proaddons.net CNAME .
 probit.com CNAME .
 probuildix.click CNAME .
 proca.app CNAME .
@@ -23131,7 +22691,6 @@ propeller-tracking.com CNAME .
 propellerads.com CNAME .
 propertiesofcayman.com CNAME .
 propertymgmtsoft.com CNAME .
-propgrab-bird.xyz CNAME .
 proprofs.com CNAME .
 propush.me CNAME .
 proranktracker.com CNAME .
@@ -23190,7 +22749,6 @@ prplads.com CNAME .
 prwave.info CNAME .
 prxyhub.click CNAME .
 pryzmads.com CNAME .
-psasnjshotel-rooms651.com CNAME .
 psd.markets CNAME .
 pseint.net CNAME .
 psgnewsiran.com CNAME .
@@ -23304,7 +22862,6 @@ purpleads.io CNAME .
 purplebrain.com CNAME .
 purradspple.com CNAME .
 push-content.springernature.io CNAME .
-push-seeksash.xyz CNAME .
 push.air-matters.com CNAME .
 pushadvert.bid CNAME .
 pushalert.co CNAME .
@@ -23363,7 +22920,6 @@ q105.casino CNAME .
 q12.casino CNAME .
 q20.casino CNAME .
 q35.casino CNAME .
-q3t7wc.lat CNAME .
 q40.casino CNAME .
 q45.casino CNAME .
 q4app.com CNAME .
@@ -23497,8 +23053,6 @@ quickbookstechcare.com CNAME .
 quickcasino.se CNAME .
 quickcep.com CNAME .
 quickconnect.to CNAME .
-quickext.co CNAME .
-quickext.org CNAME .
 quickpeoplelookup.com CNAME .
 quickqxc.com CNAME .
 quickshot-widgets.net CNAME .
@@ -23541,7 +23095,6 @@ r08h.xyz CNAME .
 r1-t.trackedlink.net CNAME .
 r4.res.office365.com CNAME .
 r6565.casino CNAME .
-r6m2zk.lat CNAME .
 r7-casino-nns.buzz CNAME .
 r7-casino3946.com CNAME .
 r7-casino402.com CNAME .
@@ -23591,13 +23144,11 @@ rampanel.com CNAME .
 rampmetrics.com CNAME .
 ramzfile.com CNAME .
 randybaldwin.com CNAME .
-rank-idea-mass.xyz CNAME .
 rankactive.com CNAME .
 rankinggenie.com CNAME .
 rankthaicasino.com CNAME .
 rankur.com CNAME .
 ransomwaretracker.abuse.ch CNAME .
-rant-heel-perk.xyz CNAME .
 rantandrave.com CNAME .
 rantcasino.com CNAME .
 rantcasino.io CNAME .
@@ -23634,7 +23185,6 @@ rapidwincasino.com CNAME .
 rapleaf.com CNAME .
 raptor-casino.org CNAME .
 raptor-wins-casino.com CNAME .
-rarewingvm.blog CNAME .
 rasgthaufd.com CNAME .
 rasmfani.xyz CNAME .
 raspcs.pl CNAME .
@@ -23677,7 +23227,6 @@ rbxtrk.com CNAME .
 rbywg.com CNAME .
 rc2waycm-atl.netmng.com CNAME .
 rc5.casino CNAME .
-rcacademy.at CNAME .
 rcl.ink CNAME .
 rcsmetrics.it CNAME .
 rd.kuaigames.com CNAME .
@@ -23729,7 +23278,6 @@ rec.smartlook.com CNAME .
 recadastramentobia.com CNAME .
 recall.it CNAME .
 recallnine.info CNAME .
-recapcha.space CNAME .
 recapture.io CNAME .
 recart.com CNAME .
 receipts.canarymail.io CNAME .
@@ -23884,7 +23432,6 @@ reputon.com CNAME .
 reqtube.com CNAME .
 requestmetrics.com CNAME .
 rereddit.com CNAME .
-res-odx.op-mobile.opera.com CNAME .
 research-survey.com CNAME .
 research.net CNAME .
 researchintel.com CNAME .
@@ -23895,7 +23442,6 @@ reservphotoinstay.one CNAME .
 reservphotoinstaynow.shop CNAME .
 resetdigital.co CNAME .
 resgatlivelx.click CNAME .
-resident.beauty CNAME .
 resilio.com CNAME .
 reso.no CNAME .
 resolver.gslb.mi-idc.com CNAME .
@@ -24003,7 +23549,6 @@ richaudience.com CNAME .
 richcall.io CNAME .
 richinfo.co CNAME .
 richmetrics.com CNAME .
-richoverfold.xyz CNAME .
 richpanel.com CNAME .
 richpopup.com CNAME .
 richrelevance.com CNAME .
@@ -24014,10 +23559,8 @@ richyfishcasino.com CNAME .
 ricky-casinos.com CNAME .
 rickycasino.com CNAME .
 riddle.com CNAME .
-rideloreomit.xyz CNAME .
 ridercasino.com CNAME .
 rierra-ads.com CNAME .
-riftfacetill.xyz CNAME .
 rigacdn.in CNAME .
 rigel1poker.com CNAME .
 right-end.com CNAME .
@@ -24087,7 +23630,6 @@ rnssddnegk.com CNAME .
 ro-verify.net CNAME .
 roadster.com CNAME .
 roadster24.com CNAME .
-robe-denyharm.xyz CNAME .
 robertbridgeman.com CNAME .
 robin.markets CNAME .
 robinhq.com CNAME .
@@ -24097,9 +23639,6 @@ robiox.top CNAME .
 roblotx.im CNAME .
 roblox-com.com CNAME .
 roblox-play.ru CNAME .
-roblox-xeno.info CNAME .
-roblox-xeno.net CNAME .
-roblox.com.am CNAME .
 roblox.com.bi CNAME .
 roblox.com.ee CNAME .
 roblox.com.ge CNAME .
@@ -24156,7 +23695,6 @@ rollbux.top CNAME .
 rollerads.com CNAME .
 rollettocasino.net CNAME .
 rollexbet.com CNAME .
-rollgropeamid.xyz CNAME .
 rollinghillscasino.com CNAME .
 rollino-casino.se CNAME .
 rollinocasinos.org CNAME .
@@ -24173,29 +23711,22 @@ ronnybush.net CNAME .
 roo-casino.org CNAME .
 roobetcasinos.fi CNAME .
 roolicasino.io CNAME .
-root-slot-quit.xyz CNAME .
 root-system-irrigation.garden CNAME .
 rootfarmapp.net CNAME .
 rootsystemsbd.com CNAME .
 roparun.nl CNAME .
 roparunloterij.nl CNAME .
-rope-goalalso.xyz CNAME .
-ropestem-math.xyz CNAME .
 roposo.com CNAME .
 roq.ad CNAME .
-rose-wallidea.xyz CNAME .
-rosecodeknew.xyz CNAME .
 rosehearingaid.com CNAME .
 rospromtest.ru CNAME .
 rotabanner.kulichki.net CNAME .
 rotarb.bid CNAME .
 rotate.ymtracking.com CNAME .
 rotator.tradetracker.net CNAME .
-rotero.vc CNAME .
 roulettespot.nl CNAME .
 roulettino-casino.net CNAME .
 roulettino-casino.org CNAME .
-rout-draw-roll.xyz CNAME .
 routekeeper.space CNAME .
 router.bittorrent.com CNAME .
 routeraiders.com CNAME .
@@ -24295,11 +23826,9 @@ rudderstack.com CNAME .
 rudderstack.shiftbase.com CNAME .
 rudraconsultancy.in CNAME .
 rudy.adsnative.com CNAME .
-rugsrudeculm.xyz CNAME .
 ruigrok.nl CNAME .
 ruigroknetpanel.nl CNAME .
 rukeyou.com CNAME .
-rule-bead-dust.xyz CNAME .
 ruleranalytics.com CNAME .
 rullatcasino-fi.com CNAME .
 rullatcasinos.fi CNAME .
@@ -24318,7 +23847,6 @@ ruralrouterust.com CNAME .
 rusmedserv.com CNAME .
 russianbrides.com CNAME .
 russianhackers.online CNAME .
-russianhckers.online CNAME .
 russkiecasino.ru CNAME .
 rust-play.ru CNAME .
 rustichelli.com CNAME .
@@ -24350,7 +23878,6 @@ s.flocdn.com CNAME .
 s.id CNAME .
 s.jlminte.com CNAME .
 s.on-device.com CNAME .
-s.pinimg.com CNAME .
 s.skimresources.com CNAME .
 s.swiftypecdn.com CNAME .
 s.w.org CNAME .
@@ -24366,7 +23893,6 @@ s2s.singular.net CNAME .
 s2stracking.com CNAME .
 s30.casino CNAME .
 s31242.pcdn.co CNAME .
-s3o65awrf56.net CNAME .
 s40.casino CNAME .
 s4m.io CNAME .
 s4w.in CNAME .
@@ -24423,8 +23949,6 @@ safevault-hub.info CNAME .
 safrica.com CNAME .
 sahar2ray.online CNAME .
 sahusuzuki.in CNAME .
-said-site-luck.xyz CNAME .
-sail-sham-step.xyz CNAME .
 sail-track.com CNAME .
 sailthru.com CNAME .
 saintbonnetdemure.com CNAME .
@@ -24457,9 +23981,7 @@ salmonads.com CNAME .
 salon-sauer.de CNAME .
 sam4m.com CNAME .
 samba.tv CNAME .
-same-theeaft.xyz CNAME .
 same.eastmoney.com CNAME .
-samecobmill.xyz CNAME .
 samefacts.com CNAME .
 samenzorgenvoortwente.nl CNAME .
 samratitinstitute.com CNAME .
@@ -24473,12 +23995,10 @@ san.aq CNAME .
 sanalytics.disneyplus.com CNAME .
 sanalytics.spreadshirt.com CNAME .
 sanalytics.tbs.com CNAME .
-sand-lure-noon.xyz CNAME .
 sandiacasino.com CNAME .
 sandraschouten.com CNAME .
 sandsiv.com CNAME .
 sandwichconscientiousroadside.com CNAME .
-sandystudiogh.blog CNAME .
 sanjeshravani.shop CNAME .
 sanjeshvaandazegiri.shop CNAME .
 sanmarincasinobonuses.com CNAME .
@@ -24534,7 +24054,6 @@ sc-static.net CNAME .
 sc.shayugg.com CNAME .
 scaletrk.com CNAME .
 scamadviser.com CNAME .
-scan-coolhock.xyz CNAME .
 scan.coverity.com CNAME .
 scanbot.io CNAME .
 scanbot.me CNAME .
@@ -24702,9 +24221,6 @@ seeding-alliance.de CNAME .
 seedtag.com CNAME .
 seeger-seeger.li CNAME .
 seekdroid.com CNAME .
-seemeet-vine.xyz CNAME .
-seendone-clef.xyz CNAME .
-seenlamegnat.xyz CNAME .
 seenthis.co CNAME .
 seersco.com CNAME .
 seesaa.jp CNAME .
@@ -24735,7 +24251,6 @@ selector-casino.net CNAME .
 selfishsnake.com CNAME .
 sell1.etlong.com CNAME .
 sellerlabs.com CNAME .
-sellnotlife.xyz CNAME .
 sellpoint.com CNAME .
 semasio.com CNAME .
 semasio.net CNAME .
@@ -24743,7 +24258,6 @@ sematext.com CNAME .
 semencepourlavie.org CNAME .
 semetricmedia.com CNAME .
 semoea.nl CNAME .
-semprecardsecure.com CNAME .
 semyappdata.info CNAME .
 sena.casino CNAME .
 send-preobi.life CNAME .
@@ -24793,6 +24307,7 @@ sentry.bazo.dk CNAME .
 sentry.bunq.com CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.invoicing.co CNAME .
+sentry.io CNAME .
 sentry.justwatch.com CNAME .
 sentry.matrix.org CNAME .
 sentry.odysee.tv CNAME .
@@ -24833,7 +24348,6 @@ servenobids.com CNAME .
 serveousercontent.com CNAME .
 servera.info CNAME .
 serverbid.com CNAME .
-servermsn.life CNAME .
 servernotification.events CNAME .
 servetraffic.com CNAME .
 servgate.me CNAME .
@@ -24895,7 +24409,6 @@ sh-stt.com CNAME .
 sh0.casino CNAME .
 sh7bwn8trk.com CNAME .
 shadowpixelshaven.com CNAME .
-shaggulf-sold.xyz CNAME .
 shahcement.com CNAME .
 shakebugs.com CNAME .
 shakegroup.nl CNAME .
@@ -24955,7 +24468,6 @@ shenyun.com CNAME .
 shenyun.org CNAME .
 shenyunperformingarts.org CNAME .
 sheorderedwhat.com CNAME .
-shepalemess.xyz CNAME .
 shershvpn.space CNAME .
 shgesheng.com CNAME .
 shibeiou.com CNAME .
@@ -25053,13 +24565,11 @@ sigaribetkade.com CNAME .
 sighash.info CNAME .
 signagewidgets.net CNAME .
 signalfrontier.top CNAME .
-signin-nywer.icu CNAME .
 signoz.io CNAME .
 signupgenius.com CNAME .
 sigverify.online CNAME .
 sijoitusrahastot.org CNAME .
 silashield.space CNAME .
-sill-flog-aunt.xyz CNAME .
 silv.app CNAME .
 silvercasinocentral.com CNAME .
 silvercasinoexpress.com CNAME .
@@ -25080,7 +24590,6 @@ silverpop.com CNAME .
 silverpush.co CNAME .
 silverpush.com CNAME .
 silverreefcasino.com CNAME .
-silverrockay.pro CNAME .
 silversandscasino.com CNAME .
 silvertoncasino.com CNAME .
 simanalytics.nl CNAME .
@@ -25131,7 +24640,6 @@ sisal.it CNAME .
 sisense.com CNAME .
 sissanovecole.com CNAME .
 sistema-seguro.co CNAME .
-sistemasyusa.icu CNAME .
 site-asli-bedon-filter-1xbet.com CNAME .
 site-enfejar-ba-zarib-bala.com CNAME .
 site-enfejar-hazarat.com CNAME .
@@ -25190,7 +24698,6 @@ skarstats.nl CNAME .
 skaze.com CNAME .
 skcrtxr.com CNAME .
 skeeping.com CNAME .
-skewsage-loft.xyz CNAME .
 skimlinks.com CNAME .
 skimresources.com CNAME .
 skintrack.live CNAME .
@@ -25235,8 +24742,6 @@ skyvegas-casino.org CNAME .
 skyword.com CNAME .
 skyyads.ru CNAME .
 sl3.casino CNAME .
-slabride-herd.xyz CNAME .
-slamlacetube.xyz CNAME .
 slanketips-online.com CNAME .
 slashdot.org CNAME .
 slayingbugeyes.com CNAME .
@@ -25248,13 +24753,10 @@ slick.ly CNAME .
 slickdeals.net CNAME .
 slickstream.com CNAME .
 slideruleanalytics.com CNAME .
-slimnice-brow.xyz CNAME .
-slimsidehero.xyz CNAME .
 slingo.com CNAME .
 slingooriginals.com CNAME .
 slingospiel.de CNAME .
 slogitracking.com CNAME .
-slot-maul-card.xyz CNAME .
 slot077.casino CNAME .
 slot2025.casino CNAME .
 slot2301.casino CNAME .
@@ -25349,8 +24851,6 @@ smartdnsproxy.com CNAME .
 smarterbidder.com CNAME .
 smartertrack.com CNAME .
 smarteucookiebanner.upsell-apps.com CNAME .
-smartext.co CNAME .
-smartext.net CNAME .
 smartlook.cloud CNAME .
 smartlook.com CNAME .
 smartly.io CNAME .
@@ -25367,7 +24867,6 @@ smartr.biz CNAME .
 smartredirect.de CNAME .
 smartstream.tv CNAME .
 smartstreamingott.com CNAME .
-smartsummitlo.pro CNAME .
 smartsupp.com CNAME .
 smartsuppchat.com CNAME .
 smartsurvey.io CNAME .
@@ -25400,8 +24899,6 @@ smsechodata.cc CNAME .
 smsmarketingsolutions.org CNAME .
 smtaxconsultant.com CNAME .
 smtrk.net CNAME .
-smug-graze-omit.xyz CNAME .
-smug-lend-gray.xyz CNAME .
 smule.com CNAME .
 snabbarecasino.net CNAME .
 snafrique.com CNAME .
@@ -25496,7 +24993,6 @@ softwarevault.com CNAME .
 sohamohammed.info CNAME .
 sohantraders.com CNAME .
 sohf.nl CNAME .
-soilleafmain.xyz CNAME .
 soinfosystem.com CNAME .
 sojern.com CNAME .
 sok.casino CNAME .
@@ -25520,7 +25016,6 @@ solarcasinoworld.com CNAME .
 solartrackingsystem.net CNAME .
 solcasino.es CNAME .
 solcasino.io CNAME .
-sole-cederole.xyz CNAME .
 solidcasinocentral.nl CNAME .
 solidcasinodesk.nl CNAME .
 solidcasinolab.nl CNAME .
@@ -25529,7 +25024,6 @@ solidlinkpro.info CNAME .
 solonlinecasino.de CNAME .
 soloway.ru CNAME .
 solulu.vip CNAME .
-solution-analytics.com CNAME .
 solution.coupons CNAME .
 solutionfun.info CNAME .
 solverde-casino-online.com CNAME .
@@ -25545,14 +25039,12 @@ somplo.com CNAME .
 somus.app CNAME .
 sonet-id37295014729.shop CNAME .
 songbooq.com CNAME .
-songsunk-view.xyz CNAME .
 sonicmenusprices.com CNAME .
 sonicsads.com CNAME .
 sonnenbrillenspot.de CNAME .
 sonobi.com CNAME .
 soom.la CNAME .
 soomla.com CNAME .
-soonmuff-cob.xyz CNAME .
 sooqr.com CNAME .
 soporte-aclaracion.xyz CNAME .
 sor.bz CNAME .
@@ -25563,7 +25055,6 @@ soulapp.cn CNAME .
 soundestlink.com CNAME .
 sourcepoint.com CNAME .
 sourcepoint.jezebel.com CNAME .
-souscription-prim.com CNAME .
 south-dakota-casinos.com CNAME .
 southafricancasinobonuses.com CNAME .
 southcarolinacounselor.com CNAME .
@@ -25767,7 +25258,6 @@ spreedly.com CNAME .
 sprig.com CNAME .
 springel.nl CNAME .
 springernature.io CNAME .
-springnetpm.pro CNAME .
 springserve.com CNAME .
 sprinklecontent.com CNAME .
 sprinklr.com CNAME .
@@ -25930,7 +25420,6 @@ stathat.com CNAME .
 static-addtoany.com CNAME .
 static-dscn.net CNAME .
 static-eu.payments-amazon.com CNAME .
-static.criteo.net CNAME .
 static.flv.uuzuonline.com CNAME .
 static.g.ppstream.com CNAME .
 static.ichehome.com CNAME .
@@ -25997,7 +25486,6 @@ stats.foodwatch.org CNAME .
 stats.forensic-architecture.org CNAME .
 stats.framasoft.org CNAME .
 stats.freedom.nl CNAME .
-stats.g.doubleclick.net CNAME .
 stats.gouv.mc CNAME .
 stats.ideanote.io CNAME .
 stats.ivpn.net CNAME .
@@ -26055,7 +25543,6 @@ steamcommumminmty.cam CNAME .
 steamcommunity-workshopdesignerbalance.shop CNAME .
 steamcommunityio.ink CNAME .
 steamcomunnmity.com CNAME .
-steamncomnnunity.ru CNAME .
 steamncomnumity.ru CNAME .
 steamtools.cc CNAME .
 steamtools.pro CNAME .
@@ -26082,7 +25569,6 @@ stellarcasinopro.com CNAME .
 stellarcasinospace.com CNAME .
 stellarcasinostation.com CNAME .
 stellarcasinostudio.com CNAME .
-stem-doseleft.xyz CNAME .
 stempunt.nu CNAME .
 stephenpaulraj.com CNAME .
 ster.nl CNAME .
@@ -26104,10 +25590,8 @@ stm.suitsupply.com CNAME .
 stn88.com CNAME .
 stockdesktopwidget.com CNAME .
 stonewerksstatuary.com CNAME .
-stop-lathtrap.xyz CNAME .
 stopads-now.com CNAME .
 stope40.org CNAME .
-stopplay-rich.xyz CNAME .
 storage.com CNAME .
 store.axelspringer.es CNAME .
 storelocatorwidgets.com CNAME .
@@ -26122,7 +25606,6 @@ storylane.io CNAME .
 strack.shaw.ca CNAME .
 strainted.com CNAME .
 straliaenollma.xyz CNAME .
-stratagemzw.com CNAME .
 stratanalytics.com CNAME .
 strategyanalytics.com CNAME .
 strato-editor-widget.com CNAME .
@@ -26155,9 +25638,7 @@ stroomvoorbedrijven.com CNAME .
 strossle.com CNAME .
 strutbranding.com CNAME .
 sttlink.com CNAME .
-stubclue-hold.xyz CNAME .
 studentdiscount.online CNAME .
-studentloansyyyy.com CNAME .
 students-portal.com CNAME .
 studiads.ru CNAME .
 studio-gong.de CNAME .
@@ -26194,14 +25675,12 @@ subscribers.com CNAME .
 subswin.com CNAME .
 subterranean-mineral-map.garden CNAME .
 subusiness.org CNAME .
-such-sitejoke.xyz CNAME .
 sucksgarde.info CNAME .
 sudarshanimport.com CNAME .
 sugar.zhihu.com CNAME .
 sugarcasino.com CNAME .
 suhasforvirginia.com CNAME .
 suisseigb.com CNAME .
-suitgive-jerk.xyz CNAME .
 sukigyik.xyz CNAME .
 sultankito.com CNAME .
 sultankito.net CNAME .
@@ -26316,14 +25795,13 @@ supremecasinox.com CNAME .
 supremewincasino.com CNAME .
 suprnation.com CNAME .
 surainforseg.com CNAME .
-surf-life-sank.xyz CNAME .
 surfly.com CNAME .
 surfmerchants.com CNAME .
 surfmerchants.net CNAME .
 surfplezier.nl CNAME .
+surfsharkpress.com CNAME .
 survalyzer.com CNAME .
 survalyzer.swiss CNAME .
-survey-ppl-acces.com CNAME .
 survey-ppl-log.com CNAME .
 survey-smiles.com CNAME .
 survey-xact.dk CNAME .
@@ -26382,11 +25860,7 @@ svtrd.com CNAME .
 sw.run CNAME .
 swa.asnbank.nl CNAME .
 swaga.casino CNAME .
-swanbitcoinguideline.live CNAME .
-swanrecovery.com CNAME .
 swap-byreal.com CNAME .
-swaycladstop.xyz CNAME .
-swayoralnear.xyz CNAME .
 swedencasino.com CNAME .
 swedishcasinobonuses.com CNAME .
 sweepnext.com CNAME .
@@ -26464,7 +25938,6 @@ system-analytics-pro-guide.courses CNAME .
 system1.com CNAME .
 systemads.net CNAME .
 systemcompass.top CNAME .
-sysupdate.online CNAME .
 syte.ai CNAME .
 syteapi.com CNAME .
 sytech-consultants.com CNAME .
@@ -26522,7 +25995,6 @@ taboolanews.com CNAME .
 taboolasyndication.com CNAME .
 tabtools.com CNAME .
 tabtools.net CNAME .
-tabtools.org CNAME .
 tabun.info CNAME .
 tacticrealtime.com CNAME .
 tad.suning.com CNAME .
@@ -26554,7 +26026,6 @@ tagmanager.becop.nl CNAME .
 tagmanager.top CNAME .
 tagrpd.de CNAME .
 tags-eu.tiqcdn.com CNAME .
-tags.creativecdn.com CNAME .
 tags.nationwide.com CNAME .
 tagsrvcs.com CNAME .
 tahgigbazargan.xyz CNAME .
@@ -26585,15 +26056,12 @@ talkjs.com CNAME .
 talksportcasino.net CNAME .
 tallyfy.com CNAME .
 talview.com CNAME .
-tame-damp-nail.xyz CNAME .
 tamedia.click CNAME .
 tamoco.com CNAME .
 tampabayspin.com CNAME .
-tampareroofing.com CNAME .
 tanamrejeki.info CNAME .
 tanasobmafhumi.xyz CNAME .
 tandfonline.com CNAME .
-tang-sail-and.xyz CNAME .
 tang36.com CNAME .
 tangentwaves.com CNAME .
 tangoanalytics.com CNAME .
@@ -26641,7 +26109,6 @@ tarkioweb.com CNAME .
 tarrobads.com CNAME .
 tarteaucitron.io CNAME .
 tas-mk.toboads.com CNAME .
-tashirpizza.su CNAME .
 tasisathosseini.shop CNAME .
 taskanalytics.com CNAME .
 tasreporting.app CNAME .
@@ -26762,23 +26229,18 @@ tencableplug.com CNAME .
 tencent.com CNAME .
 tend.io CNAME .
 tendanceenvogue.fr CNAME .
-tendnone-heel.xyz CNAME .
 tenis-team-km.com CNAME .
 tenjin.com CNAME .
 tenobetscasinouk.com CNAME .
-tenscub-goat.xyz CNAME .
 tensor-trade.net CNAME .
 tenxads.com CNAME .
 tera-home.com CNAME .
-termgruffpost.xyz CNAME .
 terminus.com CNAME .
 terminusplatform.com CNAME .
 termly.io CNAME .
 termsfeed.com CNAME .
-tern-beck-chop.xyz CNAME .
 ternair.com CNAME .
 ternairsoftware.com CNAME .
-ternlaiddram.xyz CNAME .
 terobra.pt CNAME .
 terracasinoflow.nl CNAME .
 terracasinoplatform.nl CNAME .
@@ -26921,7 +26383,6 @@ thinkingdata.io CNAME .
 thinkingdata.jp CNAME .
 thinkingdata.kr CNAME .
 thinkyeah.com CNAME .
-this-maimreef.xyz CNAME .
 thisgreencolumn.com CNAME .
 thisisafalsepositive.st CNAME .
 thisisdax.com CNAME .
@@ -26970,10 +26431,8 @@ tiktok.com CNAME .
 tiktokcreatorbadges.com CNAME .
 tiktokshopvip.com CNAME .
 tilbudmaskin.no CNAME .
-tile-mythwake.xyz CNAME .
 tiligancollection.com CNAME .
 tilottomacollection.com CNAME .
-tilt-wear-weak.xyz CNAME .
 timdovs.com CNAME .
 time2play.com CNAME .
 timeappmarketing.com CNAME .
@@ -27008,7 +26467,6 @@ tiptorro.de CNAME .
 tipwin.com CNAME .
 tipwin.de CNAME .
 tipwin.dk CNAME .
-tire-moat-shin.xyz CNAME .
 titan-casino.org CNAME .
 titan.com CNAME .
 titanads2.com CNAME .
@@ -27144,7 +26602,6 @@ tophat.com CNAME .
 toplinkjes.com CNAME .
 toplist.cz CNAME .
 topnewcasino.win CNAME .
-topniemannpickshop.cc CNAME .
 topnoaccountcasinos.com CNAME .
 topola.com CNAME .
 toponadss.com CNAME .
@@ -27161,8 +26618,6 @@ toptracker.ru CNAME .
 topup-diamonds.com CNAME .
 topwagerz.casino CNAME .
 topwidgets.com CNAME .
-torn-beatduct.xyz CNAME .
-torn-midgegrim.xyz CNAME .
 tortugacasino.com CNAME .
 tortugas-casino.com CNAME .
 total-casino.eu CNAME .
@@ -27347,7 +26802,6 @@ trendmicro.com CNAME .
 trengo.com CNAME .
 trengo.eu CNAME .
 tresensa.com CNAME .
-trezor.bid CNAME .
 trezor.my CNAME .
 trezor.stream CNAME .
 trezors-suites.com CNAME .
@@ -27362,7 +26816,6 @@ trickzcasino.no CNAME .
 triconsult.at CNAME .
 triconsult.be CNAME .
 tridentecasino.com CNAME .
-triflackcom.com CNAME .
 trillbit.com CNAME .
 trillonario.com CNAME .
 trimnt.com CNAME .
@@ -27433,7 +26886,6 @@ true-fortune-casino2.com CNAME .
 true-fortune-casino3.com CNAME .
 true-fortune-casino4.com CNAME .
 true-fortunecasino.uk CNAME .
-true-gategrin.xyz CNAME .
 truebluecasinos.org CNAME .
 truecaller.com CNAME .
 truecasino550.com CNAME .
@@ -27462,7 +26914,6 @@ truefortune-casino.uk CNAME .
 truefortunecasino-bonus.com CNAME .
 truefortunecasino-freespins.com CNAME .
 truefortunecasinos.uk CNAME .
-trueinggrik.com CNAME .
 trueinsight.nl CNAME .
 trueluck-casinos.com CNAME .
 trueluck-casinos.net CNAME .
@@ -27518,17 +26969,14 @@ ttelectronics.com CNAME .
 ttlowe.com CNAME .
 ttpsdk.info CNAME .
 ttrk.io CNAME .
-tubanruralportaleswebsgt.click CNAME .
 tubecorporate.com CNAME .
 tubia.com CNAME .
 tubit.com CNAME .
 tucasinobet.com CNAME .
 tucasinoencasa.com CNAME .
 tucasinovip.com CNAME .
-tuck-hoaxwade.xyz CNAME .
 tucows.com CNAME .
 tucsongrs.org CNAME .
-tue-orange-01.cfd CNAME .
 tuf.casino CNAME .
 tui1999.com CNAME .
 tuia.cn CNAME .
@@ -27554,7 +27002,6 @@ turkeybahis.app CNAME .
 turkeybahis.com CNAME .
 turn.com CNAME .
 turnip.cdn.turner.com CNAME .
-turniron-mound.xyz CNAME .
 turnkeyaiagents.com CNAME .
 turnto.com CNAME .
 turtlecreekcasino.com CNAME .
@@ -27656,9 +27103,6 @@ ufavalkplus.com CNAME .
 ufawin999.casino CNAME .
 ufo777.casino CNAME .
 ugdtimg.com CNAME .
-ugly-arcs-lyre.xyz CNAME .
-ugly-oursold.xyz CNAME .
-uglyshop-mare.xyz CNAME .
 ugvip.com CNAME .
 ui-avatars.com CNAME .
 ui10.casino CNAME .
@@ -27792,7 +27236,6 @@ updt-ms-srv.top CNAME .
 uplandcapture.com CNAME .
 uplandsoftware.com CNAME .
 uplift-platform.com CNAME .
-uploadloop.com CNAME .
 uplynk.com CNAME .
 upoint.id CNAME .
 uppromote.com CNAME .
@@ -27919,7 +27362,6 @@ usrpubtrk.com CNAME .
 usu-digitalconsulting.com CNAME .
 usual-pixx12.digital CNAME .
 uti.cool CNAME .
-utilisateur-prim.com CNAME .
 utkwdke.com CNAME .
 utmstat.com CNAME .
 utrace.de CNAME .
@@ -28097,13 +27539,10 @@ vendiro.nl CNAME .
 venixfit.com CNAME .
 venntel.com CNAME .
 venpath.net CNAME .
-vent-live-crab.xyz CNAME .
 ventaslll.com CNAME .
 venus90bet.com CNAME .
 veradebever.nl CNAME .
-verb-fowl-old.xyz CNAME .
 verbeterthuis.nl CNAME .
-verbsireblew.xyz CNAME .
 verde-casino-spielen.com CNAME .
 verdecasino.com CNAME .
 verdecasino.hu CNAME .
@@ -28243,7 +27682,6 @@ vip365.app CNAME .
 vipads.cn CNAME .
 vipbahis.cash CNAME .
 vipcasinobet77.com CNAME .
-vipcasinohub.info CNAME .
 vipcasinojackpot.com CNAME .
 viperrow.com CNAME .
 viphive.casino CNAME .
@@ -28314,7 +27752,6 @@ vita-energetica.nl CNAME .
 vitaepro.nl CNAME .
 vitakruid.nl CNAME .
 vital-info.com CNAME .
-vitally-eu.io CNAME .
 vitals.app CNAME .
 vitals.co CNAME .
 vitals.vercel-insights.com CNAME .
@@ -28390,7 +27827,6 @@ voisaretired.online CNAME .
 volacasino76.com CNAME .
 volatilesour.store CNAME .
 volnacasino-kz.com CNAME .
-voltagec2.tech CNAME .
 voltejeasteis.click CNAME .
 voltix-net.biz CNAME .
 voltix-net.com CNAME .
@@ -28475,7 +27911,6 @@ vwa.la CNAME .
 vwdservices.com CNAME .
 vwo.com CNAME .
 vwr.casino CNAME .
-vwww-roblox.co CNAME .
 vxcash.net CNAME .
 w.soundcloud.com CNAME .
 w0wtrackex.com CNAME .
@@ -28487,13 +27922,9 @@ w3-live.com CNAME .
 w310.casino CNAME .
 w3counter.com CNAME .
 w3spaces.com CNAME .
-w5q9lv.lat CNAME .
 w732.zorgdirect.nl CNAME .
 wa-connect.eu CNAME .
-wa-connect.net CNAME .
-wa-device.com CNAME .
 wa-invite.com CNAME .
-wa-meeting.com CNAME .
 wadesk.io CNAME .
 wagawin.com CNAME .
 wagtrackmailing.com CNAME .
@@ -28559,10 +27990,8 @@ wclc.com CNAME .
 wct-1.com CNAME .
 we-are-adot.com CNAME .
 we-assist.io CNAME .
-weak-obeylore.xyz CNAME .
 wealthtrack-joel.ph CNAME .
 weamse.org CNAME .
-wean-bredfact.xyz CNAME .
 wearehearken.eu CNAME .
 wearemiq.com CNAME .
 weareqy.com CNAME .
@@ -28585,7 +28014,6 @@ webaccess-alert.com CNAME .
 webads.eu CNAME .
 webads.nl CNAME .
 webantenna.info CNAME .
-webbrol.com CNAME .
 webcammictest.com CNAME .
 webcastmetrics.com CNAME .
 webchat.vica.gov.sg CNAME .
@@ -28647,7 +28075,6 @@ webstatsdomain.org CNAME .
 webstore.vn CNAME .
 webtechsurvey.com CNAME .
 webterren.com CNAME .
-webtoolbrowser.com CNAME .
 webtools.co CNAME .
 webtools.com CNAME .
 webtools.net CNAME .
@@ -28719,7 +28146,6 @@ whatismyip.click CNAME .
 whatracker.net CNAME .
 whatrocks.co CNAME .
 whatrunswhere.com CNAME .
-whatsann.com CNAME .
 whatsappvideostatuss.ph CNAME .
 wheeloffortunecasino.com CNAME .
 wheelzgames.de CNAME .
@@ -28805,8 +28231,6 @@ wildwoodcasino.net CNAME .
 wildz.de CNAME .
 wildzcasino-suomi.com CNAME .
 wildzcasinos.net CNAME .
-will-side-weed.xyz CNAME .
-willbile-gyms.xyz CNAME .
 williamhill.com CNAME .
 williamhillcasino.com CNAME .
 wilsongroup.in CNAME .
@@ -28825,7 +28249,6 @@ winbaycasino.de CNAME .
 winbetcasino.io CNAME .
 winbetscasino.com CNAME .
 wincasinos.nl CNAME .
-wind-cragblur.xyz CNAME .
 wind0ws.net CNAME .
 windcreekcasino.com CNAME .
 windettacasino.io CNAME .
@@ -28834,7 +28257,6 @@ windowsmp.ru CNAME .
 windowsupdate-cdn.com CNAME .
 winds11.site CNAME .
 windsecure.ru CNAME .
-windycreekbc.pro CNAME .
 winenfejar.com CNAME .
 winesnmore.net CNAME .
 winfest.de CNAME .
@@ -28879,7 +28301,6 @@ wiredplus.com CNAME .
 wiremo.co CNAME .
 wisdom-inspire.xin CNAME .
 wiselystarting.com CNAME .
-wisemateboth.xyz CNAME .
 wisemo.com CNAME .
 wisepops.com CNAME .
 wisepops.net CNAME .
@@ -28903,7 +28324,6 @@ wlkpa.cn CNAME .
 wlpinnaclesports.eacdn.com CNAME .
 wlwidget.ru CNAME .
 wo685.com CNAME .
-wolfbill-rope.xyz CNAME .
 wolfycasino.com CNAME .
 wololo.net CNAME .
 womenwan.com CNAME .
@@ -28917,14 +28337,12 @@ wooricasinos.info CNAME .
 woorimart.vip CNAME .
 woorise.com CNAME .
 wootric.com CNAME .
-word-notcolt.xyz CNAME .
 wordstream.com CNAME .
 wordtracker.com CNAME .
 workarea.com CNAME .
 workcomposer.com CNAME .
 worker-net.com CNAME .
 workingatcompanyinfo.nl CNAME .
-workmane-seem.xyz CNAME .
 workscasinogo.com CNAME .
 workshop-email-tracking.com CNAME .
 workshopcommunitycraft.com CNAME .
@@ -29013,9 +28431,6 @@ www-fifa.qpon CNAME .
 www-fifa.sbs CNAME .
 www-fifa.work CNAME .
 www-fifa.xin CNAME .
-www-kapitall.click CNAME .
-www-kapitall.xyz CNAME .
-www.googletagmanager.com CNAME .
 wwwv-roblox.co CNAME .
 wx.xwjqr.com CNAME .
 wx4.casino CNAME .
@@ -29023,7 +28438,6 @@ wxadserve.xyz CNAME .
 wxmbiu.com CNAME .
 wxwidgets.org CNAME .
 wyattmattersshow.com CNAME .
-wylkpznq.xyz CNAME .
 wymegp.com CNAME .
 wynncasino777.com CNAME .
 wyolotto.com CNAME .
@@ -29044,7 +28458,6 @@ x2casino.online CNAME .
 x39p.top CNAME .
 x3casino.online CNAME .
 x41.casino CNAME .
-x4z8qv.lat CNAME .
 x500.casino CNAME .
 x5x.casino CNAME .
 x666.casino CNAME .
@@ -29103,7 +28516,6 @@ xiaomiworld.vn CNAME .
 xiaoyuanzuqiu.cn CNAME .
 xiaoyutiao.com CNAME .
 xiaozhen.com CNAME .
-xiazaixitong8.com CNAME .
 xibao100.com CNAME .
 xilele.com CNAME .
 xiniuz.com CNAME .
@@ -29299,7 +28711,6 @@ yiiwoo.com CNAME .
 yijia2009.com CNAME .
 yijifen.com CNAME .
 yildizkocluk.com CNAME .
-yimg.jp CNAME .
 yin1.zgpingshu.com CNAME .
 yinijc.com CNAME .
 yinooo.com CNAME .
@@ -29341,8 +28752,6 @@ youku.com CNAME .
 youlaimf.com CNAME .
 youmi.net CNAME .
 younity.com CNAME .
-younusrealestate.com CNAME .
-your-duty-cube.xyz CNAME .
 youradexchange.com CNAME .
 yourbrand.com CNAME .
 yourchain.info CNAME .
@@ -29413,7 +28822,6 @@ zamplus.com CNAME .
 zamsino.casino CNAME .
 zanalytics.vip CNAME .
 zantainet.com CNAME .
-zanyyewuh.pro CNAME .
 zapiermail.com CNAME .
 zapr.in CNAME .
 zapto.org CNAME .
@@ -29582,7 +28990,6 @@ zic0.casino CNAME .
 ziffdavis.com CNAME .
 zigpoll.com CNAME .
 zikanalytics.com CNAME .
-zimbra-metadata.com CNAME .
 zimbrastat.com CNAME .
 zimpler-casinos.fi CNAME .
 zimplercasinos.pro CNAME .
@@ -29609,7 +29016,6 @@ zma11.casino CNAME .
 zma12.casino CNAME .
 zma14.casino CNAME .
 zma9.casino CNAME .
-zmailanalytics.com CNAME .
 zmctrack.net CNAME .
 zms.zalando.com CNAME .
 znctrack.net CNAME .
@@ -29623,7 +29029,6 @@ zohoinsights-crm.com CNAME .
 zohoinsights.com CNAME .
 zohoinsights.eu CNAME .
 zohostratus.eu CNAME .
-zone-pour-too.xyz CNAME .
 zonecasinonow.com CNAME .
 zonnebloem.nl CNAME .
 zonnevlecht.nl CNAME .
@@ -29637,7 +29042,6 @@ zoomd.com CNAME .
 zoomeye.ai CNAME .
 zoominfo.co CNAME .
 zoominfo.com CNAME .
-zoredaye.com CNAME .
 zorpia.com CNAME .
 zotabetcasino.org CNAME .
 zotabox.com CNAME .
@@ -29666,7 +29070,6 @@ zx6.casino CNAME .
 zxr.casino CNAME .
 zya.me CNAME .
 zymro.com CNAME .
-zynaris.io CNAME .
 zync-stream.com CNAME .
 zynga.com CNAME .
 zyngapoker.com CNAME .
