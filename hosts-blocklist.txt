@@ -5337,6 +5337,7 @@
 0.0.0.0 aliceadsl.fr
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.ru
 0.0.0.0 alightmtion.com
 0.0.0.0 alignedconsultants.com
 0.0.0.0 alikunlun.com
@@ -5671,6 +5672,7 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gigyahosting1.com
 0.0.0.0 analytics.global.sky.com
+0.0.0.0 analytics.google.com
 0.0.0.0 analytics.greenhost.net
 0.0.0.0 analytics.groupoffice.net
 0.0.0.0 analytics.htmedia.in
@@ -6030,6 +6032,7 @@
 0.0.0.0 aplicacionesjgonzalez.cl
 0.0.0.0 aplikacii.com
 0.0.0.0 aplikasigerhanatoto1.com
+0.0.0.0 aplus-sdk.alibaba-inc.com
 0.0.0.0 aplus.aliexpress.com
 0.0.0.0 aplusmovingandstorage.com
 0.0.0.0 apluspermits.com
@@ -6352,6 +6355,7 @@
 0.0.0.0 asciinema.org
 0.0.0.0 ascoin.pl
 0.0.0.0 asdsocial.pt
+0.0.0.0 ase.aidcgroup.net
 0.0.0.0 ase.com
 0.0.0.0 asemafor.cl
 0.0.0.0 asendergroup.com
@@ -6391,6 +6395,7 @@
 0.0.0.0 assethc.com
 0.0.0.0 assets-cdn.starapps.studio
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.cengage.com
 0.0.0.0 assets.contently.com
 0.0.0.0 assets.context.ly
@@ -6436,6 +6441,8 @@
 0.0.0.0 at-config.sensic.net
 0.0.0.0 at.cylex.de
 0.0.0.0 at98.com
+0.0.0.0 atanx.alicdn.com
+0.0.0.0 atanx2.alicdn.com
 0.0.0.0 atas.io
 0.0.0.0 atatus.com
 0.0.0.0 atdata.com
@@ -10710,6 +10717,7 @@
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 cdn.stream.schibsted.media
 0.0.0.0 cdn.stroeerdigitalgroup.de
+0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.trustindex.io
 0.0.0.0 cdn.usefathom.com
@@ -13495,6 +13503,7 @@
 0.0.0.0 dynalias.org
 0.0.0.0 dynamic-tracking.com
 0.0.0.0 dynamic-yield.com
+0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamiccasino198.com
 0.0.0.0 dynamiccasino215.com
 0.0.0.0 dynamiccasino270.com
@@ -15800,6 +15809,7 @@
 0.0.0.0 glympse.com
 0.0.0.0 glyph.medium.com
 0.0.0.0 gm99.com
+0.0.0.0 gma.alicdn.com
 0.0.0.0 gma1.com
 0.0.0.0 gmads.net
 0.0.0.0 gmailpva.com
@@ -15944,6 +15954,7 @@
 0.0.0.0 googleadmob.com
 0.0.0.0 googleads-cn.com
 0.0.0.0 googleads.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
@@ -16147,6 +16158,7 @@
 0.0.0.0 gtm.reflect.app
 0.0.0.0 gtm.vanmoof.com
 0.0.0.0 gtminet.net
+0.0.0.0 gtmsdd.alicdn.com
 0.0.0.0 gtmucs.cn
 0.0.0.0 gtr96.casino
 0.0.0.0 gtranslate.io
@@ -22270,6 +22282,7 @@
 0.0.0.0 pagbets.casino
 0.0.0.0 page-stats.de
 0.0.0.0 page.link
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagechoice.com
 0.0.0.0 pagechoice.net
 0.0.0.0 pagefly.io
@@ -24234,6 +24247,7 @@
 0.0.0.0 reqtube.com
 0.0.0.0 requestmetrics.com
 0.0.0.0 rereddit.com
+0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 research-survey.com
 0.0.0.0 research.net
 0.0.0.0 researchintel.com
@@ -24694,6 +24708,7 @@
 0.0.0.0 s.flocdn.com
 0.0.0.0 s.id
 0.0.0.0 s.on-device.com
+0.0.0.0 s.pinimg.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 s.w.org
@@ -25152,7 +25167,6 @@
 0.0.0.0 sentry.bunq.com
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.invoicing.co
-0.0.0.0 sentry.io
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.odysee.tv
@@ -26320,6 +26334,7 @@
 0.0.0.0 static-addtoany.com
 0.0.0.0 static-dscn.net
 0.0.0.0 static-eu.payments-amazon.com
+0.0.0.0 static.criteo.net
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 static.g.ppstream.com
 0.0.0.0 static.ichehome.com
@@ -26387,6 +26402,7 @@
 0.0.0.0 stats.forensic-architecture.org
 0.0.0.0 stats.framasoft.org
 0.0.0.0 stats.freedom.nl
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.gouv.mc
 0.0.0.0 stats.ideanote.io
 0.0.0.0 stats.ivpn.net
@@ -26978,6 +26994,7 @@
 0.0.0.0 tagmanager.top
 0.0.0.0 tagrpd.de
 0.0.0.0 tags-eu.tiqcdn.com
+0.0.0.0 tags.creativecdn.com
 0.0.0.0 tags.nationwide.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tagtic.cn
@@ -29493,6 +29510,7 @@
 0.0.0.0 www-fifa.sbs
 0.0.0.0 www-fifa.work
 0.0.0.0 www-fifa.xin
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 wwwv-roblox.co
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 wx4.casino

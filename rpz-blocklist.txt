@@ -5337,6 +5337,7 @@ alibaba-inc.com CNAME .
 aliceadsl.fr CNAME .
 alicloudapi.com CNAME .
 alida.com CNAME .
+aliexpress.ru CNAME .
 alightmtion.com CNAME .
 alignedconsultants.com CNAME .
 alikunlun.com CNAME .
@@ -5671,6 +5672,7 @@ analytics.gandi.net CNAME .
 analytics.getshogun.com CNAME .
 analytics.gigyahosting1.com CNAME .
 analytics.global.sky.com CNAME .
+analytics.google.com CNAME .
 analytics.greenhost.net CNAME .
 analytics.groupoffice.net CNAME .
 analytics.htmedia.in CNAME .
@@ -6030,6 +6032,7 @@ apkpure.net CNAME .
 aplicacionesjgonzalez.cl CNAME .
 aplikacii.com CNAME .
 aplikasigerhanatoto1.com CNAME .
+aplus-sdk.alibaba-inc.com CNAME .
 aplus.aliexpress.com CNAME .
 aplusmovingandstorage.com CNAME .
 apluspermits.com CNAME .
@@ -6352,6 +6355,7 @@ asatoe.co CNAME .
 asciinema.org CNAME .
 ascoin.pl CNAME .
 asdsocial.pt CNAME .
+ase.aidcgroup.net CNAME .
 ase.com CNAME .
 asemafor.cl CNAME .
 asendergroup.com CNAME .
@@ -6391,6 +6395,7 @@ assessmentevaluationreport.com CNAME .
 assethc.com CNAME .
 assets-cdn.starapps.studio CNAME .
 assets.adobedtm.com CNAME .
+assets.alicdn.com CNAME .
 assets.cengage.com CNAME .
 assets.contently.com CNAME .
 assets.context.ly CNAME .
@@ -6436,6 +6441,8 @@ at-band-camp.net CNAME .
 at-config.sensic.net CNAME .
 at.cylex.de CNAME .
 at98.com CNAME .
+atanx.alicdn.com CNAME .
+atanx2.alicdn.com CNAME .
 atas.io CNAME .
 atatus.com CNAME .
 atdata.com CNAME .
@@ -10710,6 +10717,7 @@ cdn.speedcurve.com CNAME .
 cdn.static.zdbb.net CNAME .
 cdn.stream.schibsted.media CNAME .
 cdn.stroeerdigitalgroup.de CNAME .
+cdn.taboola.com CNAME .
 cdn.tagcommander.com CNAME .
 cdn.trustindex.io CNAME .
 cdn.usefathom.com CNAME .
@@ -13495,6 +13503,7 @@ dynalias.net CNAME .
 dynalias.org CNAME .
 dynamic-tracking.com CNAME .
 dynamic-yield.com CNAME .
+dynamic.criteo.com CNAME .
 dynamiccasino198.com CNAME .
 dynamiccasino215.com CNAME .
 dynamiccasino270.com CNAME .
@@ -15800,6 +15809,7 @@ glutoes.com CNAME .
 glympse.com CNAME .
 glyph.medium.com CNAME .
 gm99.com CNAME .
+gma.alicdn.com CNAME .
 gma1.com CNAME .
 gmads.net CNAME .
 gmailpva.com CNAME .
@@ -15944,6 +15954,7 @@ google-analytics.com CNAME .
 googleadmob.com CNAME .
 googleads-cn.com CNAME .
 googleads.com CNAME .
+googleads.g.doubleclick.net CNAME .
 googleadservices-cn.com CNAME .
 googleadservices.com CNAME .
 googleanalytics.com CNAME .
@@ -16147,6 +16158,7 @@ gtm.oasisfeng.com CNAME .
 gtm.reflect.app CNAME .
 gtm.vanmoof.com CNAME .
 gtminet.net CNAME .
+gtmsdd.alicdn.com CNAME .
 gtmucs.cn CNAME .
 gtr96.casino CNAME .
 gtranslate.io CNAME .
@@ -22270,6 +22282,7 @@ pafetik.com CNAME .
 pagbets.casino CNAME .
 page-stats.de CNAME .
 page.link CNAME .
+pagead2.googlesyndication.com CNAME .
 pagechoice.com CNAME .
 pagechoice.net CNAME .
 pagefly.io CNAME .
@@ -24234,6 +24247,7 @@ reputon.com CNAME .
 reqtube.com CNAME .
 requestmetrics.com CNAME .
 rereddit.com CNAME .
+res-odx.op-mobile.opera.com CNAME .
 research-survey.com CNAME .
 research.net CNAME .
 researchintel.com CNAME .
@@ -24694,6 +24708,7 @@ s.dsqjkc.com CNAME .
 s.flocdn.com CNAME .
 s.id CNAME .
 s.on-device.com CNAME .
+s.pinimg.com CNAME .
 s.skimresources.com CNAME .
 s.swiftypecdn.com CNAME .
 s.w.org CNAME .
@@ -25152,7 +25167,6 @@ sentry.bazo.dk CNAME .
 sentry.bunq.com CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.invoicing.co CNAME .
-sentry.io CNAME .
 sentry.justwatch.com CNAME .
 sentry.matrix.org CNAME .
 sentry.odysee.tv CNAME .
@@ -26320,6 +26334,7 @@ stathat.com CNAME .
 static-addtoany.com CNAME .
 static-dscn.net CNAME .
 static-eu.payments-amazon.com CNAME .
+static.criteo.net CNAME .
 static.flv.uuzuonline.com CNAME .
 static.g.ppstream.com CNAME .
 static.ichehome.com CNAME .
@@ -26387,6 +26402,7 @@ stats.foodwatch.org CNAME .
 stats.forensic-architecture.org CNAME .
 stats.framasoft.org CNAME .
 stats.freedom.nl CNAME .
+stats.g.doubleclick.net CNAME .
 stats.gouv.mc CNAME .
 stats.ideanote.io CNAME .
 stats.ivpn.net CNAME .
@@ -26978,6 +26994,7 @@ tagman.britishairways.com CNAME .
 tagmanager.top CNAME .
 tagrpd.de CNAME .
 tags-eu.tiqcdn.com CNAME .
+tags.creativecdn.com CNAME .
 tags.nationwide.com CNAME .
 tagsrvcs.com CNAME .
 tagtic.cn CNAME .
@@ -29493,6 +29510,7 @@ www-fifa.qpon CNAME .
 www-fifa.sbs CNAME .
 www-fifa.work CNAME .
 www-fifa.xin CNAME .
+www.googletagmanager.com CNAME .
 wwwv-roblox.co CNAME .
 wx.xwjqr.com CNAME .
 wx4.casino CNAME .
