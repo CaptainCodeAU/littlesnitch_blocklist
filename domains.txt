@@ -5451,6 +5451,7 @@ alibabacam.ph
 aliceadsl.fr
 alicloudapi.com
 alida.com
+aliexpress.ru
 alightmtion.com
 alignedconsultants.com
 alikunlun.com
@@ -5795,6 +5796,7 @@ analytics.gandi.net
 analytics.getshogun.com
 analytics.gigyahosting1.com
 analytics.global.sky.com
+analytics.google.com
 analytics.greenhost.net
 analytics.groupoffice.net
 analytics.htmedia.in
@@ -6163,6 +6165,7 @@ apkpure.net
 aplicacionesjgonzalez.cl
 aplikacii.com
 aplikasigerhanatoto1.com
+aplus-sdk.alibaba-inc.com
 aplus.aliexpress.com
 aplusmovingandstorage.com
 apluspermits.com
@@ -6488,6 +6491,7 @@ asatoe.co
 asciinema.org
 ascoin.pl
 asdsocial.pt
+ase.aidcgroup.net
 ase.com
 asemafor.cl
 asendergroup.com
@@ -6529,6 +6533,7 @@ assessmentevaluationreport.com
 assethc.com
 assets-cdn.starapps.studio
 assets.adobedtm.com
+assets.alicdn.com
 assets.cengage.com
 assets.contently.com
 assets.context.ly
@@ -6578,6 +6583,8 @@ at-config.sensic.net
 at-investimentos.ao
 at.cylex.de
 at98.com
+atanx.alicdn.com
+atanx2.alicdn.com
 atas.io
 atatus.com
 atcivated.win
@@ -10943,6 +10950,7 @@ cdn.speedcurve.com
 cdn.static.zdbb.net
 cdn.stream.schibsted.media
 cdn.stroeerdigitalgroup.de
+cdn.taboola.com
 cdn.tagcommander.com
 cdn.trustindex.io
 cdn.usefathom.com
@@ -13854,6 +13862,7 @@ dynalias.net
 dynalias.org
 dynamic-tracking.com
 dynamic-yield.com
+dynamic.criteo.com
 dynamiccasino198.com
 dynamiccasino215.com
 dynamiccasino270.com
@@ -16275,6 +16284,7 @@ glutoes.com
 glympse.com
 glyph.medium.com
 gm99.com
+gma.alicdn.com
 gma1.com
 gmads.net
 gmailpva.com
@@ -16420,6 +16430,7 @@ google-analytics.com
 googleadmob.com
 googleads-cn.com
 googleads.com
+googleads.g.doubleclick.net
 googleadservices-cn.com
 googleadservices.com
 googleanalytics.com
@@ -16633,6 +16644,7 @@ gtm.oasisfeng.com
 gtm.reflect.app
 gtm.vanmoof.com
 gtminet.net
+gtmsdd.alicdn.com
 gtmucs.cn
 gtr96.casino
 gtranslate.io
@@ -23040,6 +23052,7 @@ pagamentos-bahia.com
 pagbets.casino
 page-stats.de
 page.link
+pagead2.googlesyndication.com
 pageb.uk
 pagechoice.com
 pagechoice.net
@@ -25046,6 +25059,7 @@ repuso.com
 reputon.com
 requestmetrics.com
 rereddit.com
+res-odx.op-mobile.opera.com
 research-survey.com
 research.net
 researchintel.com
@@ -25539,6 +25553,7 @@ s.dsqjkc.com
 s.flocdn.com
 s.id
 s.on-device.com
+s.pinimg.com
 s.skimresources.com
 s.swiftypecdn.com
 s.w.org
@@ -26020,7 +26035,6 @@ sentry.bazo.dk
 sentry.bunq.com
 sentry.hq.citizenlab.co
 sentry.invoicing.co
-sentry.io
 sentry.justwatch.com
 sentry.matrix.org
 sentry.odysee.tv
@@ -27251,6 +27265,7 @@ stathat.com
 static-addtoany.com
 static-dscn.net
 static-eu.payments-amazon.com
+static.criteo.net
 static.flv.uuzuonline.com
 static.g.ppstream.com
 static.ichehome.com
@@ -27321,6 +27336,7 @@ stats.foodwatch.org
 stats.forensic-architecture.org
 stats.framasoft.org
 stats.freedom.nl
+stats.g.doubleclick.net
 stats.gouv.mc
 stats.ideanote.io
 stats.ivpn.net
@@ -27931,6 +27947,7 @@ tagman.britishairways.com
 tagmanager.top
 tagrpd.de
 tags-eu.tiqcdn.com
+tags.creativecdn.com
 tags.nationwide.com
 tagsrvcs.com
 tagtic.cn
@@ -30622,6 +30639,7 @@ www-fifa.sbs
 www-fifa.work
 www-fifa.xin
 www-robloxk.com
+www.googletagmanager.com
 www2-facebook.com
 wwwrobloxcomredeem.com
 wwwv-roblox.co
