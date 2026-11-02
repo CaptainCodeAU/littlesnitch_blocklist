@@ -5839,6 +5839,7 @@
 *.alicloudapi.com
 *.alida.com
 *.alie.kr
+*.aliexpress.ru
 *.alightmtion.com
 *.alignedconsultants.com
 *.aligra.net
@@ -6215,6 +6216,7 @@
 *.analytics.getshogun.com
 *.analytics.gigyahosting1.com
 *.analytics.global.sky.com
+*.analytics.google.com
 *.analytics.greenhost.net
 *.analytics.groupoffice.net
 *.analytics.htmedia.in
@@ -6611,6 +6613,7 @@
 *.aplicacionesjgonzalez.cl
 *.aplikacii.com
 *.aplikasigerhanatoto1.com
+*.aplus-sdk.alibaba-inc.com
 *.aplus.aliexpress.com
 *.aplusmovingandstorage.com
 *.apluspermits.com
@@ -6970,6 +6973,7 @@
 *.ascoin.pl
 *.asdfafadafg.online
 *.asdsocial.pt
+*.ase.aidcgroup.net
 *.ase.com
 *.asemafor.cl
 *.asendergroup.com
@@ -7017,6 +7021,7 @@
 *.assethc.com
 *.assets-cdn.starapps.studio
 *.assets.adobedtm.com
+*.assets.alicdn.com
 *.assets.cengage.com
 *.assets.contently.com
 *.assets.context.ly
@@ -7068,6 +7073,8 @@
 *.at.cylex.de
 *.at19.net
 *.at98.com
+*.atanx.alicdn.com
+*.atanx2.alicdn.com
 *.atas.io
 *.atatus.com
 *.atcivated.win
@@ -11824,6 +11831,7 @@
 *.cdn.static.zdbb.net
 *.cdn.stream.schibsted.media
 *.cdn.stroeerdigitalgroup.de
+*.cdn.taboola.com
 *.cdn.tagcommander.com
 *.cdn.trustindex.io
 *.cdn.usefathom.com
@@ -15098,6 +15106,7 @@
 *.dynalias.org
 *.dynamic-tracking.com
 *.dynamic-yield.com
+*.dynamic.criteo.com
 *.dynamiccasino198.com
 *.dynamiccasino215.com
 *.dynamiccasino270.com
@@ -17887,6 +17896,7 @@
 *.glympse.com
 *.glyph.medium.com
 *.gm99.com
+*.gma.alicdn.com
 *.gma1.com
 *.gmads.net
 *.gmailpva.com
@@ -18051,6 +18061,7 @@
 *.googleadmob.com
 *.googleads-cn.com
 *.googleads.com
+*.googleads.g.doubleclick.net
 *.googleadservices-cn.com
 *.googleadservices.com
 *.googleanalytics.com
@@ -18304,6 +18315,7 @@
 *.gtm.spotandtango.com
 *.gtm.vanmoof.com
 *.gtminet.net
+*.gtmsdd.alicdn.com
 *.gtmucs.cn
 *.gtr96.casino
 *.gtranslate.io
@@ -25678,6 +25690,7 @@
 *.pagbets.casino
 *.page-stats.de
 *.page.link
+*.pagead2.googlesyndication.com
 *.pageb.uk
 *.pagechoice.com
 *.pagechoice.net
@@ -28033,6 +28046,7 @@
 *.requestmetrics.com
 *.requitytrack.com
 *.rereddit.com
+*.res-odx.op-mobile.opera.com
 *.research-secure.com
 *.research-survey.com
 *.research.net
@@ -28670,6 +28684,7 @@
 *.s.flocdn.com
 *.s.id
 *.s.on-device.com
+*.s.pinimg.com
 *.s.skimresources.com
 *.s.swiftypecdn.com
 *.s.w.org
@@ -30662,6 +30677,7 @@
 *.static-addtoany.com
 *.static-dscn.net
 *.static-eu.payments-amazon.com
+*.static.criteo.net
 *.static.flv.uuzuonline.com
 *.static.g.ppstream.com
 *.static.kinghost.com
@@ -30732,6 +30748,7 @@
 *.stats.forensic-architecture.org
 *.stats.framasoft.org
 *.stats.freedom.nl
+*.stats.g.doubleclick.net
 *.stats.gouv.mc
 *.stats.ideanote.io
 *.stats.ivpn.net
@@ -31459,6 +31476,7 @@
 *.tagmanager.top
 *.tagrpd.de
 *.tags-eu.tiqcdn.com
+*.tags.creativecdn.com
 *.tagsiq.verivox.de
 *.tagsrvcs.com
 *.tagtic.cn
@@ -34663,6 +34681,7 @@
 *.www-fifa.sbs
 *.www-fifa.work
 *.www-fifa.xin
+*.www.googletagmanager.com
 *.www2-facebook.com
 *.wwwrobloxcomredeem.com
 *.wwwv-roblox.co
