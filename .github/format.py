@@ -1,19 +1,22 @@
-# Description: This module will extract and sort first-party domains from a blocklist file and update all blocklists with the extracted and sorted domains.
-
 import re
 import json
 import sys
 
 import pyfiglet
 
+
 def extract_and_sort_domains(blocklist_file):
     with open(blocklist_file, 'r') as f:
         blocklist = f.read()
 
-    # Extract first-party domains using regular expression
-    domains = re.findall(r'(?<=\|\|)([a-zA-Z0-9.-]+)(?=\^|$)(?!.*\$)', blocklist)
-    domains = [domain for domain in domains if not domain.startswith('@@')]  # Remove whitelist domains
+    # Extract first-party domains using regular expression.
+    # (?<!@@\|\|) rejects whitelist entries (@@||domain^);
+    # (?<=\|\|) anchors the capture after ||;
+    # (?=\^|$) requires the domain to end at ^ or end-of-file;
+    # (?!.*\$) skips options lines containing $ modifiers.
+    domains = re.findall(r'(?<!@@\|\|)(?<=\|\|)([a-zA-Z0-9.-]+)(?=\^|$)(?!.*\$)', blocklist)
     return sorted(domains)
+
 
 def update_blocklists(blocklist_file='blocklist.txt'):
     domains_file = 'domains.txt'
@@ -60,7 +63,8 @@ def update_blocklists(blocklist_file='blocklist.txt'):
         }
         json.dump(file_data, f, indent=4)
 
-    print(pyfiglet.figlet_format(f"First-party domains extracted and saved to all blocklists."))
+    print(pyfiglet.figlet_format("First-party domains extracted and saved to all blocklists."))
+
 
 if __name__ == '__main__':
     try:
